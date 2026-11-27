@@ -1,0 +1,1124 @@
+path,source,label,split,group,multi_berry,width,height,md5,phash
+dataset/FreshStrawberry/FreshStrawberry (1).jpg,mendeley,good,train,mendeley-good-053,0,1603,2078,80c8e0a39fb88ab53cf9fdddf0ea2784,aba7b442d20dd237
+dataset/FreshStrawberry/FreshStrawberry (10).jpg,mendeley,good,train,mendeley-good-054,0,1217,2012,922c3afec2f982675a551f6cd5e02f14,bf00b5a5f076f430
+dataset/FreshStrawberry/FreshStrawberry (100).jpg,mendeley,good,train,mendeley-good-055,1,3004,2865,3a5b45bb97fec5a270d507876e178eca,fac48c2b8866b5b5
+dataset/FreshStrawberry/FreshStrawberry (101).jpg,mendeley,good,train,mendeley-good-055,1,2890,2723,2e1b1a33fb0c3cccb66b090939a8acd1,fa14f1ba8450cdcb
+dataset/FreshStrawberry/FreshStrawberry (102).jpg,mendeley,good,train,mendeley-good-055,1,2779,2614,f0ec6b4abf4538539307ca7f4bba7f3d,fba5f2528815cb4a
+dataset/FreshStrawberry/FreshStrawberry (103).jpg,mendeley,good,train,mendeley-good-055,1,2317,2499,74800585560b52f3a7cdfb5d48db964e,ebf0e029b5d4a552
+dataset/FreshStrawberry/FreshStrawberry (104).jpg,mendeley,good,train,mendeley-good-055,1,3396,2926,5551a8a043b54d3201bb82d1b4ce825c,eed683f8d43d0a42
+dataset/FreshStrawberry/FreshStrawberry (105).jpg,mendeley,good,train,mendeley-good-055,1,2633,2553,76d216896299a4632d7159a41b364c49,ed5282e9e519d89c
+dataset/FreshStrawberry/FreshStrawberry (106).jpg,mendeley,good,train,mendeley-good-055,1,2773,2796,fba32dbd12d5b911d0bc2ba9e20f4bad,acc1c4e3da37981d
+dataset/FreshStrawberry/FreshStrawberry (107).jpg,mendeley,good,train,mendeley-good-055,1,2715,3000,d96bea4e7b454baa2ae575d37997d0a9,bf9d8762e08c4393
+dataset/FreshStrawberry/FreshStrawberry (108).jpg,mendeley,good,train,mendeley-good-055,1,2850,2534,d92335b60e64ab42dc7545c94b9c2983,ab7ce80093faa729
+dataset/FreshStrawberry/FreshStrawberry (109).jpg,mendeley,good,train,mendeley-good-055,1,3100,2526,659da8ee36b0f4a900ed141bf78ea28b,ea26c2f48c43ae9d
+dataset/FreshStrawberry/FreshStrawberry (11).jpg,mendeley,good,train,mendeley-good-054,0,1507,2064,bf9c49592d5a427f63f971fe22f6df6e,be4ad8f5a932e031
+dataset/FreshStrawberry/FreshStrawberry (110).jpg,mendeley,good,train,mendeley-good-055,1,2108,2197,94d2bf2f9efcf254bfc922f8122b12ad,ebd2c52ae446968d
+dataset/FreshStrawberry/FreshStrawberry (111).jpg,mendeley,good,train,mendeley-good-055,1,2282,2124,ad51bfd3353e4d75297eed33932d078a,bbe29fa0ce148f48
+dataset/FreshStrawberry/FreshStrawberry (112).jpg,mendeley,good,train,mendeley-good-055,1,2240,2233,9358bd4a0f0b5dddafcb28d694b800c8,ba8c9c6e912be487
+dataset/FreshStrawberry/FreshStrawberry (113).jpg,mendeley,good,train,mendeley-good-055,1,1729,2117,87613fceb3276629eb075783bf9009b5,fda9c57ce0628781
+dataset/FreshStrawberry/FreshStrawberry (114).jpg,mendeley,good,test,mendeley-good-056,1,1914,1901,edb3bed7634ca0361393e546c5c96bf2,b68b83ccf540d2e9
+dataset/FreshStrawberry/FreshStrawberry (115).jpg,mendeley,good,test,mendeley-good-056,1,2794,3159,33ca896b1b473de8a1cd902a5f1684ea,bf6a8c26d2a585e4
+dataset/FreshStrawberry/FreshStrawberry (116).jpg,mendeley,good,test,mendeley-good-056,1,2603,3125,c0e045f66707c08232882396a4883c9b,bf428f67c727a084
+dataset/FreshStrawberry/FreshStrawberry (117).jpg,mendeley,good,test,mendeley-good-056,1,2596,2831,c5ba47512660912d414fea81cf0aad95,be49915bc8b497d0
+dataset/FreshStrawberry/FreshStrawberry (118).jpg,mendeley,good,test,mendeley-good-056,1,2410,2488,4ab88a38b0571e3e0b69aebcfa04f43e,be12915a4bad9791
+dataset/FreshStrawberry/FreshStrawberry (119).jpg,mendeley,good,test,mendeley-good-056,1,2282,2931,e078786b139be8909fe6f76ce387d4d2,ad12f5bfcb08a690
+dataset/FreshStrawberry/FreshStrawberry (12).jpg,mendeley,good,train,mendeley-good-054,0,1606,2000,311f72c987aadde028f995a7db7fc72e,ea8ae0bfa53c8670
+dataset/FreshStrawberry/FreshStrawberry (120).jpg,mendeley,good,test,mendeley-good-056,1,2377,2532,fa8a64f071c8e22336b160295ab2a5e2,fcf0951e8232199f
+dataset/FreshStrawberry/FreshStrawberry (121).jpg,mendeley,good,test,mendeley-good-056,1,2516,2111,2ff060977c8a45f2ac44e441f1586ed0,fa7a811dcc96e4c4
+dataset/FreshStrawberry/FreshStrawberry (122).jpg,mendeley,good,test,mendeley-good-056,1,2558,2118,d6b3d1945129f011c1347dbbe195ad04,f979c03e8eccd032
+dataset/FreshStrawberry/FreshStrawberry (123).jpg,mendeley,good,test,mendeley-good-056,1,1768,1965,dd63653d8be917f17deab1094c4330d7,be21e48d889e9a7a
+dataset/FreshStrawberry/FreshStrawberry (125).jpg,mendeley,good,test,mendeley-good-056,1,1733,1884,4ca96f60b00765de67699fc7d9b33fa2,ef1dc162a2b29569
+dataset/FreshStrawberry/FreshStrawberry (126).jpg,mendeley,good,test,mendeley-good-056,1,1717,2233,c3c28735cdb2fb80d8f9808f077dc42c,fa27ca68c1bd8619
+dataset/FreshStrawberry/FreshStrawberry (127).jpg,mendeley,good,test,mendeley-good-056,1,2791,3378,f1fb14f9edd41c203036b936beb5eef3,ea4c85a69771d8a5
+dataset/FreshStrawberry/FreshStrawberry (128).jpg,mendeley,good,train,mendeley-good-057,1,2766,2377,ab68042403a499bb7e2387963bbd9651,e314c60d1eda9b87
+dataset/FreshStrawberry/FreshStrawberry (129).jpg,mendeley,good,train,mendeley-good-057,1,2733,2359,5798315c41e667e9790baa41b65befa2,eb10c40f9ce6938f
+dataset/FreshStrawberry/FreshStrawberry (13).jpg,mendeley,good,train,mendeley-good-054,0,1351,1691,7bc3c22538942edb04a368a54f00bc08,bfc8b0abd0a5c315
+dataset/FreshStrawberry/FreshStrawberry (130).jpg,mendeley,good,train,mendeley-good-057,1,2670,2294,9dd470efd06d11d594e4e92c32669369,eb1ec40990e29f9b
+dataset/FreshStrawberry/FreshStrawberry (131).jpg,mendeley,good,train,mendeley-good-057,1,2564,2412,55f5bcfab25cc4bf9c15a0901fd2dfab,ee19c4cb91c69db0
+dataset/FreshStrawberry/FreshStrawberry (132).jpg,mendeley,good,train,mendeley-good-057,1,2794,2342,fe221b7365f86fbbc8275e9b4b82598d,ea32911b93c6c9f8
+dataset/FreshStrawberry/FreshStrawberry (133).jpg,mendeley,good,train,mendeley-good-057,1,2806,2579,f75028fee94387f36c622614333fe090,f80785ea9a4dcbb0
+dataset/FreshStrawberry/FreshStrawberry (134).jpg,mendeley,good,train,mendeley-good-057,1,2160,2537,287fb121bcd814a5b8943d2cb5cdcb40,ea74c71e94f13621
+dataset/FreshStrawberry/FreshStrawberry (135).jpg,mendeley,good,train,mendeley-good-057,1,2484,2771,81f9bbd64c239e0163ce79eed47f573f,eb30c41f9660379b
+dataset/FreshStrawberry/FreshStrawberry (136).jpg,mendeley,good,train,mendeley-good-057,1,1942,2212,32dc47f3229c811ba905be69e8add4ce,fa36c2599f60c38a
+dataset/FreshStrawberry/FreshStrawberry (137).jpg,mendeley,good,train,mendeley-good-057,1,1875,2321,d033f1e647db0685079e0502aa3f5488,eb26c92ac0bdb619
+dataset/FreshStrawberry/FreshStrawberry (138).jpg,mendeley,good,train,mendeley-good-057,1,1877,2037,d5775e1474309f3b20d0f55810edd7e1,ef1cc1e087f29368
+dataset/FreshStrawberry/FreshStrawberry (139).jpg,mendeley,good,train,mendeley-good-057,1,2090,1901,979ec8ea43e9a1ee23a4a6604be9ac88,ef3ee083c024f7c4
+dataset/FreshStrawberry/FreshStrawberry (14).jpg,mendeley,good,train,mendeley-good-054,0,1365,1701,b923230490f0bf6f27c3a66635305fc8,bf80b5adf035d016
+dataset/FreshStrawberry/FreshStrawberry (140).jpg,mendeley,good,train,mendeley-good-057,1,2844,2189,f4c48cbb130aa1073466fbd5e171eed6,fae49972c1cb86c1
+dataset/FreshStrawberry/FreshStrawberry (141).jpg,mendeley,good,train,mendeley-good-057,1,3148,2492,8d5e34c3b97cb4b36b449bfdcea799f1,fab49968c4ce86e1
+dataset/FreshStrawberry/FreshStrawberry (142).jpg,mendeley,good,train,mendeley-good-057,1,2514,2796,d134e679d019cc0d9c91aa7df5ab4378,add8f01bc30195cf
+dataset/FreshStrawberry/FreshStrawberry (143).jpg,mendeley,good,train,mendeley-good-057,1,3053,2715,75b938ccbf5169c562ef1e9af06bd720,ef68e45b8d0cd289
+dataset/FreshStrawberry/FreshStrawberry (144).jpg,mendeley,good,train,mendeley-good-057,1,3241,2768,2d2b3c3ab5d0e736dbcd6ffba4a9a5a8,b7b1f25b810dd2c2
+dataset/FreshStrawberry/FreshStrawberry (145).jpg,mendeley,good,train,mendeley-good-057,1,2745,2831,e9f0e6f79f85646aa5ac5e8babd3ddd6,ee61e4f6861ba984
+dataset/FreshStrawberry/FreshStrawberry (146).jpg,mendeley,good,train,mendeley-good-057,1,2363,2315,5bc74e69e047264817852ac71f60fcf2,bee1b4568a29d926
+dataset/FreshStrawberry/FreshStrawberry (147).jpg,mendeley,good,train,mendeley-good-057,1,2570,2817,cdd980f1c4adadc5fb04b6bc70ebcbe5,bd7198b3da1682a5
+dataset/FreshStrawberry/FreshStrawberry (148).jpg,mendeley,good,train,mendeley-good-057,1,2759,2746,801e6a084aa50ee1e803569d4a3eee79,ad4186fbcac2a3b4
+dataset/FreshStrawberry/FreshStrawberry (149).jpg,mendeley,good,train,mendeley-good-057,1,2348,2507,3b79d4d81bb6f4f24383854a78ceec63,be469df0cc12d4a9
+dataset/FreshStrawberry/FreshStrawberry (15).jpg,mendeley,good,train,mendeley-good-054,0,1411,1951,b32edf160806495f56ab6019a5546e4f,be0ab0bdb134f036
+dataset/FreshStrawberry/FreshStrawberry (150).jpg,mendeley,good,train,mendeley-good-057,1,2919,2846,95aa705678ea5e01524dd8bb4b785afd,eb05c3cf99a0ac72
+dataset/FreshStrawberry/FreshStrawberry (151).jpg,mendeley,good,train,mendeley-good-058,0,2136,2203,941327b10e26c8f4571ec8546bd6d6f9,ba0bf1edc0b49592
+dataset/FreshStrawberry/FreshStrawberry (152).jpg,mendeley,good,train,mendeley-good-058,0,1616,1896,68d881e44a060733416fce4e1607bf45,ad8ff63c8f808585
+dataset/FreshStrawberry/FreshStrawberry (153).jpg,mendeley,good,train,mendeley-good-058,0,1617,1863,86569614fa5ceee7c3e78727e272d0f0,ef1a90b191c3daca
+dataset/FreshStrawberry/FreshStrawberry (154).jpg,mendeley,good,train,mendeley-good-058,0,1379,2093,b2bc34daf9ffd66a2bc37384d02597d8,af839237e2f2d038
+dataset/FreshStrawberry/FreshStrawberry (155).jpg,mendeley,good,train,mendeley-good-058,0,1666,2419,63df2732d2f3d2b8c916c5e06148d188,ea96e53182c3c27b
+dataset/FreshStrawberry/FreshStrawberry (156).jpg,mendeley,good,train,mendeley-good-058,0,1445,2205,6f0d6dac5b3c9cdb54537361d62d0b44,bd9bc0f8cb40ce07
+dataset/FreshStrawberry/FreshStrawberry (157).jpg,mendeley,good,train,mendeley-good-058,0,1380,2053,30e24a293328b317b1b958c8c5bed045,afc3f46f92c2c302
+dataset/FreshStrawberry/FreshStrawberry (158).jpg,mendeley,good,train,mendeley-good-058,0,1383,2004,61f7e729f88b8d19122ff330a57933e3,adcdfc7d80ccc484
+dataset/FreshStrawberry/FreshStrawberry (159).jpg,mendeley,good,train,mendeley-good-058,0,1469,2236,9328838dd897edf4b5ca61dc40cc81c4,bf87f03600d0ed2d
+dataset/FreshStrawberry/FreshStrawberry (16).jpg,mendeley,good,train,mendeley-good-054,0,1294,1892,88ec2ee79cad20caeb837d8507746fb8,aa0af0fda3b0f434
+dataset/FreshStrawberry/FreshStrawberry (160).jpg,mendeley,good,train,mendeley-good-058,0,1319,2011,dd9dca7cd2425e3eb72e9ba349d1a395,bd8df01c80d8cdec
+dataset/FreshStrawberry/FreshStrawberry (161).jpg,mendeley,good,test,mendeley-good-059,0,1270,1892,52e132b1ea8614a0353ee0b93860e236,abccf416c01fa13d
+dataset/FreshStrawberry/FreshStrawberry (162).jpg,mendeley,good,test,mendeley-good-059,0,1135,2320,587917bd9fd6f08989e42e4fc3f0e08c,ab93f10cc66c4f58
+dataset/FreshStrawberry/FreshStrawberry (163).jpg,mendeley,good,test,mendeley-good-059,0,1259,2023,d16da7d6b242e85095698f739f897cf4,ab89f506c26ee03d
+dataset/FreshStrawberry/FreshStrawberry (164).jpg,mendeley,good,test,mendeley-good-059,0,812,1525,da9ef6eada3ff0d6a11aeaf5c2fed4b5,e981f415c04fcf1b
+dataset/FreshStrawberry/FreshStrawberry (165).jpg,mendeley,good,test,mendeley-good-059,0,1221,2116,8456ca71f8824888faf034752b78a751,ba8bf0bd80c4e566
+dataset/FreshStrawberry/FreshStrawberry (166).jpg,mendeley,good,test,mendeley-good-059,0,1119,1843,feee7138150c38fd21acacdcbb03672a,af83b0ffd2d8c300
+dataset/FreshStrawberry/FreshStrawberry (167).jpg,mendeley,good,test,mendeley-good-059,0,1205,2004,0aa8a09ca55fcf6398fd901a602b85bf,bec2f4b78092c19b
+dataset/FreshStrawberry/FreshStrawberry (168).jpg,mendeley,good,test,mendeley-good-059,0,1143,1779,ca53437f7672afb864f11b26c3907215,bf8bf2b7c1d08188
+dataset/FreshStrawberry/FreshStrawberry (169).jpg,mendeley,good,test,mendeley-good-059,0,1130,1883,d4011f94e265cfbf9ecb7f57beb35f67,af84f4d6d2d2c342
+dataset/FreshStrawberry/FreshStrawberry (17).jpg,mendeley,good,train,mendeley-good-054,0,1348,2007,99252ccc735559fe1f37fb35cf869c04,bf40d8b7e491e01e
+dataset/FreshStrawberry/FreshStrawberry (170).jpg,mendeley,good,test,mendeley-good-059,0,1085,2268,8d31e0c3e9fd5b8700f2a66f6c7a11e3,bf83f54f422f2181
+dataset/FreshStrawberry/FreshStrawberry (171).jpg,mendeley,good,test,mendeley-good-059,0,1312,2295,95a711bccce89931e2e3ce02f166571c,abc1b54de83f1107
+dataset/FreshStrawberry/FreshStrawberry (172).jpg,mendeley,good,test,mendeley-good-059,0,1050,2219,5bb4b0b8dc3e47fd325b6464290006d7,ea82f11f023e7b70
+dataset/FreshStrawberry/FreshStrawberry (173).jpg,mendeley,good,val,mendeley-good-060,1,4160,3120,7e6f214d6adb325d8abd1e52ed967a47,a24972da87b62d4b
+dataset/FreshStrawberry/FreshStrawberry (174).jpg,mendeley,good,val,mendeley-good-060,1,3120,4160,5dd60662af2ced041d91aaf5d85268c6,b0a8a723db46ee98
+dataset/FreshStrawberry/FreshStrawberry (175).jpg,mendeley,good,val,mendeley-good-060,1,3120,4160,043aeade5e4617e176bc3b1a7f403b60,bde7859fac419109
+dataset/FreshStrawberry/FreshStrawberry (176).jpg,mendeley,good,val,mendeley-good-060,1,3120,4160,7e5a3ef8e6747909ab58c5162f3d982d,fbb4d2a00fe6842b
+dataset/FreshStrawberry/FreshStrawberry (177).jpg,mendeley,good,val,mendeley-good-060,1,4160,3120,d0e2c499d3e485db5405afc7f0bcc460,beb298cf0d045ab3
+dataset/FreshStrawberry/FreshStrawberry (178).jpg,mendeley,good,val,mendeley-good-061,0,1261,2509,2c1068fe852def7dd8b8e0f2241d3951,eb83b11f687d80d4
+dataset/FreshStrawberry/FreshStrawberry (179).jpg,mendeley,good,val,mendeley-good-061,0,1191,2337,336b96e4581ec48d6354932bc8a1c39c,ea91f51cc03f2335
+dataset/FreshStrawberry/FreshStrawberry (18).jpg,mendeley,good,train,mendeley-good-054,0,1283,1995,7b8c26b0c93cd98f9456a265c3207736,be0af0b5a1bce470
+dataset/FreshStrawberry/FreshStrawberry (180).jpg,mendeley,good,val,mendeley-good-061,0,1029,2079,aa31398b9e1651128b996c4d6897ac49,eb9ff59382604e60
+dataset/FreshStrawberry/FreshStrawberry (181).jpg,mendeley,good,val,mendeley-good-061,0,1061,2236,7c49293f52fd56175a72c3c56f4b1309,fb83f505613f821c
+dataset/FreshStrawberry/FreshStrawberry (182).jpg,mendeley,good,val,mendeley-good-061,0,1088,2621,0dbdca646bafb514718e9d72e0c2f562,be90bc4abc3e8247
+dataset/FreshStrawberry/FreshStrawberry (183).jpg,mendeley,good,val,mendeley-good-061,0,1031,2165,5782af3bd222f35bbbad259cadc95c5f,bf80f44a403db2d7
+dataset/FreshStrawberry/FreshStrawberry (184).jpg,mendeley,good,val,mendeley-good-061,0,1110,2325,1f191b2d6df876d86a361b9661940897,ab81f541623f9a9c
+dataset/FreshStrawberry/FreshStrawberry (185).jpg,mendeley,good,val,mendeley-good-061,0,1151,2128,69d51143f989ca4344733a4399b70512,bf91b501c0c6e8f5
+dataset/FreshStrawberry/FreshStrawberry (186).jpg,mendeley,good,val,mendeley-good-061,0,1205,2014,15986782d36cad2dcc206c38790a04e8,be84bebf8047414b
+dataset/FreshStrawberry/FreshStrawberry (187).jpg,mendeley,good,val,mendeley-good-061,0,1273,2177,f009d5d124d5811c8e799377ebac3147,afc1f4dfc00d8d0c
+dataset/FreshStrawberry/FreshStrawberry (188).jpg,mendeley,good,val,mendeley-good-061,0,1313,2232,ab9223770fd12a76e57e50c5fd1107c6,ea92f61e803dad29
+dataset/FreshStrawberry/FreshStrawberry (189).jpg,mendeley,good,val,mendeley-good-061,0,1314,2347,960601e3d33764562cf762dafc1dafdb,abd6f40c642dc3d8
+dataset/FreshStrawberry/FreshStrawberry (19).jpg,mendeley,good,train,mendeley-good-054,0,1350,2049,bcb5722b732e41b8005553015f3961d1,af0ab0bda33c9534
+dataset/FreshStrawberry/FreshStrawberry (190).jpg,mendeley,good,val,mendeley-good-061,0,1251,2132,b1282c6124334b53c8c97e904d0ca7be,bfc3f60ac03ed058
+dataset/FreshStrawberry/FreshStrawberry (191).jpg,mendeley,good,val,mendeley-good-061,0,1341,2330,ac939d4dd6169abff7289602f9793627,afc9f101903c97b6
+dataset/FreshStrawberry/FreshStrawberry (192).jpg,mendeley,good,val,mendeley-good-061,0,1225,2306,bfcb74963a284990339e8fb7685f06c7,ea82f41ed23d2f24
+dataset/FreshStrawberry/FreshStrawberry (193).jpg,mendeley,good,val,mendeley-good-061,0,1370,2650,9c3582d17f817b34b6b349d15b2e5785,be96f44ec264a1f0
+dataset/FreshStrawberry/FreshStrawberry (194).jpg,mendeley,good,val,mendeley-good-061,0,1276,2267,5c32df34d10abc15ad93778bfc8fe6fe,bec2f50bc02fc05e
+dataset/FreshStrawberry/FreshStrawberry (195).jpg,mendeley,good,train,mendeley-good-053,0,1901,2495,6a30e6bd8c572191af8bd38c45635fda,ab81b08ad1dbf26a
+dataset/FreshStrawberry/FreshStrawberry (196).jpg,mendeley,good,train,mendeley-good-053,0,1519,2151,d15677cdff4b9c32167a2e2dbe9d9588,fa4aa14ed7e0e321
+dataset/FreshStrawberry/FreshStrawberry (197).jpg,mendeley,good,train,mendeley-good-053,0,1521,2245,0271703ac4a748cade6b693795a1dcec,ed81e46fc21e8734
+dataset/FreshStrawberry/FreshStrawberry (198).jpg,mendeley,good,train,mendeley-good-053,0,1686,2384,86b396af1770d1aca16021ca2a8cb826,bbc2f30191b3b81e
+dataset/FreshStrawberry/FreshStrawberry (199).jpg,mendeley,good,train,mendeley-good-053,0,1526,2222,8ef0b4af03ab711fc861a74b6b0274a3,bf83b003c06ce9fc
+dataset/FreshStrawberry/FreshStrawberry (2).jpg,mendeley,good,train,mendeley-good-053,0,1724,2437,09cd450d1609b996d15b0bac16f1e751,bbb3b54bd0ad800d
+dataset/FreshStrawberry/FreshStrawberry (20).jpg,mendeley,good,train,mendeley-good-054,0,1426,1963,e8b259be42e5dda8521e202fbf90c431,ae4af0ede134a174
+dataset/FreshStrawberry/FreshStrawberry (200).jpg,mendeley,good,train,mendeley-good-053,0,1546,2009,79decef3adffb10088db9b1ae97fcb52,aee8968cd10dad2e
+dataset/FreshStrawberry/FreshStrawberry (21).jpg,mendeley,good,train,mendeley-good-054,0,1435,1611,1a6c9ae2b0071dab340e9ce90acc0859,af8db535f03ed010
+dataset/FreshStrawberry/FreshStrawberry (22).jpg,mendeley,good,train,mendeley-good-054,0,1561,1672,bfe6edbc8e0d8d9cce1ad0ea4359cf57,ab88f53df035e034
+dataset/FreshStrawberry/FreshStrawberry (23).jpg,mendeley,good,train,mendeley-good-054,0,1409,2075,8b7f9fc23b42e780d5db5960953b25b3,bf42d0a7a912d4b5
+dataset/FreshStrawberry/FreshStrawberry (24).jpg,mendeley,good,train,mendeley-good-054,0,1505,1930,b9ea9fdb6fea9e697497e54c37c4efdf,ba4ab5b5f01ed094
+dataset/FreshStrawberry/FreshStrawberry (25).jpg,mendeley,good,train,mendeley-good-054,0,1493,1884,258862df42b8f8f065b072d143424a47,bf80b0afb03d9516
+dataset/FreshStrawberry/FreshStrawberry (26).jpg,mendeley,good,train,mendeley-good-054,0,1490,2259,f9b976df726838e38af651a20fc97b2a,ff95a0c0c552c74b
+dataset/FreshStrawberry/FreshStrawberry (27).jpg,mendeley,good,train,mendeley-good-054,0,1404,2180,4a4af99665748db993f1d89ecfbdc944,aac2b4bff034d192
+dataset/FreshStrawberry/FreshStrawberry (28).jpg,mendeley,good,train,mendeley-good-054,0,1426,2209,37ae2d321d528fff87b95a572f0f117a,aecaf585d016c09f
+dataset/FreshStrawberry/FreshStrawberry (29).jpg,mendeley,good,train,mendeley-good-054,0,1261,2453,c60c8735541b787ac18195a4f89ac142,ae86f45e022c2f7c
+dataset/FreshStrawberry/FreshStrawberry (3).jpg,mendeley,good,train,mendeley-good-053,0,1765,2181,30204df252c56cbdf1168aa136acea8c,aec4b564d4349b1e
+dataset/FreshStrawberry/FreshStrawberry (30).jpg,mendeley,good,train,mendeley-good-054,0,1255,2081,4dfdca6edc90bdf552b3747f18c1ec58,bfc090abd317d832
+dataset/FreshStrawberry/FreshStrawberry (31).jpg,mendeley,good,train,mendeley-good-054,0,1382,2349,b277c17cabe6143382d59109cd176bd5,bec2b4f5d056c90a
+dataset/FreshStrawberry/FreshStrawberry (32).jpg,mendeley,good,train,mendeley-good-054,0,1581,3016,05bdcf6414c9b5295cb987254f54f389,bec4d44d080eed3d
+dataset/FreshStrawberry/FreshStrawberry (33).jpg,mendeley,good,train,mendeley-good-054,0,1773,2454,864a3ed4744c159d4a949289af14cfc1,eed4e00a85af9734
+dataset/FreshStrawberry/FreshStrawberry (34).jpg,mendeley,good,val,mendeley-good-061,0,1216,2332,cb44058c997aa78bf1b1bae25789dfe7,afc0f409483fc17e
+dataset/FreshStrawberry/FreshStrawberry (35).jpg,mendeley,good,val,mendeley-good-061,0,1373,2380,a0a101740df8b244430a216330c906e1,ab90d40e6e2dc397
+dataset/FreshStrawberry/FreshStrawberry (36).jpg,mendeley,good,val,mendeley-good-061,0,1316,2208,556030a0b514bfdb9c423097f3029cb6,abc3f1096a26e09f
+dataset/FreshStrawberry/FreshStrawberry (37).jpg,mendeley,good,val,mendeley-good-061,0,1427,2467,8b4d27affe2b8717b149a727575902e5,abd2f40ce43dc178
+dataset/FreshStrawberry/FreshStrawberry (38).jpg,mendeley,good,val,mendeley-good-061,0,1360,2179,a8b3ef5e0b1bcd0001be7a72f3c54ecd,bfc3f20bc03ed058
+dataset/FreshStrawberry/FreshStrawberry (39).jpg,mendeley,good,val,mendeley-good-061,0,1330,2364,650a3ccb75d53a34950a13fca6ac23ea,ebc9f109903e87a6
+dataset/FreshStrawberry/FreshStrawberry (4).jpg,mendeley,good,train,mendeley-good-053,0,1714,2486,06273003b38e674b45c3b0ffba9bf6e1,ab81b509d06be2fc
+dataset/FreshStrawberry/FreshStrawberry (40).jpg,mendeley,good,val,mendeley-good-061,0,1341,2410,3ed2e0d318b8908eaae8c8d69d58c06a,ab83f41ec23d2734
+dataset/FreshStrawberry/FreshStrawberry (41).jpg,mendeley,good,val,mendeley-good-061,0,1394,2637,815bdace9bb60793b7ae2631e6ad36db,be9ef40fc26481f0
+dataset/FreshStrawberry/FreshStrawberry (42).jpg,mendeley,good,train,mendeley-good-053,0,1807,2532,99ea028f6660b5dfe45004b6a9ca9d2d,eb81b082d1dbf26a
+dataset/FreshStrawberry/FreshStrawberry (43).jpg,mendeley,good,train,mendeley-good-053,0,1462,2225,473cb4e636c6cbf7ebe57b1d90680fc5,facaa14ed3a0b135
+dataset/FreshStrawberry/FreshStrawberry (44).jpg,mendeley,good,train,mendeley-good-053,0,1495,2245,33186d18c4f568b582acbcecf6a049cd,ad81e46fc21c9736
+dataset/FreshStrawberry/FreshStrawberry (45).jpg,mendeley,good,train,mendeley-good-053,0,1687,2372,45a0cbfdc190e1ea2a8fccc1c14be2c5,bbc2f2019993b81f
+dataset/FreshStrawberry/FreshStrawberry (46).jpg,mendeley,good,train,mendeley-good-053,0,1494,2195,e3f50043a8d450c70a48e9d88a8fb500,bf83b003c06de8fc
+dataset/FreshStrawberry/FreshStrawberry (47).jpg,mendeley,good,train,mendeley-good-053,0,1491,2029,aa1e76d8a1d1ceb9b49688972fde060b,aee8b48cd10dad2e
+dataset/FreshStrawberry/FreshStrawberry (48).jpg,mendeley,good,train,mendeley-good-053,0,1592,2125,3486080eb0ca43976a7b2bb694f817ee,aba7b443d285d227
+dataset/FreshStrawberry/FreshStrawberry (49).jpg,mendeley,good,train,mendeley-good-053,0,1428,2117,1f92de008c8e85bde2f8272317bbd388,abe7b586d206821f
+dataset/FreshStrawberry/FreshStrawberry (5).jpg,mendeley,good,train,mendeley-good-053,0,1764,2660,40113c44f99aae2d01d2f367911c2adb,b58792b5d1e0c3aa
+dataset/FreshStrawberry/FreshStrawberry (50).jpg,mendeley,good,train,mendeley-good-053,0,1782,2239,c73e4866097abaa084e5d2e507deccbb,bbc8d24a9535ce34
+dataset/FreshStrawberry/FreshStrawberry (51).jpg,mendeley,good,train,mendeley-good-053,0,1970,2570,1fb1f9bf75de00b6c81403a0c13b2b75,eb85f554c04b871e
+dataset/FreshStrawberry/FreshStrawberry (52).jpg,mendeley,good,train,mendeley-good-053,0,1773,2319,67b0773d5a77e6ca8d4e9aec96e23400,be19b55bc0c8e0cd
+dataset/FreshStrawberry/FreshStrawberry (53).jpg,mendeley,good,train,mendeley-good-053,0,2321,1951,cd07d8f32378955c36399d4888e4cec7,eb9bb98794d89248
+dataset/FreshStrawberry/FreshStrawberry (54).jpg,mendeley,good,train,mendeley-good-053,0,1513,2248,9c4c49b7a10153268d3a6960ec03f28c,eba3b687820ce36c
+dataset/FreshStrawberry/FreshStrawberry (55).jpg,mendeley,good,train,mendeley-good-053,0,2046,2441,36f9ab36882d0699f16cc1f457406bb7,efc6f04e800dbd34
+dataset/FreshStrawberry/FreshStrawberry (56).jpg,mendeley,good,train,mendeley-good-053,0,1783,2459,77435efd9039b8e15be81966bc63b1f7,bb93b549d0ed801d
+dataset/FreshStrawberry/FreshStrawberry (57).jpg,mendeley,good,train,mendeley-good-053,0,1685,2189,e4e1c7430efb503c237ec4b18061c59c,aec4b564d4259b1e
+dataset/FreshStrawberry/FreshStrawberry (58).jpg,mendeley,good,train,mendeley-good-053,0,1725,2495,d6970560b0cc8f1196ab0f0433881c9d,ab91b509d069e1fc
+dataset/FreshStrawberry/FreshStrawberry (59).jpg,mendeley,good,train,mendeley-good-053,0,1995,2410,7effee1ede385e6cdee7f3a69d23bdaa,ade0f625cc06da5a
+dataset/FreshStrawberry/FreshStrawberry (6).jpg,mendeley,good,train,mendeley-good-053,0,1509,1769,2dda87acec7537e00462527973082280,ef92b53b90c39099
+dataset/FreshStrawberry/FreshStrawberry (60).jpg,mendeley,good,train,mendeley-good-053,0,1885,2804,84da9863d4434bbf52d93d1da8821694,b7879296c1e1c1ad
+dataset/FreshStrawberry/FreshStrawberry (61).jpg,mendeley,good,train,mendeley-good-053,0,1988,2476,9451478a0b2beb5648b8a1d2b21bbf37,af07a503c2c1f379
+dataset/FreshStrawberry/FreshStrawberry (62).jpg,mendeley,good,train,mendeley-good-053,0,1742,2575,a0af9e1fddf94a267e941d2c06591627,ade9b5a1c2c4c94b
+dataset/FreshStrawberry/FreshStrawberry (63).jpg,mendeley,good,train,mendeley-good-053,0,1923,2602,4c649cc76e6956543c3fac03f6f71ccd,ee84b4cbc36c9b30
+dataset/FreshStrawberry/FreshStrawberry (64).jpg,mendeley,good,train,mendeley-good-053,0,2671,3189,0c53587a8232f1c3079db2ff0a7ef1cb,eb84cd4b3979825a
+dataset/FreshStrawberry/FreshStrawberry (65).jpg,mendeley,good,train,mendeley-good-053,0,2688,2698,f1fef14fc81e55880533b270b8f8ac31,ab87e45292399b2d
+dataset/FreshStrawberry/FreshStrawberry (66).jpg,mendeley,good,train,mendeley-good-053,0,1501,2008,f0acf82c5ba6f743747ab85c7f483d1a,eeaeb535b43580a4
+dataset/FreshStrawberry/FreshStrawberry (67).jpg,mendeley,good,train,mendeley-good-053,0,1745,2117,fa437aebbe2e812d767182b7a844cb37,eaca8d4bc242d27e
+dataset/FreshStrawberry/FreshStrawberry (68).jpg,mendeley,good,train,mendeley-good-053,0,1576,1790,5c0ba3e39e89a83043e1544ef5bd82e0,af8ab53f92d19098
+dataset/FreshStrawberry/FreshStrawberry (69).jpg,mendeley,good,train,mendeley-good-053,0,1296,1420,f9d75df3a9e1e63f5e6a6588f2b8f173,ab899d0dc04fc15f
+dataset/FreshStrawberry/FreshStrawberry (7).jpg,mendeley,good,train,mendeley-good-053,0,1208,1377,50aebf7703a86699ed2b3c8e66a66edc,eb898d0dc04bca5f
+dataset/FreshStrawberry/FreshStrawberry (70).jpg,mendeley,good,train,mendeley-good-054,0,1917,2954,72f9c94cc463da39bc2e136f26a5e2f0,fa9ce114a57a417a
+dataset/FreshStrawberry/FreshStrawberry (71).jpg,mendeley,good,train,mendeley-good-054,0,1519,2706,42395d14562f0211234eaf0eab979dc1,bb85e153415ac6ba
+dataset/FreshStrawberry/FreshStrawberry (72).jpg,mendeley,good,train,mendeley-good-054,0,2213,2548,1c7fbda50be90626fbed3cc4c44b19d4,ba09b17fd7389a10
+dataset/FreshStrawberry/FreshStrawberry (73).jpg,mendeley,good,train,mendeley-good-054,0,1370,2342,64bd75064e44429bfecc74099a7dcbd0,bfc3b0f5c192c093
+dataset/FreshStrawberry/FreshStrawberry (74).jpg,mendeley,good,train,mendeley-good-054,0,1472,2311,59afae592a7d87e1aaa00edde7a55f20,bfc2b6f5d056c042
+dataset/FreshStrawberry/FreshStrawberry (75).jpg,mendeley,good,train,mendeley-good-054,0,1298,1980,2d50804a39cc744a1f942ddea36f999f,afcab4a5fc12c093
+dataset/FreshStrawberry/FreshStrawberry (76).jpg,mendeley,good,train,mendeley-good-054,0,1295,1990,781a2531ba65946ca382926965b4880b,bb89d0f5c11acb19
+dataset/FreshStrawberry/FreshStrawberry (77).jpg,mendeley,good,train,mendeley-good-054,0,1354,2008,5c4dd540fa6ee7010ea7cc19ebaa2bcf,af0fd4b5d330c2d0
+dataset/FreshStrawberry/FreshStrawberry (78).jpg,mendeley,good,train,mendeley-good-054,0,1406,1956,94e8efda19bfad8129a0524c35e3bb73,ae86f4ffc05cc340
+dataset/FreshStrawberry/FreshStrawberry (79).jpg,mendeley,good,train,mendeley-good-054,0,1332,1833,fe5e8bac70136425d93d201ed944f2dd,ab8af5b5d0768312
+dataset/FreshStrawberry/FreshStrawberry (8).jpg,mendeley,good,train,mendeley-good-053,0,1724,3162,4b116e246be10afcb6e38caf6353b1c4,ba94e115617bc1ba
+dataset/FreshStrawberry/FreshStrawberry (80).jpg,mendeley,good,train,mendeley-good-054,0,1604,2523,ad49406537f7f6a1ac4df7444baa16e3,bfc2d44e082e6d3c
+dataset/FreshStrawberry/FreshStrawberry (81).jpg,mendeley,good,train,mendeley-good-054,0,1245,2378,f97428ab21217365b8a4606fc2f6598b,bec0f445c80f293f
+dataset/FreshStrawberry/FreshStrawberry (82).jpg,mendeley,good,train,mendeley-good-054,0,1481,2596,e31a985269e7cc2ea85f309eeeffa59e,ab91f50b007eed34
+dataset/FreshStrawberry/FreshStrawberry (83).jpg,mendeley,good,train,mendeley-good-054,0,1267,1870,6d304d6827c207f56153d3b3a12a9321,ba83f0ffc190c2f0
+dataset/FreshStrawberry/FreshStrawberry (84).jpg,mendeley,good,train,mendeley-good-054,0,1325,2024,26dd8047d1e337898621296b42a1fd68,ba8bf0bd9170d1d0
+dataset/FreshStrawberry/FreshStrawberry (85).jpg,mendeley,good,train,mendeley-good-054,0,1463,2082,437dd09395a8972c0e028ef5c1da4cca,ea0aa0bdb334d5f0
+dataset/FreshStrawberry/FreshStrawberry (86).jpg,mendeley,good,train,mendeley-good-054,0,1509,2063,b103546b30152704545c7fb2e09d059b,ab8af4bdc2b09790
+dataset/FreshStrawberry/FreshStrawberry (87).jpg,mendeley,good,train,mendeley-good-054,0,1324,1830,106af5c166b8a224b546256245b00616,aa8ef63c80908fbb
+dataset/FreshStrawberry/FreshStrawberry (88).jpg,mendeley,good,train,mendeley-good-055,1,2797,2759,05462e064462e2b58d9860d1e3393973,ee1fc79eb14034a1
+dataset/FreshStrawberry/FreshStrawberry (89).jpg,mendeley,good,train,mendeley-good-055,1,1808,2369,c9cc5459d332baadc4e8f7d95f584a03,fa9695b8b14ad258
+dataset/FreshStrawberry/FreshStrawberry (9).jpg,mendeley,good,train,mendeley-good-054,0,1662,2120,30d9414944eebe533da78a4e978d2394,bf60dcf5f431e004
+dataset/FreshStrawberry/FreshStrawberry (90).jpg,mendeley,good,train,mendeley-good-055,1,2613,2635,e13854904740e55330a7e693a977fed4,eb5a848dd8cae0c7
+dataset/FreshStrawberry/FreshStrawberry (91).jpg,mendeley,good,train,mendeley-good-055,1,2550,2512,a721cb0b4fbb5110bdbbd4a08420c8f9,e8b1c414bec4d34f
+dataset/FreshStrawberry/FreshStrawberry (92).jpg,mendeley,good,train,mendeley-good-055,1,2010,2021,a8d65b644507d84002734e8e1190493c,be80a55bd56af007
+dataset/FreshStrawberry/FreshStrawberry (93).jpg,mendeley,good,train,mendeley-good-055,1,2646,2736,8960059b03d5c37287a879b004607eb7,bfb2b042c06dce8d
+dataset/FreshStrawberry/FreshStrawberry (94).jpg,mendeley,good,train,mendeley-good-055,1,2214,2815,5ac3b81e439957b80ed8348c4c95dd3e,fae1960fa1585ad4
+dataset/FreshStrawberry/FreshStrawberry (95).jpg,mendeley,good,train,mendeley-good-055,1,2586,2826,2b3dda97b4db9e9ed23604f2382b362c,ed6287a5e51c721c
+dataset/FreshStrawberry/FreshStrawberry (96).jpg,mendeley,good,train,mendeley-good-055,1,2295,2425,bb457a1e1d74e739326d635986ddc139,fba68d41c08ac6b7
+dataset/FreshStrawberry/FreshStrawberry (97).jpg,mendeley,good,train,mendeley-good-055,1,1740,2555,53d86a6492b1d6229c1ba83e9946d6bf,e84a95a5c254dade
+dataset/FreshStrawberry/FreshStrawberry (98).jpg,mendeley,good,train,mendeley-good-055,1,2631,2716,1532b670a13360fe2ef75967b1c0b91d,fad98556c8a0c957
+dataset/FreshStrawberry/FreshStrawberry (99).jpg,mendeley,good,train,mendeley-good-055,1,3044,2676,fae60a46ebf212b40d4a67439af99975,fde2802dd465963a
+dataset/RottenStrawberry/RottenStrawberry (1).jpg,mendeley,damaged,train,mendeley-damaged-062,0,3000,4000,accb07de75c2a43a8f3d6a675bec8629,ee6e95954c92925c
+dataset/RottenStrawberry/RottenStrawberry (10).jpg,mendeley,damaged,val,mendeley-damaged-063,0,2084,2036,cb764e8a59cf803e8156134c69ee5030,afc0d23a7ac1259e
+dataset/RottenStrawberry/RottenStrawberry (100).jpg,mendeley,damaged,test,mendeley-damaged-064,0,2535,2212,957e2d82179edadb92595ffee8f748cf,be1bc2659e26389c
+dataset/RottenStrawberry/RottenStrawberry (101).jpg,mendeley,damaged,test,mendeley-damaged-064,0,2662,2416,356970ba94ab70726c008934b05e2472,be34c14fc5ec46b0
+dataset/RottenStrawberry/RottenStrawberry (102).jpg,mendeley,damaged,train,mendeley-damaged-065,1,3546,2709,b8e5acd1396c160d815aa14e2b3c562d,e6c39c3dd09591b2
+dataset/RottenStrawberry/RottenStrawberry (103).jpg,mendeley,damaged,train,mendeley-damaged-065,1,3252,2596,fb9966157b7512bba6c21a9cce46e3d4,b9609c97c4c35a5b
+dataset/RottenStrawberry/RottenStrawberry (104).jpg,mendeley,damaged,train,mendeley-damaged-065,1,3325,2568,77c4c8476a3972168265afebfea7a0a3,bbe0971fd883c924
+dataset/RottenStrawberry/RottenStrawberry (105).jpg,mendeley,damaged,train,mendeley-damaged-065,1,3625,2590,9f3d9a6c00d1aa6f9fc3d2c6ae220209,bb0fb4d0c3c8cb25
+dataset/RottenStrawberry/RottenStrawberry (106).jpg,mendeley,damaged,train,mendeley-damaged-065,1,4000,2863,984d1ade9eb3aee0c8b8c5322a679531,ca1eb3d3b4a441ad
+dataset/RottenStrawberry/RottenStrawberry (107).jpg,mendeley,damaged,train,mendeley-damaged-065,1,3853,2772,8255f7102e14e1b87d4056d5d7513a35,db86c4afa7581649
+dataset/RottenStrawberry/RottenStrawberry (108).jpg,mendeley,damaged,train,mendeley-damaged-065,1,3522,2936,63278a59363731eaced2169a5992a52a,fba6a169442a1f8e
+dataset/RottenStrawberry/RottenStrawberry (109).jpg,mendeley,damaged,train,mendeley-damaged-065,1,3079,2708,52e9e689d95afb2af351e5761cc6b5ad,ea97c4f88342cdb1
+dataset/RottenStrawberry/RottenStrawberry (11).jpg,mendeley,damaged,val,mendeley-damaged-063,0,2128,2137,68898b04ead03a26c530faa67cc1b92e,eac2973a7ac2648d
+dataset/RottenStrawberry/RottenStrawberry (110).jpg,mendeley,damaged,train,mendeley-damaged-065,1,3595,2653,f052f184b2279139a485f07388ab27bd,bd49e3ac8065973c
+dataset/RottenStrawberry/RottenStrawberry (111).jpg,mendeley,damaged,test,mendeley-damaged-066,1,3756,3067,a7e27e78e9b83e89e5a159d2f8b27575,ee0ecdf1cac1a462
+dataset/RottenStrawberry/RottenStrawberry (112).jpg,mendeley,damaged,test,mendeley-damaged-066,1,4112,2868,1d8d56b4fd2a345be0539137291a71bb,da749081a740efbb
+dataset/RottenStrawberry/RottenStrawberry (113).jpg,mendeley,damaged,test,mendeley-damaged-066,1,2811,3993,a5cf5ee394a05000d95b20b9edb79193,ea239616e3b5a9e0
+dataset/RottenStrawberry/RottenStrawberry (114).jpg,mendeley,damaged,test,mendeley-damaged-066,1,3120,4160,b7eb81450a8e52aa7ad354e52c39d05e,adf00dcbc13acd98
+dataset/RottenStrawberry/RottenStrawberry (115).jpg,mendeley,damaged,test,mendeley-damaged-066,1,3120,4160,dff1189997cbdbb11649b777585e7b0a,b9d3d029bc1392f4
+dataset/RottenStrawberry/RottenStrawberry (116).jpg,mendeley,damaged,test,mendeley-damaged-066,1,3120,4160,610136806f778fc301733bb58b83b37f,bb5bd029bc7090f4
+dataset/RottenStrawberry/RottenStrawberry (117).jpg,mendeley,damaged,test,mendeley-damaged-066,1,3120,4160,1766b14ddb5e4810265661dd2e3416d8,bbd390a9bc30d0f4
+dataset/RottenStrawberry/RottenStrawberry (118).jpg,mendeley,damaged,test,mendeley-damaged-066,1,3083,3985,cfcad3595175f3c4b611fab4412be7c5,bbdbd229e03cd094
+dataset/RottenStrawberry/RottenStrawberry (119).jpg,mendeley,damaged,test,mendeley-damaged-066,1,3120,4160,26def636e089a2ac396c94e3ca8ccf57,bb91d2a9e07c90d6
+dataset/RottenStrawberry/RottenStrawberry (12).jpg,mendeley,damaged,val,mendeley-damaged-063,0,2194,1741,f3b44da58ee4123c0a3dfc00b2621f00,ea1ac4669ae5958d
+dataset/RottenStrawberry/RottenStrawberry (120).jpg,mendeley,damaged,test,mendeley-damaged-066,1,3120,3171,9799aa4aecec25ab84f9d89cc26abeec,bb99b209f0acb156
+dataset/RottenStrawberry/RottenStrawberry (121).jpg,mendeley,damaged,test,mendeley-damaged-066,1,3099,3280,1652057d034f528671b6db4c14fd76c3,fa91f22b81a8f352
+dataset/RottenStrawberry/RottenStrawberry (122).jpg,mendeley,damaged,test,mendeley-damaged-066,1,3120,3266,25b4b4e5a588e8ca15c8141930b0a22d,fa1382bac7a8f650
+dataset/RottenStrawberry/RottenStrawberry (123).jpg,mendeley,damaged,test,mendeley-damaged-066,1,3120,2967,8219f0e1376776754d58b0f9b91b48d2,fa05e2ebc5a8d650
+dataset/RottenStrawberry/RottenStrawberry (124).jpg,mendeley,damaged,test,mendeley-damaged-066,1,3120,4160,c52f9727eb9bca7dc3a1e1c5503c8b41,adb08ed2d47ac691
+dataset/RottenStrawberry/RottenStrawberry (125).jpg,mendeley,damaged,train,mendeley-damaged-067,1,3043,1406,26912fe5f1c953e8832577a464b8738f,baf2dde1f6403209
+dataset/RottenStrawberry/RottenStrawberry (126).jpg,mendeley,damaged,train,mendeley-damaged-067,1,1910,3120,3177c616fd946e59862192690f4cfb88,e38d5a6c8d63a594
+dataset/RottenStrawberry/RottenStrawberry (127).jpg,mendeley,damaged,train,mendeley-damaged-067,1,1910,1885,69ef5f89ce2aef4d32fbdc843701c51d,be4cf82712f26466
+dataset/RottenStrawberry/RottenStrawberry (128).jpg,mendeley,damaged,train,mendeley-damaged-067,1,3371,3120,0e020ac4ea20c9129cc5a57bf5256965,ca38f0c3026eef87
+dataset/RottenStrawberry/RottenStrawberry (129).jpg,mendeley,damaged,train,mendeley-damaged-067,1,1193,3120,706253cb83e0fca8864e33bd12b3f542,bc979b97c9e0c01c
+dataset/RottenStrawberry/RottenStrawberry (13).jpg,mendeley,damaged,val,mendeley-damaged-063,0,3000,2717,6191bddabe9c418c64624149c81fa973,eac1853a5a617796
+dataset/RottenStrawberry/RottenStrawberry (130).jpg,mendeley,damaged,train,mendeley-damaged-067,1,1212,1721,8986b51f79433c39132dc7beef407865,fabc8541b0d64acb
+dataset/RottenStrawberry/RottenStrawberry (131).jpg,mendeley,damaged,train,mendeley-damaged-068,1,4160,3120,4b20bc5a9b265a9e4cc1bc524c5c5cd0,872fe80c88d8fcf1
+dataset/RottenStrawberry/RottenStrawberry (132).jpg,mendeley,damaged,train,mendeley-damaged-068,1,3373,3120,e76eb3aaeee01b324a5926f5ef9404c5,b235f1f3a5c0a14e
+dataset/RottenStrawberry/RottenStrawberry (133).jpg,mendeley,damaged,train,mendeley-damaged-068,1,4160,3120,581701247693bb1acad23dacd46d727d,965ae91e823e47e1
+dataset/RottenStrawberry/RottenStrawberry (134).jpg,mendeley,damaged,train,mendeley-damaged-068,1,4160,3120,71f22eb5244b030d53707c538c52a2f6,bf61ed688071d31c
+dataset/RottenStrawberry/RottenStrawberry (135).jpg,mendeley,damaged,train,mendeley-damaged-068,1,3120,4160,0e3dbb043c3ce0d6997644987aca8100,ac84b32951ecca9f
+dataset/RottenStrawberry/RottenStrawberry (136).jpg,mendeley,damaged,train,mendeley-damaged-068,1,3120,4160,f1eb20e017002b3e5862557b36811475,f6cb8946057b5a1c
+dataset/RottenStrawberry/RottenStrawberry (137).jpg,mendeley,damaged,train,mendeley-damaged-068,1,3120,4160,287561091a7bec20173c504dc4e24867,a8374a236eccd3b1
+dataset/RottenStrawberry/RottenStrawberry (138).jpg,mendeley,damaged,train,mendeley-damaged-068,1,3120,4160,ffc09e84f971d8f16d6425144aa506e3,fb2794e2b0e5305a
+dataset/RottenStrawberry/RottenStrawberry (139).jpg,mendeley,damaged,train,mendeley-damaged-068,1,3120,4160,8bfc367698a6f3aabd875373eb0fd870,ff46dce18165e811
+dataset/RottenStrawberry/RottenStrawberry (14).jpg,mendeley,damaged,val,mendeley-damaged-069,1,2913,3621,ed2c516bb31c49f3bb3827727805955e,ae4cb1374ee4c478
+dataset/RottenStrawberry/RottenStrawberry (140).jpg,mendeley,damaged,train,mendeley-damaged-068,1,3120,4160,be471238e111108a38fac1aaa398997b,a3eed289f4c2e434
+dataset/RottenStrawberry/RottenStrawberry (141).jpg,mendeley,damaged,train,mendeley-damaged-068,1,3120,4160,00022723b6814f440458f4ca07549ad9,f285d3f02d58da26
+dataset/RottenStrawberry/RottenStrawberry (142).jpg,mendeley,damaged,train,mendeley-damaged-068,1,4160,3120,0f1e11f1607ff92c6ec371c7e1d663b2,fc2ac3b485872fc8
+dataset/RottenStrawberry/RottenStrawberry (143).jpg,mendeley,damaged,train,mendeley-damaged-068,1,4160,3120,905f7a2abd35efcdd57a6dfd8ab9e508,fe2cc2a095c327ec
+dataset/RottenStrawberry/RottenStrawberry (144).jpg,mendeley,damaged,train,mendeley-damaged-068,1,4160,3120,d6691bae01a527f773409f4df7de337d,be33f0bcd460826d
+dataset/RottenStrawberry/RottenStrawberry (145).jpg,mendeley,damaged,train,mendeley-damaged-068,1,4160,3120,e096756e418b1d9d0c74d6b7ba8012a3,ae33f0bcc561846d
+dataset/RottenStrawberry/RottenStrawberry (146).jpg,mendeley,damaged,train,mendeley-damaged-068,1,3309,3104,0a19ed3a4b8c2cba1ddd76dab247340d,ea78aaa58106bfd8
+dataset/RottenStrawberry/RottenStrawberry (147).jpg,mendeley,damaged,train,mendeley-damaged-068,1,4160,3120,ae428e55e47894bb9a4c4c418e77d5d1,ee2fe12fc8807193
+dataset/RottenStrawberry/RottenStrawberry (148).jpg,mendeley,damaged,train,mendeley-damaged-068,1,4160,3120,877f8cedcfbcc22d3b6fd581770ccf5a,efe8e0db83ce6110
+dataset/RottenStrawberry/RottenStrawberry (149).jpg,mendeley,damaged,train,mendeley-damaged-068,1,4160,3120,5bcbe1d7fd61e048f2b3a5ad661e28b2,aa319f6fa14ca135
+dataset/RottenStrawberry/RottenStrawberry (15).jpg,mendeley,damaged,val,mendeley-damaged-069,1,2710,1836,48d05e89619ecec8437ca547275b0e85,feadc1498752878a
+dataset/RottenStrawberry/RottenStrawberry (150).jpg,mendeley,damaged,train,mendeley-damaged-068,1,4160,3120,d81aec777465e2eead79cde606008abd,aead9cf2184ae698
+dataset/RottenStrawberry/RottenStrawberry (151).jpg,mendeley,damaged,train,mendeley-damaged-070,0,1877,1621,533f2a28047ea6ac82522d5140c2ecc7,f89aa1d6875aac29
+dataset/RottenStrawberry/RottenStrawberry (152).jpg,mendeley,damaged,train,mendeley-damaged-070,0,4160,3120,54b4292c3ad2e6cb5f9a306c0de0cbba,b136ce99323631ce
+dataset/RottenStrawberry/RottenStrawberry (153).jpg,mendeley,damaged,train,mendeley-damaged-070,0,3172,2549,529ae8b2fac9a628c33e173c0ce2359b,feb881d586ca8ec1
+dataset/RottenStrawberry/RottenStrawberry (154).jpg,mendeley,damaged,train,mendeley-damaged-070,0,3275,2515,a6c8effcd896a0a24966a5ad4a5a774f,fae18615d85ac23b
+dataset/RottenStrawberry/RottenStrawberry (155).jpg,mendeley,damaged,train,mendeley-damaged-070,0,3025,2436,de0821321b54b18d8c1140757a769e40,b84b838d8d565477
+dataset/RottenStrawberry/RottenStrawberry (156).jpg,mendeley,damaged,train,mendeley-damaged-070,0,2683,2288,d989403afb5316a0a4a3619ffb11c6e5,f8cea19c954ad269
+dataset/RottenStrawberry/RottenStrawberry (157).jpg,mendeley,damaged,train,mendeley-damaged-070,0,2841,2212,ac8c3995e7ba59e4a5b70385152ad020,b8638095d79acf58
+dataset/RottenStrawberry/RottenStrawberry (158).jpg,mendeley,damaged,train,mendeley-damaged-070,0,3142,2379,e5f07ec8de25e0f89639d176ec191bf5,f0c7865a136b8b35
+dataset/RottenStrawberry/RottenStrawberry (159).jpg,mendeley,damaged,train,mendeley-damaged-070,0,4160,3120,724810d443d1006d2ee2aaaa5a763360,b376cc9930247373
+dataset/RottenStrawberry/RottenStrawberry (16).jpg,mendeley,damaged,val,mendeley-damaged-069,1,3066,3360,b3b814de7f916262ec91dc89288344ca,b8b0926ec959937a
+dataset/RottenStrawberry/RottenStrawberry (160).jpg,mendeley,damaged,train,mendeley-damaged-070,0,4160,3120,8ba3187171cd0123747aa2f87668b21f,bd3de2c2c281c1fc
+dataset/RottenStrawberry/RottenStrawberry (161).jpg,mendeley,damaged,train,mendeley-damaged-070,0,2943,2820,9b1160fa315754d16ed22bd63057bc32,fe38811cc2eacbc5
+dataset/RottenStrawberry/RottenStrawberry (162).jpg,mendeley,damaged,train,mendeley-damaged-070,0,3063,2586,80003ce9fe14303e0ecd41719ba81b8c,fa3c83d1944a9a6d
+dataset/RottenStrawberry/RottenStrawberry (163).jpg,mendeley,damaged,train,mendeley-damaged-070,0,3294,3025,629d376c4f3343fbf30ff699cbd614b0,f89887d59e6a5864
+dataset/RottenStrawberry/RottenStrawberry (164).jpg,mendeley,damaged,train,mendeley-damaged-070,0,3302,2883,7f64dc692746f32a91022b699848ca55,ea9d86d198629d66
+dataset/RottenStrawberry/RottenStrawberry (165).jpg,mendeley,damaged,train,mendeley-damaged-070,0,2600,2561,3be80d7847f2a27c2f3ed1bf4058675f,fa63858e9534dab0
+dataset/RottenStrawberry/RottenStrawberry (166).jpg,mendeley,damaged,train,mendeley-damaged-070,0,2593,2790,ea7a87e7b5601adc4f0e6964814e5856,b53bc8c0996d923e
+dataset/RottenStrawberry/RottenStrawberry (167).jpg,mendeley,damaged,train,mendeley-damaged-070,1,2725,2879,3e6b2cd4a012aabba237204ad79cb79f,b674d91bc0f3c189
+dataset/RottenStrawberry/RottenStrawberry (168).jpg,mendeley,damaged,train,mendeley-damaged-070,1,2606,2575,89d050d16309d09b1c9d9e103e566c30,ea1ee5e083899557
+dataset/RottenStrawberry/RottenStrawberry (169).jpg,mendeley,damaged,train,mendeley-damaged-071,0,2464,3095,97c3f68ac820e7b253cb22a092dedb3f,bf6ec0b087c13687
+dataset/RottenStrawberry/RottenStrawberry (17).jpg,mendeley,damaged,val,mendeley-damaged-069,1,2390,3608,9937abd4cf324c276d72f07f3e890914,aeca1c9d91b39a62
+dataset/RottenStrawberry/RottenStrawberry (170).jpg,mendeley,damaged,train,mendeley-damaged-071,0,3000,4000,f095a6ce23f04cbe2ede26b55f2e09ec,e561929a4a67939b
+dataset/RottenStrawberry/RottenStrawberry (171).jpg,mendeley,damaged,train,mendeley-damaged-071,0,2657,3069,bcff42754acb0b13e8f192a5db836595,e83895e199dac3c9
+dataset/RottenStrawberry/RottenStrawberry (172).jpg,mendeley,damaged,train,mendeley-damaged-071,0,2999,3279,d60b6f7f47b38ee7440390e4a2c7c0da,bf6dc03487c312c7
+dataset/RottenStrawberry/RottenStrawberry (173).jpg,mendeley,damaged,train,mendeley-damaged-071,0,2968,2637,1cbb1cb4d440b92e6fe070c044bdbb5a,e2b39945936c235d
+dataset/RottenStrawberry/RottenStrawberry (174).jpg,mendeley,damaged,train,mendeley-damaged-071,0,1635,2171,d01ab64c419bb6c94e87a994732f11a9,aa2d84d25b8b6337
+dataset/RottenStrawberry/RottenStrawberry (175).jpg,mendeley,damaged,train,mendeley-damaged-071,0,2934,3085,5c9068aa187903d45adfeae70af177c0,e2338567903e1abd
+dataset/RottenStrawberry/RottenStrawberry (176).jpg,mendeley,damaged,train,mendeley-damaged-071,0,2729,2216,cbf95b216422aa3aa90e1ed4652a3339,f098cf6638b3e1c8
+dataset/RottenStrawberry/RottenStrawberry (177).jpg,mendeley,damaged,train,mendeley-damaged-071,0,3000,4000,321cb64e52db5732f9771c08cc2dbf9b,f5e98a923065cf98
+dataset/RottenStrawberry/RottenStrawberry (178).jpg,mendeley,damaged,train,mendeley-damaged-071,0,2950,2572,232b9ea87330b7a8488a01d70b040247,b6e0c920c40fe79f
+dataset/RottenStrawberry/RottenStrawberry (179).jpg,mendeley,damaged,train,mendeley-damaged-071,0,2242,2596,306df7029944ed31563b06a8c0e47efe,ee909d52994e596c
+dataset/RottenStrawberry/RottenStrawberry (18).jpg,mendeley,damaged,val,mendeley-damaged-069,1,4160,3120,073372fe601f325c6a90046172f81e38,bb8fd492c1fc0c61
+dataset/RottenStrawberry/RottenStrawberry (180).jpg,mendeley,damaged,train,mendeley-damaged-071,0,2520,2552,ea2c0806cbbd0ac02eb8dc0654881382,ec93b5569b4ca924
+dataset/RottenStrawberry/RottenStrawberry (181).jpg,mendeley,damaged,train,mendeley-damaged-071,0,2404,2505,ff44c5e7a9e224e6850e9a5e6465892f,cab6b645aacba452
+dataset/RottenStrawberry/RottenStrawberry (182).jpg,mendeley,damaged,train,mendeley-damaged-071,0,2999,3223,c13d3cd50e2cde80d3a90943c059b6c9,ee929b171b4a0d2e
+dataset/RottenStrawberry/RottenStrawberry (183).jpg,mendeley,damaged,train,mendeley-damaged-071,0,2712,3095,8e6a8ad9df707f3048cb1d335530d7b2,b982c479c3383f8e
+dataset/RottenStrawberry/RottenStrawberry (184).jpg,mendeley,damaged,train,mendeley-damaged-071,0,2419,3104,91d76b442e8657b05115eb5a1b88e0d4,ee859866a64ab553
+dataset/RottenStrawberry/RottenStrawberry (185).jpg,mendeley,damaged,train,mendeley-damaged-071,0,3000,3293,5ce490e73d9157afaea5365024e16ff1,c8b79368a45d966a
+dataset/RottenStrawberry/RottenStrawberry (186).jpg,mendeley,damaged,train,mendeley-damaged-071,0,2198,2114,6139873179114f487aa58300b8b50d16,ca92a5648b5ab76c
+dataset/RottenStrawberry/RottenStrawberry (187).jpg,mendeley,damaged,train,mendeley-damaged-071,0,2676,2403,5a28db2af9c8e8b8bc2599646001ba30,b989963c8b62cd63
+dataset/RottenStrawberry/RottenStrawberry (188).jpg,mendeley,damaged,train,mendeley-damaged-071,0,3067,2907,7c60237f0bdfafeaafea2a5683950222,e2939d51152b6bb1
+dataset/RottenStrawberry/RottenStrawberry (189).jpg,mendeley,damaged,train,mendeley-damaged-071,0,4000,3000,7dd83323b7f916136498b74659683dec,a1ff9a72198864cd
+dataset/RottenStrawberry/RottenStrawberry (19).jpg,mendeley,damaged,val,mendeley-damaged-069,1,2814,2040,03cc8116eabc011ab6c63652a33a1adb,f661851ec9db302d
+dataset/RottenStrawberry/RottenStrawberry (190).jpg,mendeley,damaged,train,mendeley-damaged-071,0,2657,2788,033b40dd8ad23169805b70a01f7926ef,e36a9cb479ca6621
+dataset/RottenStrawberry/RottenStrawberry (191).jpg,mendeley,damaged,train,mendeley-damaged-071,0,2706,3230,7242d554c6d8903fda0c006d575652f8,f03ecbc96c8c7330
+dataset/RottenStrawberry/RottenStrawberry (192).jpg,mendeley,damaged,train,mendeley-damaged-071,0,2727,3007,76f354fc0a153cfcafb82af7dd35272e,a5cc9931cf32cc99
+dataset/RottenStrawberry/RottenStrawberry (193).jpg,mendeley,damaged,train,mendeley-damaged-071,0,3000,4000,56824aee1b7ec13e6f286a293aaba2cc,b232cbcf63c8cc0e
+dataset/RottenStrawberry/RottenStrawberry (194).jpg,mendeley,damaged,train,mendeley-damaged-071,0,3000,4000,fd40fe527ba9a7dc2316881fce48fb69,b1b1cfc7322c8e31
+dataset/RottenStrawberry/RottenStrawberry (195).jpg,mendeley,damaged,train,mendeley-damaged-071,0,3000,4000,21eba21bee5bf6dab5164381c1f69edf,b73fc8c0f8ccc161
+dataset/RottenStrawberry/RottenStrawberry (196).jpg,mendeley,damaged,train,mendeley-damaged-071,0,2943,2830,d797273e32a05a0cc8bdd853c09ebd3f,e262b58caa6eb495
+dataset/RottenStrawberry/RottenStrawberry (197).jpg,mendeley,damaged,train,mendeley-damaged-071,0,2690,2677,5c61d49d30eb855b6f93ca0b9398cd06,ea6e8c9999c96a91
+dataset/RottenStrawberry/RottenStrawberry (198).jpg,mendeley,damaged,train,mendeley-damaged-072,1,2996,2891,3add566e9a5ab0f066b0594c56c90197,ee1e91e696a5a095
+dataset/RottenStrawberry/RottenStrawberry (199).jpg,mendeley,damaged,train,mendeley-damaged-072,1,2800,2594,d16878f1b446a478f2a4ac1e864a46b5,eb1d8df4da2c5068
+dataset/RottenStrawberry/RottenStrawberry (2).jpg,mendeley,damaged,test,mendeley-damaged-073,1,3096,2254,6f0571738d1b54f0be848e996c3e39f6,ee65c82d159a0dd3
+dataset/RottenStrawberry/RottenStrawberry (20).jpg,mendeley,damaged,val,mendeley-damaged-069,1,2787,2945,bcbe88b621151e92842472308ae3bd3c,b493c3318c3dd2d9
+dataset/RottenStrawberry/RottenStrawberry (200).jpg,mendeley,damaged,train,mendeley-damaged-072,1,2678,2318,d77529c003bf0e37dfb3f4ddbb84bf3c,eb3f82f09542d16a
+dataset/RottenStrawberry/RottenStrawberry (21).jpg,mendeley,damaged,val,mendeley-damaged-069,0,2657,3080,18eba45b6e0b29e0565cee2a31d74cfa,bb95d269c5371aa0
+dataset/RottenStrawberry/RottenStrawberry (22).jpg,mendeley,damaged,val,mendeley-damaged-069,1,2789,2514,2bb8cb7ad315691b81dc4116bbd05b18,a731986b9accdb44
+dataset/RottenStrawberry/RottenStrawberry (23).jpg,mendeley,damaged,val,mendeley-damaged-074,1,2548,2438,4d3d3fd61eb64acf19ea71d43ff29940,bca0fe5a8722d84d
+dataset/RottenStrawberry/RottenStrawberry (24).jpg,mendeley,damaged,val,mendeley-damaged-074,1,2858,2642,da35a59d219ee7a9b97e96ffb14fc654,bea4df07c16884d6
+dataset/RottenStrawberry/RottenStrawberry (25).jpg,mendeley,damaged,val,mendeley-damaged-074,1,4160,3120,5afed286f09f7a18762b0358acebac5e,ef8cc9f5522b0c62
+dataset/RottenStrawberry/RottenStrawberry (26).jpg,mendeley,damaged,val,mendeley-damaged-074,1,2219,2309,17f769d0e59bb8a3efd9947a233c2b13,bf5ad227879c830c
+dataset/RottenStrawberry/RottenStrawberry (27).jpg,mendeley,damaged,val,mendeley-damaged-074,1,3014,2604,665ccb530a6db7c2a8ea4ddb36cdc2ef,b90fd4e4c1290f75
+dataset/RottenStrawberry/RottenStrawberry (28).jpg,mendeley,damaged,val,mendeley-damaged-074,1,4160,3120,8f36da35ac553e666268ce2b20a6970f,8e16b129b98166fe
+dataset/RottenStrawberry/RottenStrawberry (29).jpg,mendeley,damaged,val,mendeley-damaged-074,1,2896,2932,969cfd7fbd31e62299e7e0e84f90f1ed,ac39f15a1b85947a
+dataset/RottenStrawberry/RottenStrawberry (3).jpg,mendeley,damaged,test,mendeley-damaged-073,1,2868,2528,554ba34912dc97bb5f107e1b9f91cdec,fe4e76c1c1a8c92c
+dataset/RottenStrawberry/RottenStrawberry (30).jpg,mendeley,damaged,train,mendeley-damaged-075,1,2302,3101,896bc955261691683974588bc388a753,b816f1b281b5db4c
+dataset/RottenStrawberry/RottenStrawberry (31).jpg,mendeley,damaged,train,mendeley-damaged-075,1,1936,2806,dd2ab2941e70f2fc308ebbb4f7afc4ab,ab32d59183ec7a64
+dataset/RottenStrawberry/RottenStrawberry (32).jpg,mendeley,damaged,train,mendeley-damaged-075,1,3217,3099,864093878945d4669870a82a45342e6c,be35b50ec14a2d36
+dataset/RottenStrawberry/RottenStrawberry (33).jpg,mendeley,damaged,train,mendeley-damaged-075,1,3077,3120,bcb1c9f17340784d8030ebc52d556dd6,bf8fa54e0c7183a1
+dataset/RottenStrawberry/RottenStrawberry (34).jpg,mendeley,damaged,train,mendeley-damaged-075,1,3169,3120,2e2ee47e867ad233772626a5b1a5cf81,fe8fb41c945b0361
+dataset/RottenStrawberry/RottenStrawberry (35).jpg,mendeley,damaged,train,mendeley-damaged-075,1,2984,3120,ee00bbfd49f3279b540e0fe6453933f0,a631e4b6c46b954b
+dataset/RottenStrawberry/RottenStrawberry (36).jpg,mendeley,damaged,train,mendeley-damaged-075,1,2995,3109,ea2df8f553fc8e64efef1ef895889b45,be65e48685649b35
+dataset/RottenStrawberry/RottenStrawberry (37).jpg,mendeley,damaged,train,mendeley-damaged-075,1,2964,3120,0352b12a2c0914372eb6717a3a9abcdc,be45e4b68d628b34
+dataset/RottenStrawberry/RottenStrawberry (38).jpg,mendeley,damaged,train,mendeley-damaged-075,1,2814,3115,a9ce1b7dc978061d990d2348f4165764,ea59e08983cd9d47
+dataset/RottenStrawberry/RottenStrawberry (39).jpg,mendeley,damaged,train,mendeley-damaged-075,1,3051,3120,de2fb2707add2e3d0bae57e90d54ffbb,ea47c8fc8ea28b34
+dataset/RottenStrawberry/RottenStrawberry (4).jpg,mendeley,damaged,test,mendeley-damaged-073,1,2520,2190,7c2b2cd487c3cb243ad54ed1d8e68e28,ee4fe1f8c925901c
+dataset/RottenStrawberry/RottenStrawberry (40).jpg,mendeley,damaged,train,mendeley-damaged-075,1,2563,3120,31ec0f7e15bb55417c7c35537eb4b5a7,ebaed1a99a4a0c4b
+dataset/RottenStrawberry/RottenStrawberry (41).jpg,mendeley,damaged,train,mendeley-damaged-075,1,2641,3120,4f2c5edd5302a8a36c1d9393279757d3,be94851183e9dbf0
+dataset/RottenStrawberry/RottenStrawberry (42).jpg,mendeley,damaged,train,mendeley-damaged-075,1,3072,2796,45cd2b6cbb6f2d6fa4c258c6046df90e,fa4b91e9d39490e4
+dataset/RottenStrawberry/RottenStrawberry (43).jpg,mendeley,damaged,train,mendeley-damaged-075,1,2764,3073,697d4197033ed09448c231ee56a1d75b,a5a6e9e492cc1d4d
+dataset/RottenStrawberry/RottenStrawberry (44).jpg,mendeley,damaged,train,mendeley-damaged-075,1,2623,2961,7b89c1e4d890f2bad7ffbed6403ca843,a504c9ecd2c9bdc9
+dataset/RottenStrawberry/RottenStrawberry (45).jpg,mendeley,damaged,train,mendeley-damaged-075,1,3051,3249,1546737b40615aa177cdbc12d22e0412,fbc085aef6740b18
+dataset/RottenStrawberry/RottenStrawberry (46).jpg,mendeley,damaged,train,mendeley-damaged-075,1,2810,3713,9eb30c7e6cb9e5b043ceb90c10d95543,ee1f85c88bc5d82a
+dataset/RottenStrawberry/RottenStrawberry (47).jpg,mendeley,damaged,train,mendeley-damaged-075,1,2669,3520,37b3c5dbdb9556a6bf577bcc95e2ee00,be1e81acd2d1c761
+dataset/RottenStrawberry/RottenStrawberry (48).jpg,mendeley,damaged,train,mendeley-damaged-075,1,3120,4160,497a05b26eb9afb065f6a5b455a4b64b,bf4918c21b0d8bb7
+dataset/RottenStrawberry/RottenStrawberry (49).jpg,mendeley,damaged,train,mendeley-damaged-075,1,3085,3448,fd36634a4938b1b959b07475f97eeeaf,bf4e90ec89b1e492
+dataset/RottenStrawberry/RottenStrawberry (5).jpg,mendeley,damaged,test,mendeley-damaged-073,0,2807,2242,d632e6918219b6bdbcb6cfefd3f1046d,c86ab3b9d4554a6a
+dataset/RottenStrawberry/RottenStrawberry (50).jpg,mendeley,damaged,train,mendeley-damaged-076,0,2223,2167,8885e002a93cc68ef62120c8b93d8bf6,ea678d289ca55995
+dataset/RottenStrawberry/RottenStrawberry (51).jpg,mendeley,damaged,train,mendeley-damaged-076,0,2387,2369,d0b04bee8440ffc86ac007d248786cda,e854866a95cd9c9d
+dataset/RottenStrawberry/RottenStrawberry (52).jpg,mendeley,damaged,train,mendeley-damaged-076,0,2556,2384,d5043ffaa247724d031d4c9193047ad7,f8c39c55994ba92a
+dataset/RottenStrawberry/RottenStrawberry (53).jpg,mendeley,damaged,train,mendeley-damaged-077,1,2984,2372,1acc631eb707369d5afe9ac53713a1b8,fb9dd0418ed5c207
+dataset/RottenStrawberry/RottenStrawberry (54).jpg,mendeley,damaged,train,mendeley-damaged-077,1,3215,2853,c35b17aa6b2c8f467e067b7719936e16,e936864eaa5d8d49
+dataset/RottenStrawberry/RottenStrawberry (55).jpg,mendeley,damaged,train,mendeley-damaged-077,1,2890,2945,ba61f5228861592b9b4866241998e639,be6fc4b08c0cda93
+dataset/RottenStrawberry/RottenStrawberry (56).jpg,mendeley,damaged,train,mendeley-damaged-077,1,3059,2938,945df44a3a80900b56dfe9e5f846dd28,ac9bd262c7259963
+dataset/RottenStrawberry/RottenStrawberry (57).jpg,mendeley,damaged,train,mendeley-damaged-077,1,3120,2910,23887580d66d228f19a343454d6109f6,bb0db1b0c4ac0f79
+dataset/RottenStrawberry/RottenStrawberry (58).jpg,mendeley,damaged,train,mendeley-damaged-077,1,2579,2896,9b9fc0e0c6a59a914ee5865fc4d86fa0,bc1a90bce4bd8d70
+dataset/RottenStrawberry/RottenStrawberry (59).jpg,mendeley,damaged,train,mendeley-damaged-077,1,2895,2938,404be73f83338d6bca74694f5f263e76,be4bb5b0c05895b3
+dataset/RottenStrawberry/RottenStrawberry (6).jpg,mendeley,damaged,test,mendeley-damaged-073,1,2760,2812,2bbde8b878591be19fa35bd4cdb362d2,b338cc67c9c94c8e
+dataset/RottenStrawberry/RottenStrawberry (60).jpg,mendeley,damaged,train,mendeley-damaged-077,1,2589,2296,d8719073783e208f9d751f4de1587af8,afa59a4ee08f9468
+dataset/RottenStrawberry/RottenStrawberry (61).jpg,mendeley,damaged,train,mendeley-damaged-077,1,2998,2707,1d66d985ba22db0e90a835f5de2448cc,ef3dd8c48a0dd0ca
+dataset/RottenStrawberry/RottenStrawberry (62).jpg,mendeley,damaged,train,mendeley-damaged-077,1,3075,2932,017a660ba8c17727fc3f49af5853e9bc,bfc2d8ef90011a3d
+dataset/RottenStrawberry/RottenStrawberry (63).jpg,mendeley,damaged,train,mendeley-damaged-077,1,2829,2777,44f3984be2f87d528b5ed913dc6d2669,afa5925ed0bac512
+dataset/RottenStrawberry/RottenStrawberry (64).jpg,mendeley,damaged,train,mendeley-damaged-077,1,3062,3040,5027433ffc1548dcc0ca1678d700f5c0,bf87d9e8d0394231
+dataset/RottenStrawberry/RottenStrawberry (65).jpg,mendeley,damaged,train,mendeley-damaged-077,1,3120,3026,9e9ce8f6a0bc7b678f5cfc578121bb34,bfc3c9edd8046138
+dataset/RottenStrawberry/RottenStrawberry (66).jpg,mendeley,damaged,train,mendeley-damaged-077,1,2748,2705,40acae2046d3c907ae40f1872d367c48,ae87d8e0916ee02f
+dataset/RottenStrawberry/RottenStrawberry (67).jpg,mendeley,damaged,train,mendeley-damaged-077,1,2895,2695,f9646eb22fb7de4b6936a145394c22dc,b6c3c84e912ff225
+dataset/RottenStrawberry/RottenStrawberry (68).jpg,mendeley,damaged,train,mendeley-damaged-077,1,2968,3192,71f4c77ff69967d5c5e4b7f97df5d5ca,af278e47e049d45a
+dataset/RottenStrawberry/RottenStrawberry (69).jpg,mendeley,damaged,train,mendeley-damaged-077,1,2975,3084,012bdba9ed082b9982a5e053d298e240,af27d85c8249d47a
+dataset/RottenStrawberry/RottenStrawberry (7).jpg,mendeley,damaged,test,mendeley-damaged-073,1,2932,2885,5b94684da820a4d0bd06e9409a95a4fb,fa4285b97ac4c16b
+dataset/RottenStrawberry/RottenStrawberry (70).jpg,mendeley,damaged,train,mendeley-damaged-077,1,2846,2687,a37f7fbcd225545ed57e02d32f7d3e2c,be9ac866c66e9701
+dataset/RottenStrawberry/RottenStrawberry (71).jpg,mendeley,damaged,train,mendeley-damaged-077,1,2856,3287,f859b56f82eb6dd3690803898fe45e99,bbb6d0598b688c1b
+dataset/RottenStrawberry/RottenStrawberry (72).jpg,mendeley,damaged,train,mendeley-damaged-077,1,3071,3417,3c8cbf2d81e3ae0f887693e2cc08b391,e27094a7dbac4a5a
+dataset/RottenStrawberry/RottenStrawberry (73).jpg,mendeley,damaged,train,mendeley-damaged-077,1,3120,4160,56f731aac753d4e64c54ef7412ad5b2e,e37395a7929c4c52
+dataset/RottenStrawberry/RottenStrawberry (74).jpg,mendeley,damaged,train,mendeley-damaged-077,1,3120,4160,677680228b4874547203589ccd9d8f3b,beccc066c7399931
+dataset/RottenStrawberry/RottenStrawberry (75).jpg,mendeley,damaged,train,mendeley-damaged-077,1,3120,4160,0623ccc5644b7667a59226e2818b1dd1,ea7295a7c6928c5a
+dataset/RottenStrawberry/RottenStrawberry (76).jpg,mendeley,damaged,train,mendeley-damaged-077,1,3120,4160,ef42851ffada39a1e58716136b86c648,b28dcb363c91ccc6
+dataset/RottenStrawberry/RottenStrawberry (77).jpg,mendeley,damaged,train,mendeley-damaged-077,1,3120,4160,0e50ea71ba7f737c6aeed60151c9f6cc,b499cb246cd33399
+dataset/RottenStrawberry/RottenStrawberry (78).jpg,mendeley,damaged,train,mendeley-damaged-077,1,3120,4160,f4382fbe387e1d8ad8db3639182eea9b,ea7694ace2c1c956
+dataset/RottenStrawberry/RottenStrawberry (79).jpg,mendeley,damaged,train,mendeley-damaged-077,1,3120,4160,19dd46fc1859a708965eaa018d42922f,e2689cade784878b
+dataset/RottenStrawberry/RottenStrawberry (8).jpg,mendeley,damaged,test,mendeley-damaged-073,1,2847,3127,4167e68244bbf86340853fdc31d44eb4,ea6c87339985b495
+dataset/RottenStrawberry/RottenStrawberry (80).jpg,mendeley,damaged,train,mendeley-damaged-077,1,3120,4160,f9b8c98da257c9c9b9eacdfadbceec8c,ea6885a72e9c83cb
+dataset/RottenStrawberry/RottenStrawberry (81).jpg,mendeley,damaged,train,mendeley-damaged-077,1,3120,4160,081664c7bb0fbc3a3b765b067a8090a8,e27285a75e91633c
+dataset/RottenStrawberry/RottenStrawberry (82).jpg,mendeley,damaged,train,mendeley-damaged-077,1,3120,4160,229a3bdf86c5cd95b1bb394fc26b58a2,bd79d0a1ad9c121b
+dataset/RottenStrawberry/RottenStrawberry (83).jpg,mendeley,damaged,train,mendeley-damaged-077,1,3120,4160,57d19250a1e0a5bfe5e1b7087dd77197,a97bd0388bbc8395
+dataset/RottenStrawberry/RottenStrawberry (84).jpg,mendeley,damaged,val,mendeley-damaged-078,0,3113,2894,14fabdb41a3d698d392f6d17a3d20a8c,bbccc036c931cfe0
+dataset/RottenStrawberry/RottenStrawberry (85).jpg,mendeley,damaged,val,mendeley-damaged-078,0,2801,3176,fbc02baf8ab620507d5ee626250de515,bec0c13fe439c29c
+dataset/RottenStrawberry/RottenStrawberry (86).jpg,mendeley,damaged,val,mendeley-damaged-078,0,2521,2889,136b1d71ff91b0eedb8b423ffdbdb2c9,e9949c8991e2f2ea
+dataset/RottenStrawberry/RottenStrawberry (87).jpg,mendeley,damaged,val,mendeley-damaged-078,0,2301,2451,ce48d33c3f040953340b69ecf5ceb3f0,fc9b815a8fa94c15
+dataset/RottenStrawberry/RottenStrawberry (88).jpg,mendeley,damaged,val,mendeley-damaged-078,1,3043,2559,1f0c47a00a60a59a64154ee4f94750b2,f281945ecb8ecd25
+dataset/RottenStrawberry/RottenStrawberry (89).jpg,mendeley,damaged,val,mendeley-damaged-078,1,3555,2983,d3b9dfcf40843f43f7db36a81b7f31bd,fbc68c2d842e721b
+dataset/RottenStrawberry/RottenStrawberry (9).jpg,mendeley,damaged,test,mendeley-damaged-073,1,2788,2866,623b9faec1cc54e7f138eabcf5e42a6a,aeacb50fe2e2c816
+dataset/RottenStrawberry/RottenStrawberry (90).jpg,mendeley,damaged,val,mendeley-damaged-078,0,2611,2425,0831c1410064d4cb0f72aa9408ed3e0d,fbc48a1e512da65a
+dataset/RottenStrawberry/RottenStrawberry (91).jpg,mendeley,damaged,val,mendeley-damaged-078,1,4075,3007,d2dd553d0e37560e4db0d86a08413e96,f9e09145d30bda87
+dataset/RottenStrawberry/RottenStrawberry (92).jpg,mendeley,damaged,test,mendeley-damaged-064,0,2436,1945,15fc4736013891b4b2d5ac6474da7e19,fa8d8358a6693656
+dataset/RottenStrawberry/RottenStrawberry (93).jpg,mendeley,damaged,test,mendeley-damaged-064,0,2642,2168,ba3f4912ba22f12f69ebd74954fc9556,f8358349de69b452
+dataset/RottenStrawberry/RottenStrawberry (94).jpg,mendeley,damaged,test,mendeley-damaged-064,1,3910,2989,bcb20921ba695955f17014fb766b4a8c,bd83d06fc104c99f
+dataset/RottenStrawberry/RottenStrawberry (95).jpg,mendeley,damaged,test,mendeley-damaged-064,0,2881,2522,0d1b394bb9caa662e963e3ae69992bd4,e895835ec935837a
+dataset/RottenStrawberry/RottenStrawberry (96).jpg,mendeley,damaged,test,mendeley-damaged-064,0,2214,2092,40e51c1d1a0317f39426a40422edda85,fa2681569e6a5ca9
+dataset/RottenStrawberry/RottenStrawberry (97).jpg,mendeley,damaged,test,mendeley-damaged-064,0,2545,2018,8f68992b51b4288cd41d15f402ddcdb1,fa2181569f6a38ad
+dataset/RottenStrawberry/RottenStrawberry (98).jpg,mendeley,damaged,test,mendeley-damaged-064,0,3077,2222,966d8c3624320ba030e5273f259f8f56,f835874ad86d619c
+dataset/RottenStrawberry/RottenStrawberry (99).jpg,mendeley,damaged,test,mendeley-damaged-064,0,2893,2203,1c15673d15ac2677ec427542d0c77d5c,bf1cd0cac241eda3
+dataset/color/damaged/image_2018-07-16_21-26-33-769.jpg,mahendra,damaged,train,mahendra-damaged-020,0,640,480,93b92ff9274c19771cfec1ef657f9634,af6bd2fc2d88a025
+dataset/color/damaged/image_2018-07-16_21-26-43-495.jpg,mahendra,damaged,train,mahendra-damaged-020,0,640,480,7d996d6f58cadda09bb23cda9b49dec1,bb7bd0d175cb8030
+dataset/color/damaged/image_2018-07-16_21-28-32-862.jpg,mahendra,damaged,val,mahendra-damaged-021,0,640,480,65953f4fad064f4ae234b941b152f649,ee6ee4d49414c1d5
+dataset/color/damaged/image_2018-07-16_21-28-46-295.jpg,mahendra,damaged,val,mahendra-damaged-021,0,640,480,5310c473f4c28c2d8241bcebbf280b04,bf3fc89c3c3d4090
+dataset/color/damaged/image_2018-07-16_21-28-59-918.jpg,mahendra,damaged,val,mahendra-damaged-021,0,640,480,457cf6e6b3e8eb0fe62d3d2e33a2e736,bf3f8181871e9e82
+dataset/color/damaged/image_2018-07-16_21-29-55-038.jpg,mahendra,damaged,train,mahendra-damaged-022,0,640,480,42e7f1d94a097dfd8b7fd8bf40218191,ab22b494b0725ede
+dataset/color/damaged/image_2018-07-16_21-30-03-219.jpg,mahendra,damaged,train,mahendra-damaged-022,0,640,480,323a5aad7871f0b424e1ec062d108ff2,bd69c9c08626cecb
+dataset/color/damaged/image_2018-07-16_21-30-14-678.jpg,mahendra,damaged,train,mahendra-damaged-022,0,640,480,6ab3e702d2adff6354f6c8a0d75120e0,ea6a9383698d95a5
+dataset/color/damaged/image_2018-07-16_21-33-58-327.jpg,mahendra,damaged,train,mahendra-damaged-023,0,640,480,65bcd779a922bcbe911024ac71d8f910,bf3f1e94f060608b
+dataset/color/damaged/image_2018-07-16_21-34-06-446.jpg,mahendra,damaged,train,mahendra-damaged-023,0,640,480,c6b0195e301a73f29b4b5887de23e665,e464cc9a923277cb
+dataset/color/damaged/image_2018-07-16_21-34-12-727.jpg,mahendra,damaged,train,mahendra-damaged-023,0,640,480,1bdd8744466a64570c19077b21150800,e3635a9a86676199
+dataset/color/damaged/image_2018-07-16_21-34-22-662.jpg,mahendra,damaged,train,mahendra-damaged-023,0,640,480,81f6bcc2d9d19a85129fbdf245401788,bf3b5ad0d025258d
+dataset/color/damaged/image_2018-07-16_21-34-33-319.jpg,mahendra,damaged,train,mahendra-damaged-023,0,640,480,0ccb01e075bd2921a2bf7a918dddbbe9,b63689c9f131cdc1
+dataset/color/damaged/image_2018-07-16_21-34-37-574.jpg,mahendra,damaged,train,mahendra-damaged-023,0,640,480,dc23dfa63e058f4af032b2e7cc27147b,bb33e1ccdd19c0c4
+dataset/color/damaged/image_2018-07-16_21-34-44-519.jpg,mahendra,damaged,train,mahendra-damaged-023,0,640,480,82ef49e793ec5b54930bdec5590f633b,bf37c1c8dc3cc0c4
+dataset/color/damaged/image_2018-07-16_21-34-50-222.jpg,mahendra,damaged,train,mahendra-damaged-023,0,640,480,0d456a065cdbec9f5282a9bec95ec842,b333e9c99b13c0cc
+dataset/color/damaged/image_2018-07-16_21-35-04-599.jpg,mahendra,damaged,train,mahendra-damaged-023,0,640,480,9868d1208e7246b33a712c2c916aa93a,bd69d09434c8d93d
+dataset/color/damaged/image_2018-07-16_21-35-09-686.jpg,mahendra,damaged,train,mahendra-damaged-023,0,640,480,4585be825fcb47afb8abf830c16708ed,ea6ad8b53d0dd032
+dataset/color/damaged/image_2018-07-16_21-35-16-199.jpg,mahendra,damaged,train,mahendra-damaged-023,0,640,480,62174f990c86a0d4caa52ba76c0cc090,ae2e958587069cdd
+dataset/color/damaged/image_2018-07-16_21-35-23-087.jpg,mahendra,damaged,train,mahendra-damaged-023,0,640,480,c546e5e632e7fb93a98a1ec1d37cc63b,ee3ebd84c48494dc
+dataset/color/damaged/image_2018-07-16_21-35-54-420.jpg,mahendra,damaged,train,mahendra-damaged-024,0,640,480,1e09bb4f8ba03877bbe4fe66c9558b7e,bf3f92d2d03809c9
+dataset/color/damaged/image_2018-07-16_21-35-58-039.jpg,mahendra,damaged,train,mahendra-damaged-024,0,640,480,0f9de7c1145f2f7968ae307544256c48,b63689d9d83a8dc8
+dataset/color/damaged/image_2018-07-16_21-36-17-382.jpg,mahendra,damaged,train,mahendra-damaged-024,0,640,480,7ee060221821307d82c86d6f30c2bb0b,aa2a94e4fcde94e0
+dataset/color/damaged/image_2018-07-16_21-36-41-318.jpg,mahendra,damaged,train,mahendra-damaged-024,0,640,480,0010dfd2ae6a5a1e1936b3acf4b9e440,fa7a9aa0e0789d85
+dataset/color/damaged/image_2018-07-16_21-36-49-135.jpg,mahendra,damaged,train,mahendra-damaged-024,0,640,480,7143da23527b46c92b46abaa41992dd5,ea2f8781e070d4d7
+dataset/color/damaged/image_2018-07-16_21-37-05-039.jpg,mahendra,damaged,train,mahendra-damaged-024,0,640,480,a84fabd5edccb519bcef29b2ed63fad6,ab3b8585f0749783
+dataset/color/damaged/image_2018-07-16_21-37-09-654.jpg,mahendra,damaged,train,mahendra-damaged-024,0,640,480,cbd5271893fa0741e292373dcd715ada,ea6a9687e1e89895
+dataset/color/damaged/image_2018-07-16_21-39-43-063.jpg,mahendra,damaged,train,mahendra-damaged-025,0,640,480,a411883d2a95f4a2ccdd09c122e4515b,ad3f96d4600a9ae5
+dataset/color/damaged/image_2018-07-16_21-39-55-046.jpg,mahendra,damaged,train,mahendra-damaged-025,0,640,480,a6733872ec34d3ab60d957a0e1f642ae,bb6bc9e9104089bf
+dataset/color/damaged/image_2018-07-16_21-40-26-678.jpg,mahendra,damaged,val,mahendra-damaged-026,0,640,480,0838538653d8a3798875dd80be838f6a,bf2bc9d93034949c
+dataset/color/damaged/image_2018-07-16_21-40-32-575.jpg,mahendra,damaged,val,mahendra-damaged-026,0,640,480,09509b36e9f55ba874418558c7ec7381,b73fcbc133130f01
+dataset/color/damaged/image_2018-07-16_21-40-39-619.jpg,mahendra,damaged,val,mahendra-damaged-026,0,640,480,8e0a968a70285fa713539001896aa297,eb2b95956671948c
+dataset/color/damaged/image_2018-07-16_21-40-48-322.jpg,mahendra,damaged,val,mahendra-damaged-026,0,640,480,fb343d76b8e5da97128442d16a2544ec,fa399d85641c9c2e
+dataset/color/damaged/image_2018-07-16_21-42-22-751.jpg,mahendra,damaged,train,mahendra-damaged-027,0,640,480,a690c85b7bdde7cd64a70de8ed4f4352,bd2dc9dbb2a0c09a
+dataset/color/damaged/image_2018-07-16_21-42-26-894.jpg,mahendra,damaged,train,mahendra-damaged-027,0,640,480,955ff94973710cedefacaa5cb15588c8,b637c9c1e060cdc7
+dataset/color/damaged/image_2018-07-16_21-42-37-047.jpg,mahendra,damaged,train,mahendra-damaged-027,0,640,480,d2c7ca3079d0ac34ef920e96f54e9af3,ea2a9585607896f7
+dataset/color/damaged/image_2018-07-16_21-42-46-399.jpg,mahendra,damaged,train,mahendra-damaged-027,0,640,480,06494cdd4cea0439c11935c92b7250d0,ea689981e574dcd4
+dataset/color/damaged/image_2018-07-16_21-42-54-183.jpg,mahendra,damaged,train,mahendra-damaged-027,0,640,480,637b53b4c9faf57f101ffd93757441b4,ad2d92d2701e9af2
+dataset/color/damaged/image_2018-07-16_21-43-03-022.jpg,mahendra,damaged,train,mahendra-damaged-027,0,640,480,5d109583f1b699e1495d88d745dfecae,bf2fc296348e8a32
+dataset/color/damaged/image_2018-07-16_21-43-25-254.jpg,mahendra,damaged,train,mahendra-damaged-027,0,640,480,709722be785ca39425aa8294a57975c4,b7378b9270ccc9c1
+dataset/color/damaged/image_2018-07-16_21-43-35-679.jpg,mahendra,damaged,train,mahendra-damaged-027,0,640,480,33bb6c29038aab21f46532ef44023852,af3f9694343a9a82
+dataset/color/damaged/image_2018-07-16_21-44-09-303.jpg,mahendra,damaged,train,mahendra-damaged-024,0,640,480,84e7e65d1cab6793925d9855fa3a39cb,ea2f8585e150d4f6
+dataset/color/damaged/image_2018-07-16_21-44-15-714.jpg,mahendra,damaged,train,mahendra-damaged-024,0,640,480,f1da94d1c742965721e7b6f44222dda7,bf3fd2d21000c1df
+dataset/color/damaged/image_2018-07-16_21-44-21-128.jpg,mahendra,damaged,train,mahendra-damaged-024,0,640,480,125db9e1e310025151d6e96a56fe15b3,af6adad21484d396
+dataset/color/damaged/image_2018-07-16_21-44-26-527.jpg,mahendra,damaged,train,mahendra-damaged-024,0,640,480,8d628a158d6295ff11f07053ffa95f6f,ea2a8585e5d1d4e6
+dataset/color/damaged/image_2018-07-16_21-44-34-323.jpg,mahendra,damaged,train,mahendra-damaged-024,0,640,480,de40b61fb7b48784f3f472e7a0cd1162,ea7ad0e1298f055d
+dataset/color/damaged/image_2018-07-16_21-50-17-412.jpg,mahendra,damaged,val,mahendra-damaged-028,0,640,480,890d5c30bbac1ab69f5a8b4042ec818c,ea6ac09505cf3e3c
+dataset/color/damaged/image_2018-07-16_21-52-14-200.jpg,mahendra,damaged,val,mahendra-damaged-029,0,640,480,593f93b8bad0e1968dd8b1f3c62400bb,b121039392f2fcdb
+dataset/color/damaged/image_2018-07-16_21-52-27-890.jpg,mahendra,damaged,val,mahendra-damaged-029,0,640,480,0ebfd8fc0ea94db8585303a59c9ca6b5,bb3be2e4cc09c9c8
+dataset/color/damaged/image_2018-07-16_21-52-32-407.jpg,mahendra,damaged,val,mahendra-damaged-029,0,640,480,290c21b7b99a4faa642d585d482c3466,b23664ccc999c7ca
+dataset/color/damaged/image_2018-07-16_21-52-38-847.jpg,mahendra,damaged,val,mahendra-damaged-029,0,640,480,54b0727d43610c3d00ee2fa59a9a187d,b63e8ec9d1e0ccc4
+dataset/color/damaged/image_2018-07-16_21-52-55-758.jpg,mahendra,damaged,val,mahendra-damaged-029,0,640,480,f1c4ee320f93725c5673ce48d336afaa,bb3bcdc97030ccc1
+dataset/color/damaged/image_2018-07-16_21-52-59-702.jpg,mahendra,damaged,val,mahendra-damaged-029,0,640,480,e15b9d7d85807c7cc45de64b68c04732,9f1fc7e61fc0c030
+dataset/color/damaged/image_2018-07-16_21-53-05-759.jpg,mahendra,damaged,val,mahendra-damaged-029,0,640,480,616d74396aadd417d8356b1462c606a4,ba3e8fcdc0f0c4c4
+dataset/color/damaged/image_2018-07-16_21-53-10-663.jpg,mahendra,damaged,val,mahendra-damaged-029,0,640,480,a1617aa0f0f55e562acf4420b2ccedfa,bf3f66c4c89981c4
+dataset/color/damaged/image_2018-07-16_21-53-22-191.jpg,mahendra,damaged,val,mahendra-damaged-029,0,640,480,498631fb18458391cdd57994fb82177e,b03098d9d9f96ccc
+dataset/color/damaged/image_2018-07-16_21-53-37-534.jpg,mahendra,damaged,val,mahendra-damaged-029,0,640,480,f1775c4460f19bbca993bd33d2c5db8d,be3f8fc1c060cccc
+dataset/color/damaged/image_2018-07-16_21-53-47-815.jpg,mahendra,damaged,val,mahendra-damaged-029,0,640,480,bc370d102e739e984339d36fb63fa395,b7379692c26149d9
+dataset/color/damaged/image_2018-07-16_21-53-54-430.jpg,mahendra,damaged,val,mahendra-damaged-029,0,640,480,00b1ec2f021e35af93c4a6cadf42979f,bb3be4c8d83919c1
+dataset/color/damaged/image_2018-07-16_21-54-02-383.jpg,mahendra,damaged,val,mahendra-damaged-029,0,640,480,c014777f55e918b587b60775fd4b30cd,bf3df8d09230d0c9
+dataset/color/damaged/image_2018-07-16_21-54-19-315.jpg,mahendra,damaged,val,mahendra-damaged-029,0,640,480,8a5d49fb2dba1dff6d9013f5fd382256,b737c1c31206e63e
+dataset/color/damaged/image_2018-07-16_21-54-24-419.jpg,mahendra,damaged,val,mahendra-damaged-029,0,640,480,d8f957dc0a824ad270f6a9bbbcbedd0b,bb33c0c30b27e636
+dataset/color/damaged/image_2018-07-16_21-54-29-734.jpg,mahendra,damaged,val,mahendra-damaged-029,0,640,480,465fb64f31a9c760d6738c2700ddc2dd,bf3fd2c0602c8cf4
+dataset/color/damaged/image_2018-07-16_21-54-33-743.jpg,mahendra,damaged,val,mahendra-damaged-029,0,640,480,811b8db15aa8dad1a84587d3d21b4023,bf3c90d36b1a8525
+dataset/color/damaged/image_2018-07-16_21-54-37-871.jpg,mahendra,damaged,val,mahendra-damaged-029,0,640,480,3d7f8319d6805d0b1ad392247688ea5b,e97193963ada0a27
+dataset/color/damaged/image_2018-07-16_21-55-01-750.jpg,mahendra,damaged,val,mahendra-damaged-029,0,640,480,6a31f3eedf2be42d5b61a4c09c6d30ad,b6378bc1212ccfc3
+dataset/color/damaged/image_2018-07-16_21-55-06-855.jpg,mahendra,damaged,val,mahendra-damaged-029,0,640,480,196c85843fa1022ec5ceb5781b460712,bd3c92c2e1c98b87
+dataset/color/damaged/image_2018-07-16_21-55-31-411.jpg,mahendra,damaged,val,mahendra-damaged-029,0,640,480,4c2543d9667a518669dcf60b4b99cc9e,b333e6c0c0f08f8f
+dataset/color/damaged/image_2018-07-16_21-55-40-916.jpg,mahendra,damaged,val,mahendra-damaged-029,0,640,480,023dbaa5b51514012b707bd3bb3b0849,b63499c1c1716dcd
+dataset/color/damaged/image_2018-07-16_21-56-12-358.jpg,mahendra,damaged,test,mahendra-damaged-030,0,640,480,71a4bd2c14611284ca5a154f32cf7a92,b23ed9c9f87c8c01
+dataset/color/damaged/image_2018-07-16_21-56-17-327.jpg,mahendra,damaged,test,mahendra-damaged-030,0,640,480,ea64b8897eb7bb8e554342be6eebbdbc,ab279791e0e8d8c9
+dataset/color/damaged/image_2018-07-16_21-56-24-040.jpg,mahendra,damaged,test,mahendra-damaged-030,0,640,480,f38c960e054a0151fdc51e4687060114,ba6ac2921642dbbd
+dataset/color/damaged/image_2018-07-16_21-56-41-743.jpg,mahendra,damaged,test,mahendra-damaged-030,0,640,480,855367f7a2576e2f1e71772d520ba00b,e96991956763989c
+dataset/color/damaged/image_2018-07-16_21-57-01-062.jpg,mahendra,damaged,test,mahendra-damaged-030,0,640,480,06db58ae3a2b7fc831d5421269e7d972,ad2592d07c9fcb60
+dataset/color/damaged/image_2018-07-16_21-57-12-967.jpg,mahendra,damaged,test,mahendra-damaged-030,0,640,480,39711c4d1979518fba260a40171493fa,bb3bcec0c0388ece
+dataset/color/damaged/image_2018-07-16_21-57-18-431.jpg,mahendra,damaged,test,mahendra-damaged-030,0,640,480,d3c893e90ad2d68de07216ab8e83ffd0,b232ccc9f1228f8f
+dataset/color/damaged/image_2018-07-16_21-57-36-118.jpg,mahendra,damaged,test,mahendra-damaged-030,0,640,480,6e0517238489a6f4659fef144fbaa75a,b232cfc9c130cccf
+dataset/color/damaged/image_2018-07-16_21-58-58-991.jpg,mahendra,damaged,train,mahendra-damaged-031,0,640,480,07a7a1d9a5a6f9712e7cb33bce45f9b0,bf26e6c20243cb9b
+dataset/color/damaged/image_2018-07-16_21-59-07-231.jpg,mahendra,damaged,train,mahendra-damaged-031,0,640,480,704a06e8071cd2672f15f26a51ce3885,ba68c1c1010fdffc
+dataset/color/damaged/image_2018-07-16_21-59-22-398.jpg,mahendra,damaged,train,mahendra-damaged-031,0,640,480,faa8d5b9c9a746a94af9bdaab6e2d224,ec2c9585e1739387
+dataset/color/damaged/image_2018-07-16_21-59-47-399.jpg,mahendra,damaged,train,mahendra-damaged-031,0,640,480,cad3b63560532f556a37f0cec4e1a447,ac2dc9d9f1b5240e
+dataset/color/damaged/image_2018-07-16_21-59-52-008.jpg,mahendra,damaged,train,mahendra-damaged-031,0,640,480,f92408778827c744fd95bd0a9d799a8f,b63616c1c0f07acf
+dataset/color/damaged/image_2018-07-16_21-59-59-411.jpg,mahendra,damaged,train,mahendra-damaged-031,0,640,480,e78ba3b216ab3dfcf1ebf31fce0ae5d9,b7371f8bc1e060cc
+dataset/color/damaged/image_2018-07-16_22-00-03-959.jpg,mahendra,damaged,train,mahendra-damaged-031,0,640,480,6c320221a3b380e90b3e23fdbb6885d2,b4349682c361e9df
+dataset/color/damaged/image_2018-07-16_22-00-09-103.jpg,mahendra,damaged,train,mahendra-damaged-031,0,640,480,1faf70d4a8c1ba7d73f22bdccefe5e78,bb3f0fc9c0e02687
+dataset/color/damaged/image_2018-07-16_22-00-15-264.jpg,mahendra,damaged,train,mahendra-damaged-031,0,640,480,99644bece7d0c0512760339a91971884,e565cc9e96868999
+dataset/color/damaged/image_2018-07-16_22-00-18-999.jpg,mahendra,damaged,train,mahendra-damaged-031,0,640,480,c7565e7b08da16cb83c2c17804981954,bc6cc2d29625cdc9
+dataset/color/damaged/image_2018-07-16_22-00-22-447.jpg,mahendra,damaged,train,mahendra-damaged-031,0,640,480,783945a57cac1c69221c9dcd434e0581,ec68c0c3973f8bc8
+dataset/color/damaged/image_2018-07-16_22-00-26-863.jpg,mahendra,damaged,train,mahendra-damaged-031,0,640,480,7266e9ff0c68948ba62550a80564e29e,e068de97953858da
+dataset/color/damaged/image_2018-07-16_22-01-21-295.jpg,mahendra,damaged,val,mahendra-damaged-032,0,640,480,48562eb77307225ba6d4683abfa50c36,bc3c6ccbc3b23234
+dataset/color/damaged/image_2018-07-16_22-01-33-895.jpg,mahendra,damaged,val,mahendra-damaged-032,0,640,480,5de36b19ec9fe050adbbfb5a23b4159d,ab2b9195a578d8d2
+dataset/color/damaged/image_2018-07-16_22-01-41-207.jpg,mahendra,damaged,val,mahendra-damaged-032,0,640,480,2f8e76f4a2c1f9c050659d763ab2525f,b72f0fc8d0b0360f
+dataset/color/damaged/image_2018-07-16_22-01-46-694.jpg,mahendra,damaged,val,mahendra-damaged-032,0,640,480,cbd9b8305deb2599db529ed97e35490f,bd1d0cc4ccfc86c3
+dataset/color/damaged/image_2018-07-16_22-01-57-823.jpg,mahendra,damaged,val,mahendra-damaged-032,0,640,480,a86a8f96809288016a37526307944759,b636e6e2c306c6c6
+dataset/color/damaged/image_2018-07-16_22-02-09-327.jpg,mahendra,damaged,val,mahendra-damaged-032,0,640,480,84d356e9c870878c1c1811dc21286da2,bf3c70e0d91999c1
+dataset/color/damaged/image_2018-07-16_22-02-19-862.jpg,mahendra,damaged,val,mahendra-damaged-032,0,640,480,8f8f7c7eee1dbb9a61e63774ea3f687a,bd3191d1c0e8f89e
+dataset/color/damaged/image_2018-07-16_22-02-37-630.jpg,mahendra,damaged,val,mahendra-damaged-032,0,640,480,e745a78701a1f068a1dacf6849188ad7,b23637c9c9d131c3
+dataset/color/damaged/image_2018-07-16_22-03-07-607.jpg,mahendra,damaged,val,mahendra-damaged-032,0,640,480,46b9dd2c6c0415af8d59a273b5bccbb7,b33389c9c078dccd
+dataset/color/damaged/image_2018-07-16_22-03-13-982.jpg,mahendra,damaged,val,mahendra-damaged-032,0,640,480,c71c1179bb6649d76cc55a3e6364503b,e86a909dadaa9a9c
+dataset/color/damaged/image_2018-07-16_22-18-59-356.jpg,mahendra,damaged,train,mahendra-damaged-033,0,640,480,7b38bea1b809ea9ef3dd681b3fcfd203,e82cb594f050dade
+dataset/color/damaged/image_2018-07-16_22-19-07-631.jpg,mahendra,damaged,train,mahendra-damaged-033,0,640,480,9fd36d1b743393a4a19632b47a08bae3,b737c0c10d0fec1d
+dataset/color/damaged/image_2018-07-16_22-19-12-722.jpg,mahendra,damaged,train,mahendra-damaged-033,0,640,480,286b1c029d22f86e8a6e215ccbf3eee3,bb33e4c409e70f1c
+dataset/color/damaged/image_2018-07-17_01-36-59-842.jpg,mahendra,damaged,train,mahendra-damaged-034,0,640,480,b37b63235462d2cdbae10c6e41d94517,bf31e1f5d8c0320b
+dataset/color/damaged/image_2018-07-17_02-07-57-731.jpg,mahendra,damaged,test,mahendra-damaged-035,0,640,480,6c1c1e579a77c58a45611743741a7d1d,b131c3d39b1b99c1
+dataset/color/damaged/image_2018-07-17_02-08-07-033.jpg,mahendra,damaged,test,mahendra-damaged-035,0,640,480,e501f40d9b88767f53d1da6e7c394247,eb6bc2c6bc2585a4
+dataset/color/damaged/image_2018-07-17_02-08-12-120.jpg,mahendra,damaged,test,mahendra-damaged-035,0,640,480,d11c3bb2e49f6b42fc9ae8c77c7182d5,f362c2c6ac2d899d
+dataset/color/damaged/image_2018-07-17_02-08-16-532.jpg,mahendra,damaged,test,mahendra-damaged-035,0,640,480,0aae8d638e527ad9da97197500fc1f48,a561c3d2b6360ece
+dataset/color/damaged/image_2018-07-17_02-08-41-584.jpg,mahendra,damaged,test,mahendra-damaged-035,0,640,480,02bf2ff55e08a9f9a9eafabfd8e3dc77,ee6cc9993c349585
+dataset/color/damaged/image_2018-07-17_02-08-46-340.jpg,mahendra,damaged,test,mahendra-damaged-035,0,640,480,42ebe1842ff4cbb338e88c7ed15fcdb6,e363c1f43c9cc662
+dataset/color/damaged/image_2018-07-17_02-08-55-225.jpg,mahendra,damaged,test,mahendra-damaged-035,0,640,480,56a95ebc83188b442085f33a5b43365b,e262c6ccbc2da9a9
+dataset/color/damaged/image_2018-07-17_02-09-15-332.jpg,mahendra,damaged,test,mahendra-damaged-035,0,640,480,24dfe5130d598a74ed657e8afc417ad5,e363c6c4ee9e8c44
+dataset/color/damaged/image_2018-07-17_02-09-23-865.jpg,mahendra,damaged,test,mahendra-damaged-035,0,640,480,c52d52aac47cbae3868da881eb5961a3,a327c5c5f50e8693
+dataset/color/damaged/image_2018-07-17_02-09-37-044.jpg,mahendra,damaged,test,mahendra-damaged-035,0,640,480,d934c7b52c0c4ba29d49f67dba6d6b3d,bc3cf0f0fc1e83c0
+dataset/color/damaged/image_2018-07-17_02-11-41-776.jpg,mahendra,damaged,test,mahendra-damaged-036,0,640,480,824a209ee1a0dd938dd15d89575f45d0,bf39d1c92cc4c0f8
+dataset/color/damaged/image_2018-07-17_02-12-08-729.jpg,mahendra,damaged,test,mahendra-damaged-036,0,640,480,4b1feb01f34c21dcc6910a125ba1e5c8,b133e6e61e078c3c
+dataset/color/damaged/image_2018-07-17_02-12-37-994.jpg,mahendra,damaged,test,mahendra-damaged-036,0,640,480,e9ad0ee6108895984b89282808c037c0,9c3ce2e60f87c21e
+dataset/color/damaged/image_2018-07-17_02-12-45-233.jpg,mahendra,damaged,test,mahendra-damaged-036,0,640,480,d70e36f4d53dbb6b080e5eb11d53b6e5,9f1fefe3c200e0e0
+dataset/color/damaged/image_2018-07-17_02-12-56-777.jpg,mahendra,damaged,test,mahendra-damaged-036,0,640,480,1dcaf30e8a8e4cf05ae3bc208059b2f0,9c3c38f0f0f60f07
+dataset/color/damaged/image_2018-07-17_02-13-03-354.jpg,mahendra,damaged,test,mahendra-damaged-036,0,640,480,4d25c14c85da0beeebc3b66a61e925fe,9d3d78e1e2ce0c8c
+dataset/color/damaged/image_2018-07-17_02-13-19-620.jpg,mahendra,damaged,test,mahendra-damaged-036,0,640,480,9ab9041129a1fca1a70b706b71c593a3,b939c0f1390fc731
+dataset/color/damaged/image_2018-07-17_02-13-35-252.jpg,mahendra,damaged,test,mahendra-damaged-036,0,640,480,115ffc9566a468c1b1e6ba9af511d298,b838c1e1f10fc763
+dataset/color/damaged/image_2018-07-17_02-13-39-833.jpg,mahendra,damaged,test,mahendra-damaged-036,0,640,480,86b89e2905296b2fc205412bad8b391d,b030c1e3738fc733
+dataset/color/damaged/image_2018-07-17_02-13-56-536.jpg,mahendra,damaged,test,mahendra-damaged-036,0,640,480,4d179460a349ba17fccaf744c4a25b31,b031c19786db1bc7
+dataset/color/damaged/image_2018-07-19_00-59-44-126.jpg,mahendra,damaged,val,mahendra-damaged-037,0,640,480,ef59e4f8320ab616242c1d01e014ae39,ab6bc2b3819d1dc8
+dataset/color/damaged/image_2018-07-19_00-59-51-959.jpg,mahendra,damaged,val,mahendra-damaged-037,0,640,480,b3d3bc34c09cdec56da9b3ba2132da2e,ba3383e0d58743d9
+dataset/color/damaged/image_2018-07-19_01-00-33-253.jpg,mahendra,damaged,val,mahendra-damaged-038,0,640,480,b25ef5ca0e478d8101bb890b2e1a8e97,b43c9ec2d2f0c9c9
+dataset/color/damaged/image_2018-07-19_01-00-40-574.jpg,mahendra,damaged,val,mahendra-damaged-038,0,640,480,5577bfad4f696f1b6fb236ddf08f10a8,bf36e4d09101e1ed
+dataset/color/damaged/image_2018-07-19_01-00-56-646.jpg,mahendra,damaged,val,mahendra-damaged-038,0,640,480,e4feae82122c575808e947c886a6d4bb,bd3d8580705c9ef2
+dataset/color/damaged/image_2018-07-19_01-01-12-614.jpg,mahendra,damaged,val,mahendra-damaged-038,0,640,480,c21e391cbfb70ed0fc76ebc9c507029c,bf0d807cdfe21286
+dataset/color/damaged/image_2018-07-19_01-01-45-694.jpg,mahendra,damaged,train,mahendra-damaged-039,0,640,480,2ac424a98db84109e64d26c5d21196e2,bd2bb2fcdc9010d4
+dataset/color/damaged/image_2018-07-19_01-02-18-103.jpg,mahendra,damaged,train,mahendra-damaged-040,0,640,480,abfc0e89437c939a18e89f8624ba2305,b82885e078dcf5e6
+dataset/color/damaged/image_2018-07-19_01-02-36-086.jpg,mahendra,damaged,train,mahendra-damaged-040,0,640,480,75133a62b88745498bd823ab7e2bec28,b83c85a170dcf4f2
+dataset/color/damaged/image_2018-07-19_01-02-46-526.jpg,mahendra,damaged,train,mahendra-damaged-040,0,640,480,68e3d77547e56bcb001f1056b85a63ea,af2f91f5d592a050
+dataset/color/damaged/image_2018-07-19_01-03-03-967.jpg,mahendra,damaged,train,mahendra-damaged-040,0,640,480,0a4a4de27117fcc3d75e406ac0eff0ff,ae2b94f4a9c0f4b2
+dataset/color/damaged/image_2018-07-19_01-03-39-175.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,3a78a5597c85cce726ddb4e924520cef,bf0e80b4ded28b8a
+dataset/color/damaged/image_2018-07-19_01-04-05-846.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,5d7c1f9e2935f995c39ad4addb15e40c,be3ec4c1d9f28682
+dataset/color/damaged/image_2018-07-19_01-04-24-934.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,38d593ff34636de0227fb672f1d310bc,bf3ec2d2f2b280c8
+dataset/color/damaged/image_2018-07-19_01-04-41-606.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,a285d952f6a8108bf52c209bd788a9c1,f8789c9783d3d0d0
+dataset/color/damaged/image_2018-07-19_01-04-47-655.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,c1195073401d6c4c5ff0b87fc0a7b471,bb33c1f39783601a
+dataset/color/damaged/image_2018-07-19_01-04-56-005.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,8e6b02429651863f3c2b9a2eec989bdf,bd2dc0d202c3cb9f
+dataset/color/damaged/image_2018-07-19_01-05-08-709.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,a07c5660d5706f242759d19224a367fc,bb6ac2e123839717
+dataset/color/damaged/image_2018-07-19_01-05-20-262.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,ec67d6939d9d7ae41d18b3ce67ea268d,be3fdbd9983800c1
+dataset/color/damaged/image_2018-07-19_01-05-27-039.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,a9a5a4f1857e29ecfec71ed196077a10,bf2bc9db3b20a4a0
+dataset/color/damaged/image_2018-07-19_01-05-33-526.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,ebf3743ca0ba51750d1f9e9ce50b0085,ba23c6f4f7868270
+dataset/color/damaged/image_2018-07-19_01-05-53-413.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,a3ae76dddb8a4644c1f5430d1c6f8e74,bb3994d05191d2fa
+dataset/color/damaged/image_2018-07-19_01-06-01-014.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,b5554ddea10b37e9e0250d7b1bdaf004,ba0bc1fccfc0a0cb
+dataset/color/damaged/image_2018-07-19_01-06-09-782.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,43b7a487189a3984b67776fef406c217,bb2dc5e4fc52c0b0
+dataset/color/damaged/image_2018-07-19_01-06-33-191.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,6387941e039ea8a8e77cf7caa8b76c37,fb7b8180e0e195a7
+dataset/color/damaged/image_2018-07-19_01-06-38-334.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,761b88115bc9bf2deaf597681b49a0e3,e362ce8eae68989c
+dataset/color/damaged/image_2018-07-19_01-06-42-846.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,11bfbd42c7c694833cb53038dd3a2ff8,ae3e9494f0fa9a90
+dataset/color/damaged/image_2018-07-19_01-06-54-104.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,1d07e1500831c504f666909f480e68fe,fa788081633b97e5
+dataset/color/damaged/image_2018-07-19_01-07-01-366.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,3d57202325e0984f8a2e5e30db4b2d46,be3680b0369797f0
+dataset/color/damaged/image_2018-07-19_01-07-06-431.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,00b709b24b41984fce09a2f7d9b4e672,bf2fc0f0b9a1c1d0
+dataset/color/damaged/image_2018-07-19_01-07-11-287.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,bb53fd4c0aa3bc8322fbcc414f5263c8,ba2bc1e1f79784a0
+dataset/color/damaged/image_2018-07-19_01-07-29-591.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,8fb2ea2ffeb9074f633f0249f4c28bcc,af6de8d02224c797
+dataset/color/damaged/image_2018-07-19_01-07-35-191.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,d7cd5588c2a2b1d972467ce96e1419b1,be3e9da5f0709086
+dataset/color/damaged/image_2018-07-19_01-07-40-919.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,59e41e93076594a9a1ed759542ff9383,ab3b91f07093c3d2
+dataset/color/damaged/image_2018-07-19_01-07-46-582.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,d5e8d65fabb774367fd7a541baba0e9e,ea7a82e32296a736
+dataset/color/damaged/image_2018-07-19_01-07-51-870.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,f5847ef7139f8edf6a1ec91c07e2f9c1,ba3e87a5a0e09717
+dataset/color/damaged/image_2018-07-19_01-07-59-887.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,66ef8faf2cabf60c1721285c8f10e7d7,ab3e94f0789e9252
+dataset/color/damaged/image_2018-07-19_01-08-07-158.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,062d0024ec4eb9c66f641ed5f8c6c292,be3991f17993c150
+dataset/color/damaged/image_2018-07-19_01-08-13-590.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,30383d760b797570b0f146a1b83c2248,bb3b9381e0e0d4d5
+dataset/color/damaged/image_2018-07-19_01-08-35-671.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,6bc9619acbb02e855d94104dd7ae76b1,be2ec4f47ec0304e
+dataset/color/damaged/image_2018-07-19_01-08-59-463.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,38e4121c771a66c5f876594da45aa957,fa3b81e1159793d0
+dataset/color/damaged/image_2018-07-19_01-09-11-047.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,f048f8a79ad0c94684937c62aa2eef6a,fa7a87a13195c4d2
+dataset/color/damaged/image_2018-07-19_01-09-15-726.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,312025bc454b96d0165eb9ab539cd3f9,ab23c0e0f894e5de
+dataset/color/damaged/image_2018-07-19_01-09-23-255.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,4d99ff58cecb0a72fe72349878563d64,e86a87e3f2948707
+dataset/color/damaged/image_2018-07-19_01-09-42-920.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,0b72b6ee2d5c99e8abc98b1b20b336a3,b93994d0629b872f
+dataset/color/damaged/image_2018-07-19_01-09-52-070.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,2cf1d711a2933eefca50dc7b161681e1,bd3d81c0f078d8f1
+dataset/color/damaged/image_2018-07-19_01-09-59-422.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,f69b887fdde1d64f563db20fcb4f820a,bf3fc1d0b474c0d0
+dataset/color/damaged/image_2018-07-19_01-10-23-847.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,89f9edbbf5c091a063ac5b23000e5071,bf3c8090b0dad697
+dataset/color/damaged/image_2018-07-19_01-10-33-766.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,a63deee1d61075f4b119367fda0f6ec1,bf2ef49db1b81a00
+dataset/color/damaged/image_2018-07-19_01-10-39-823.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,79a9a2175672a9385d79a86ba886156c,bd3df0f02441c9cb
+dataset/color/damaged/image_2018-07-19_01-10-52-787.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,56dc6f605d7d63cc7f650cdad7b97652,bf6ac0848397974e
+dataset/color/damaged/image_2018-07-19_01-11-02-526.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,01ed2ecbece635417d2cd837f5595fab,bb6bc068cb0305ef
+dataset/color/damaged/image_2018-07-19_01-11-09-126.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,1459b34efaf05fa31b48a240e53b694d,be62d021e3177599
+dataset/color/damaged/image_2018-07-19_01-11-16-103.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,2143263781da6321b28c50efeff4f8f3,ba7ec0b196d24393
+dataset/color/damaged/image_2018-07-19_01-11-25-118.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,eb7f0cd9ce17a0176291fa33409adf15,bf2fc9f0f0d2d080
+dataset/color/damaged/image_2018-07-19_01-11-39-910.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,302c6f79a9ec9462aba3c644bc388849,bf70b021e317551b
+dataset/color/damaged/image_2018-07-19_01-11-44-502.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,02a23125e00b1117af861ce8769324d4,ea68d1810befad8c
+dataset/color/damaged/image_2018-07-19_01-11-55-942.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,ba2517c8a20f4b3064ff901c68d77c37,bf0bd0fad8d19188
+dataset/color/damaged/image_2018-07-19_01-12-19-574.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,f2b846db1e045fe735f695cd3165a206,af8db41f122acaf0
+dataset/color/damaged/image_2018-07-19_01-12-31-814.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,8d3b135be4f7b179b0e5f2d927e56e9b,eb2fc175956070b8
+dataset/color/damaged/image_2018-07-19_01-12-40-470.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,629a018c13889c7856fb540bf17a7f6c,b93981e1d817237b
+dataset/color/damaged/image_2018-07-19_01-12-49-478.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,8589dc191e631ce6d9b22e468a9ae81c,ab2ec4e9f9d6c140
+dataset/color/damaged/image_2018-07-19_01-13-00-087.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,7aa466cbd996c80045379ef597fc0c95,f83c81f1d633231b
+dataset/color/damaged/image_2018-07-19_01-13-05-415.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,970bf0ec0c99ea8a351c287647b56ef0,bf5fc0bacae0282a
+dataset/color/damaged/image_2018-07-19_01-13-08-766.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,1d584ed7664a7c62ea9118ca291686cb,fd78c0a90585ef46
+dataset/color/damaged/image_2018-07-19_01-13-12-142.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,5043bc037eaa4b46c6658fd871b3d0dd,ab0ac4eddad4e18a
+dataset/color/damaged/image_2018-07-19_01-13-32-671.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,1de11241215f138cad21bc6103073976,ba6de400d5b782ad
+dataset/color/damaged/image_2018-07-19_01-13-43-670.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,644fb2a438bc667c277f92cd4a4eebf5,e34a9c298db189b7
+dataset/color/damaged/image_2018-07-19_01-13-48-055.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,e9878d0bf5e89599c8f0e7bbe99af779,fe68c017c5a707c9
+dataset/color/damaged/image_2018-07-19_01-13-55-510.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,e668ca47398eb345787f40adcdfb8c70,bc1d80f093227afd
+dataset/color/damaged/image_2018-07-19_01-14-13-862.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,3bda825c3482abea1c4b1ac005eab19c,ab0fd0e88fc4e5e0
+dataset/color/damaged/image_2018-07-19_01-15-22-447.jpg,mahendra,damaged,train,mahendra-damaged-042,0,640,480,ac8318b9ca170a8896b66816ed743b11,eb6bc0e8af80c4cd
+dataset/color/damaged/image_2018-07-19_01-15-28-886.jpg,mahendra,damaged,train,mahendra-damaged-042,0,640,480,27743d0256af16f36bbd4bfbc7c68679,bf7acab381c19903
+dataset/color/damaged/image_2018-07-19_01-16-24-613.jpg,mahendra,damaged,train,mahendra-damaged-043,0,640,480,ce7856fe332ba00468711222fabe691b,bf3eb4bc9a809055
+dataset/color/damaged/image_2018-07-19_01-16-31-686.jpg,mahendra,damaged,train,mahendra-damaged-043,0,640,480,8ca4b22bc8e4e724f69831782a2b340a,be1b81799582f8d8
+dataset/color/damaged/image_2018-07-19_01-17-19-639.jpg,mahendra,damaged,train,mahendra-damaged-044,0,640,480,feedb579a8c47f70f1d944a9ca6b7055,f84a876b971dca14
+dataset/color/damaged/image_2018-07-19_01-17-29-062.jpg,mahendra,damaged,train,mahendra-damaged-044,0,640,480,20f08d63ed7d0565f1347d41b02fa7cf,fa0f876595e5d880
+dataset/color/damaged/image_2018-07-19_01-17-42-934.jpg,mahendra,damaged,train,mahendra-damaged-044,0,640,480,988e23e492c7dea0f0ec076e85942709,bf2bc0eccbd0a4c1
+dataset/color/damaged/image_2018-07-19_01-18-04-782.jpg,mahendra,damaged,train,mahendra-damaged-044,0,640,480,d61d501d553201faad017bff1aeddc38,bd3c94f0721e0787
+dataset/color/damaged/image_2018-07-19_01-18-30-767.jpg,mahendra,damaged,train,mahendra-damaged-044,0,640,480,716c31586184640f54cfbcfe578928a0,bf2f82a03296e1f2
+dataset/color/damaged/image_2018-07-19_01-18-36-695.jpg,mahendra,damaged,train,mahendra-damaged-044,0,640,480,f384f7e4ac8b603821cceef13c42b2ab,bf7fc4a020c2d437
+dataset/color/damaged/image_2018-07-19_01-18-52-191.jpg,mahendra,damaged,train,mahendra-damaged-044,0,640,480,238b261ae8b04a04638bf991d48c342c,e161998f67939525
+dataset/color/damaged/image_2018-07-19_01-19-02-166.jpg,mahendra,damaged,train,mahendra-damaged-044,0,640,480,681b5c6462303f9bc4dc9b2a54a51497,be6cc0c0378fcbd0
+dataset/color/damaged/image_2018-07-19_01-19-09-157.jpg,mahendra,damaged,train,mahendra-damaged-044,0,640,480,d97a7e269cbc769ddee406c3e875d90f,bb3bd1f0f993a010
+dataset/color/damaged/image_2018-07-19_01-19-28-030.jpg,mahendra,damaged,train,mahendra-damaged-044,0,640,480,a7dc917c1e894309752a5f77a01d7446,a807a4e3f684f6f0
+dataset/color/damaged/image_2018-07-19_01-19-31-614.jpg,mahendra,damaged,train,mahendra-damaged-044,0,640,480,0de3ef6e72a3aa21018de04bda3b96ed,ee3f8ee0848fd580
+dataset/color/damaged/image_2018-07-19_01-19-37-879.jpg,mahendra,damaged,train,mahendra-damaged-044,0,640,480,6ea5a5f6310512940d0f268ed3f24715,bf4ec03e86b0ace1
+dataset/color/damaged/image_2018-07-19_01-19-44-214.jpg,mahendra,damaged,train,mahendra-damaged-044,0,640,480,77eb0ca730715814a29df165b7fbb39b,af4ed424c2ee2b83
+dataset/color/damaged/image_2018-07-19_01-19-50-918.jpg,mahendra,damaged,train,mahendra-damaged-044,0,640,480,7afe775478772b0fec053b0deb865488,f849e12a8725cfa3
+dataset/color/damaged/image_2018-07-19_01-19-57-558.jpg,mahendra,damaged,train,mahendra-damaged-044,0,640,480,a517ffa24a7b29fbb70fcc3154162448,eb22e5e31724127d
+dataset/color/damaged/image_2018-07-19_01-20-17-767.jpg,mahendra,damaged,train,mahendra-damaged-044,0,640,480,3f646257f308669a88540c8f20707be2,bf3fc0f07cc5c030
+dataset/color/damaged/image_2018-07-19_01-20-25-303.jpg,mahendra,damaged,train,mahendra-damaged-044,0,640,480,1d6fbf485b1f975a40fae97f3b232b23,b878c2c3a1e1cf87
+dataset/color/damaged/image_2018-07-19_01-20-33-423.jpg,mahendra,damaged,train,mahendra-damaged-044,0,640,480,4cbfbf01571beaf41e367e5ee40bb752,bf3f81a020d4d5f1
+dataset/color/damaged/image_2018-07-19_01-20-43-774.jpg,mahendra,damaged,train,mahendra-damaged-044,0,640,480,694c3d635fa1ac15fd76ab1816c71603,ab6bd1f121c1b703
+dataset/color/damaged/image_2018-07-19_01-20-50-487.jpg,mahendra,damaged,train,mahendra-damaged-044,0,640,480,89e16a8a9e08486ae33f087572567799,bf3f85e8da81a181
+dataset/color/damaged/image_2018-07-19_01-21-02-966.jpg,mahendra,damaged,train,mahendra-damaged-044,0,640,480,870558e38b932c5bc5b48eca922bdc3d,bf7cf028c09585cb
+dataset/color/damaged/image_2018-07-19_01-21-08-831.jpg,mahendra,damaged,train,mahendra-damaged-044,0,640,480,b2a17d9389df523379517be3cbde7dc1,bb2fe4b820c0f4d5
+dataset/color/damaged/image_2018-07-19_01-21-39-958.jpg,mahendra,damaged,test,mahendra-damaged-045,0,640,480,ead314ef53dae94cfd3fd707877e21d9,bf36e0f400c2d31f
+dataset/color/damaged/image_2018-07-19_01-21-44-119.jpg,mahendra,damaged,test,mahendra-damaged-045,0,640,480,97ce485a2d96323ccc823cf09bb6feb5,bf1fd03890e078dc
+dataset/color/damaged/image_2018-07-19_01-21-47-414.jpg,mahendra,damaged,test,mahendra-damaged-045,0,640,480,afb92dc9293f97cfc5f8aea8cb5ccff5,f83887e195965ad8
+dataset/color/damaged/image_2018-07-19_01-21-58-327.jpg,mahendra,damaged,test,mahendra-damaged-045,0,640,480,01cce09df7870f2f08d7122d659b8e84,e3719f87d595e010
+dataset/color/damaged/image_2018-07-19_01-22-06-358.jpg,mahendra,damaged,test,mahendra-damaged-045,0,640,480,3acda05ad9b5b0282ae2012b2c70bd9f,e3789ce8d3c52d03
+dataset/color/damaged/image_2018-07-19_01-22-13-046.jpg,mahendra,damaged,test,mahendra-damaged-045,0,640,480,a07e2c65caecfcfddedc5d0312162aca,f838836195e6f2f0
+dataset/color/damaged/image_2018-07-19_01-22-27-046.jpg,mahendra,damaged,test,mahendra-damaged-045,0,640,480,887692d01ac8c1dbdf2bef8598a1f072,fa7687a28eb41c52
+dataset/color/damaged/image_2018-07-19_01-22-31-934.jpg,mahendra,damaged,test,mahendra-damaged-045,0,640,480,a189ee3813f2e23f19babe33ade87fb2,e2658cce9698bd91
+dataset/color/damaged/image_2018-07-19_01-22-40-334.jpg,mahendra,damaged,test,mahendra-damaged-045,0,640,480,0224355da18e99e38818575b5f9f996d,fa3085c7179e4e91
+dataset/color/damaged/image_2018-07-19_01-22-44-134.jpg,mahendra,damaged,test,mahendra-damaged-045,0,640,480,8023fb2282210ca162cb898c760c973d,bf3ed0f620a032a7
+dataset/color/damaged/image_2018-07-19_01-22-54-840.jpg,mahendra,damaged,test,mahendra-damaged-045,0,640,480,fc671dae1d9d2aa32e8e6f6660b33742,ab339090f0d4d6fa
+dataset/color/damaged/image_2018-07-19_01-22-58-999.jpg,mahendra,damaged,test,mahendra-damaged-045,0,640,480,d2730136a3acfcbdc18c8befcc26525b,ba3b91f0fa9ac0e0
+dataset/color/damaged/image_2018-07-19_01-23-05-110.jpg,mahendra,damaged,test,mahendra-damaged-045,0,640,480,975bae8ba064f23de31c128004a5e52c,bf3180f0d8d32b2b
+dataset/color/damaged/image_2018-07-19_01-23-27-423.jpg,mahendra,damaged,test,mahendra-damaged-045,0,640,480,fc6b53cadb25067f1eb3fa140135bcac,bf3fb4a0e03474d0
+dataset/color/damaged/image_2018-07-19_01-23-58-918.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,ecc092c7ef4643dc838a2eff42b1f476,f83c9581e11195f7
+dataset/color/damaged/image_2018-07-19_01-24-04-279.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,824c9fe68e4744882aa2e6f5fa4be7f0,f0788c86a3a39797
+dataset/color/damaged/image_2018-07-19_01-24-07-957.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,32dbece741aa1502424e841db99f174d,be7fc0f074d3d010
+dataset/color/damaged/image_2018-07-19_01-24-11-766.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,9b43d58da88d646467765c763b9e3459,af2dd4f47280c467
+dataset/color/damaged/image_2018-07-19_01-24-24-174.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,90b9e5b137ef16f95f7d7ca3df795e17,f86a87618ea79496
+dataset/color/damaged/image_2018-07-19_01-24-35-023.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,3427c25ca2927907f9cc80e68d8ae235,bf3e84fc7480e0d2
+dataset/color/damaged/image_2018-07-19_01-24-41-157.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,115048e66353da16d079933c75eeb42d,bf3f90e0f894c590
+dataset/color/damaged/image_2018-07-19_01-25-01-022.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,2d37471e5f71dc13582b29bb699313f3,e36a8eae8c85b19c
+dataset/color/damaged/image_2018-07-19_01-25-20-454.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,a88315e357084dd14a005ee140039018,e36a8eeaca8e9898
+dataset/color/damaged/image_2018-07-19_01-25-42-638.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,45c3838c307af146304b7b4161b047ba,be3f84e47495e0b0
+dataset/color/damaged/image_2018-07-19_01-25-47-943.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,10279bbcfae9c5fade77bf402ea2ba30,be7ac0e800c1bf8f
+dataset/color/damaged/image_2018-07-19_01-25-54-262.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,dfb7539b3cafa37fc290f96a7548ad84,bf3f856096c1629a
+dataset/color/damaged/image_2018-07-19_01-26-07-815.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,f1e07d6924c18f40a433763960686aa0,fa3e9f85a0709495
+dataset/color/damaged/image_2018-07-19_01-26-11-078.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,c0c5162d1a97f5ad25451aeabc3b263f,bf3ed4f4b41c9090
+dataset/color/damaged/image_2018-07-19_01-26-14-046.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,7771708fe61721f62fb1dd75cc731fae,ff6fc1c0a88185ad
+dataset/color/damaged/image_2018-07-19_01-26-29-014.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,68bf9d9757fc75330c8b2bee64cd9fb4,ab6bf820c1e505cf
+dataset/color/damaged/image_2018-07-19_01-26-33-910.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,d512149e2bd05a955647eb1c59241a16,bb2bc0a0dbf1f4c0
+dataset/color/damaged/image_2018-07-19_01-26-39-039.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,8ce25f9e44e611c27eb95ec91efd2560,bf2f80b02fc524ec
+dataset/color/damaged/image_2018-07-19_01-26-43-743.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,2b7516d48f2e6f64fba1d35953825cd3,bb7ac2e022c1e52f
+dataset/color/damaged/image_2018-07-19_01-26-56-551.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,01600b46caf3f25814509a366334337d,bb3fc4f0ec8720c4
+dataset/color/damaged/image_2018-07-19_01-26-59-399.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,fcbc1d4157f3b6e205fd22ec156bc40c,be7ad0c021c1d797
+dataset/color/damaged/image_2018-07-19_01-27-16-783.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,3e455cf9beec911f058f08cf93c00d7d,e0608fcf67d494c6
+dataset/color/damaged/image_2018-07-19_01-27-20-574.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,ef5baf792ef60f51332b7ef20a8015f7,bf3f85c070b4c343
+dataset/color/damaged/image_2018-07-19_01-27-28-526.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,f7c114d14ea0a02f443b53506583613b,bf7bc0c023ebc305
+dataset/color/damaged/image_2018-07-19_01-27-33-367.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,30658762a0972e5777af1a96c984a5d6,bc78e0e12503c3f7
+dataset/color/damaged/image_2018-07-19_01-27-40-343.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,9830ff9504bdb9320b2ef46edf8dfbc5,fb7ae0e0210387e7
+dataset/color/damaged/image_2018-07-19_01-27-44-886.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,bc56b3c682e8a30c4e60cbc6ac64ea8a,bd3dc0d0f0fbc380
+dataset/color/damaged/image_2018-07-19_01-27-48-567.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,9bec3cff9bead5e6cf54a3fc941d12c3,be6fc0fcce8084c5
+dataset/color/damaged/image_2018-07-19_01-27-57-286.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,f8d9553e98465399490e86a79089a39f,aa6ad4f1610387e7
+dataset/color/damaged/image_2018-07-19_01-28-14-574.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,541b12b0c02a46b7764c7b8d5c2759ce,bb03c47393e0d29e
+dataset/color/damaged/image_2018-07-19_01-28-18-366.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,7fae22e20262d09eda9d7795bc8a8f6a,af07c16387e296c6
+dataset/color/damaged/image_2018-07-19_01-28-27-376.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,79d538a7fb82375066bb59ff1c820438,bf2de9f020d5f120
+dataset/color/damaged/image_2018-07-19_01-28-32-222.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,4bccf11e12b58b3b19b29365df1bbf68,eb2b85f5f8c1211a
+dataset/color/damaged/image_2018-07-19_01-28-35-015.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,3936708c6e9768f8e4c2fd4fd60baeeb,bf69ea50c1eac251
+dataset/color/damaged/image_2018-07-19_01-28-38-790.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,3749ed6b614eecb53d0f31c3bf6b655c,be3da5e8da9420d2
+dataset/color/damaged/image_2018-07-19_01-29-01-567.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,67baf341fbfb2cd4243f6386d4a4304a,bd3dc0f2b6c5c0b0
+dataset/color/damaged/image_2018-07-19_01-29-05-462.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,112cdd1be5ce9637a877e6f7ae8d01a3,ab2bd0f4c7c0a4ce
+dataset/color/damaged/image_2018-07-19_01-29-12-565.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,9efa9c2994f0506aaa7bb6608766063d,e666b599ac6c8591
+dataset/color/damaged/image_2018-07-19_01-29-15-823.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,acd4f65b0102d37024e4208355267a27,e263b19d2c66958d
+dataset/color/damaged/image_2018-07-19_01-29-23-461.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,fe9d03775adbb29348b3d2cc395c47e1,bb7ac8c4ec21c3c3
+dataset/color/damaged/image_2018-07-19_01-29-29-246.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,9e9ca7e677e4efd2280a9c2b83b6754b,bb68c0ad83973f18
+dataset/color/damaged/image_2018-07-19_01-29-36-311.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,a77277e515981949f33d131abb1f30ab,e363b18c8ccd9595
+dataset/color/damaged/image_2018-07-19_01-29-42-318.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,1978d1ecbabfff2b3d24af520b03dd38,e262b19d8c66959d
+dataset/color/damaged/image_2018-07-19_01-29-47-822.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,e4aeb8154e487019b3a592ce2bc1a362,bf2e84e078ddc1e0
+dataset/color/damaged/image_2018-07-19_01-29-57-621.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,32404e06601ac17f6bae719bdb98d26c,ba7ac0c4a585c3d7
+dataset/color/damaged/image_2018-07-19_01-30-08-358.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,e1458a7ba5d712796c0e2231bf301c97,e66627998c6c6c95
+dataset/color/damaged/image_2018-07-19_01-30-29-119.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,f4168644fd7b58e4cee96ca7d139daff,bf3fc4e00684e4d6
+dataset/color/damaged/image_2018-07-19_01-30-32-230.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,7b57cc668c5630d235cb410dcb8b6f60,bf3f80fc9580f098
+dataset/color/damaged/image_2018-07-19_01-30-40-198.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,2c5351c9645b54b4cc133e4bfa1fcfff,bc3dc5f0d6870296
+dataset/color/damaged/image_2018-07-19_01-30-53-669.jpg,mahendra,damaged,train,mahendra-damaged-046,0,640,480,0363d9bef5fe2b175cd9b40108296408,bf3ec07c95c0d09a
+dataset/color/damaged/image_2018-07-19_01-31-30-502.jpg,mahendra,damaged,train,mahendra-damaged-047,0,640,480,d2da9cc6b448791460c4c2703c880acd,b031c3e20587fbd3
+dataset/color/damaged/image_2018-07-19_01-31-37-143.jpg,mahendra,damaged,train,mahendra-damaged-047,0,640,480,295091d6803fb5745de2de5090b8b3c5,ea3f8161a187e7e0
+dataset/color/damaged/image_2018-07-19_01-31-46-926.jpg,mahendra,damaged,train,mahendra-damaged-047,0,640,480,068da72a8d08601577ce5480b75191ed,b13185e377178783
+dataset/color/damaged/image_2018-07-19_01-32-05-879.jpg,mahendra,damaged,train,mahendra-damaged-047,0,640,480,331879e2500bc7df49bda4fd9823ebd8,b839e1f01087fb93
+dataset/color/damaged/image_2018-07-19_01-32-43-654.jpg,mahendra,damaged,train,mahendra-damaged-048,0,640,480,57f6aae3b0293cb87c45a4ebdf9a0acf,ba78c8f1b501c3c7
+dataset/color/damaged/image_2018-07-19_01-33-29-862.jpg,mahendra,damaged,test,mahendra-damaged-049,0,640,480,44d692659c12e47bcd3ad285f7f10cd4,ba68c1958adb9d8c
+dataset/color/damaged/image_2018-07-19_01-33-35-254.jpg,mahendra,damaged,test,mahendra-damaged-049,0,640,480,412ba8ff9be85a4f6c307ffe9a2321b4,be26c0b603c3935f
+dataset/color/damaged/image_2018-07-19_01-33-41-079.jpg,mahendra,damaged,test,mahendra-damaged-049,0,640,480,95eb714cf08250f669849fb9c8bfcc57,bacae12981d59d96
+dataset/color/damaged/image_2018-07-19_01-33-46-934.jpg,mahendra,damaged,test,mahendra-damaged-049,0,640,480,da38df36940705dba4b66f9d505da667,fe3e90e065178743
+dataset/color/damaged/image_2018-07-19_01-34-16-791.jpg,mahendra,damaged,test,mahendra-damaged-049,0,640,480,714ae80429f64b6f58bb7341d8cbbe55,e8389cecb19b0f13
+dataset/color/damaged/image_2018-07-19_01-34-20-542.jpg,mahendra,damaged,test,mahendra-damaged-049,0,640,480,3f8a4a0997cb13c27f77f8754f871170,ab49c1a1cbd254de
+dataset/color/damaged/image_2018-07-19_01-34-28-598.jpg,mahendra,damaged,test,mahendra-damaged-049,0,640,480,ebe44070876a7a01cea627bbf9272f19,bb3f8fc35080e178
+dataset/color/damaged/image_2018-07-19_01-34-35-351.jpg,mahendra,damaged,test,mahendra-damaged-049,0,640,480,884f5d0573a1703a7f7d0e0479c2b12d,be3ec58535158687
+dataset/color/damaged/image_2018-07-19_01-34-41-182.jpg,mahendra,damaged,test,mahendra-damaged-049,0,640,480,f0de387d91fda64ba5d06556282cf839,bd39c1b13dd2d0a4
+dataset/color/damaged/image_2018-07-19_01-34-45-702.jpg,mahendra,damaged,test,mahendra-damaged-049,0,640,480,c478cda34318fdcdcb887b0f43658c89,bf3f83538fc26005
+dataset/color/damaged/image_2018-07-19_01-35-50-822.jpg,mahendra,damaged,val,mahendra-damaged-050,0,640,480,aab07af40bfa77da2cf782144df07004,fa6ac060da359d3a
+dataset/color/damaged/image_2018-07-19_01-36-13-983.jpg,mahendra,damaged,val,mahendra-damaged-050,0,640,480,ba900e32121532ce03336438f4581634,f83d95c75290c3c3
+dataset/color/damaged/image_2018-07-19_01-36-20-943.jpg,mahendra,damaged,val,mahendra-damaged-050,0,640,480,ea53e7bb9533da7b0a20bddbb00cc599,bb3f85c7529e8a40
+dataset/color/damaged/image_2018-07-19_01-36-26-766.jpg,mahendra,damaged,val,mahendra-damaged-050,0,640,480,e8f8f7a67033c71203fc684994708d05,ba7ac08505d79787
+dataset/color/damaged/image_2018-07-19_01-36-35-799.jpg,mahendra,damaged,val,mahendra-damaged-050,0,640,480,fb5cceda6e6b83018a2aa612ea60023b,e468d88ecf2f1c8c
+dataset/color/damaged/image_2018-07-19_01-36-40-943.jpg,mahendra,damaged,val,mahendra-damaged-050,0,640,480,b1a42c37a9bfc91fa5787a8caf213e80,e8389dc75794ce42
+dataset/color/damaged/image_2018-07-19_01-37-27-191.jpg,mahendra,damaged,train,mahendra-damaged-051,0,640,480,19dc8203d0f55850eadf86c3628f5e3c,af37c1f197c0489c
+dataset/color/damaged/image_2018-07-19_01-37-56-246.jpg,mahendra,damaged,train,mahendra-damaged-051,0,640,480,0378b4f30220667678000bb70e8b767e,bf3ac2d2b720c296
+dataset/color/damaged/image_2018-07-19_01-38-05-413.jpg,mahendra,damaged,train,mahendra-damaged-051,0,640,480,c08c0df036ff586d3b303a85c70e96f5,be3e80f47c94b05a
+dataset/color/damaged/image_2018-07-19_01-38-18-214.jpg,mahendra,damaged,train,mahendra-damaged-051,0,640,480,9752407f3875a88f57847888fe0a7a0e,bb3b80f47690f0f0
+dataset/color/damaged/image_2018-07-19_01-38-32-966.jpg,mahendra,damaged,train,mahendra-damaged-051,0,640,480,e2378b69b5b2358a30bbefdb5864f5f6,ba2b80f09f97d095
+dataset/color/damaged/image_2018-07-19_01-38-41-414.jpg,mahendra,damaged,train,mahendra-damaged-051,0,640,480,63454305e8c8b250a94a649abfc582ca,ed61e02485e5dfa2
+dataset/color/damaged/image_2018-07-19_01-38-59-286.jpg,mahendra,damaged,train,mahendra-damaged-051,0,640,480,7abb76839ed2bba81c1f5b988cd75177,bff0b458d038f829
+dataset/color/damaged/image_2018-07-19_01-39-03-509.jpg,mahendra,damaged,train,mahendra-damaged-051,0,640,480,4f02948f1516ea2bb63394923f9959ef,af34c0e897c1e4d5
+dataset/color/damaged/image_2018-07-19_01-39-09-047.jpg,mahendra,damaged,train,mahendra-damaged-051,0,640,480,70e8674b3652abd0cfe7f201ebf3fe8e,bb7ce424c3f606c4
+dataset/color/damaged/image_2018-07-19_01-39-14-087.jpg,mahendra,damaged,train,mahendra-damaged-051,0,640,480,5d7b73d0a487a84b6c42e9c6d58ed265,bf1ec5399d219063
+dataset/color/damaged/image_2018-07-19_01-39-22-262.jpg,mahendra,damaged,train,mahendra-damaged-051,0,640,480,f49f5523fdbde84de1ba08a8eaa93469,bf3fc0b43fc0d014
+dataset/color/damaged/image_2018-07-19_01-39-29-014.jpg,mahendra,damaged,train,mahendra-damaged-051,0,640,480,03e4f8a87c810461ce6a86142ab439b5,ab2185f07687e27a
+dataset/color/damaged/image_2018-07-19_01-39-57-744.jpg,mahendra,damaged,train,mahendra-damaged-051,0,640,480,356a4e8345507433d4716ec8ba527aaf,ba35c5f08783039f
+dataset/color/damaged/image_2018-07-19_01-40-02-231.jpg,mahendra,damaged,train,mahendra-damaged-051,0,640,480,0d5e7728605cd01df7ba709389ad8356,be1ec2208e87d5dc
+dataset/color/damaged/image_2018-07-19_01-40-07-463.jpg,mahendra,damaged,train,mahendra-damaged-051,0,640,480,17f05f61000d3f64621b551c94d2656b,aa69e58152d7971a
+dataset/color/damaged/image_2018-07-19_01-40-24-471.jpg,mahendra,damaged,train,mahendra-damaged-051,0,640,480,631fa7b733a79a0fee6226b836ebbb0a,bea5e1068b7b9a42
+dataset/color/damaged/image_2018-07-19_01-40-29-750.jpg,mahendra,damaged,train,mahendra-damaged-051,0,640,480,dfa37c66e334630346a3d08384257500,bc3cc4289ecf98cc
+dataset/color/damaged/image_2018-07-19_01-40-40-503.jpg,mahendra,damaged,train,mahendra-damaged-051,0,640,480,c0e334104e09501ccda0dc59fe25e2bf,bf64ed24c412e2ce
+dataset/color/damaged/image_2018-07-19_01-40-44-422.jpg,mahendra,damaged,train,mahendra-damaged-051,0,640,480,5294210a03320e5480dffa8e38991df0,b636c8e201c1df4f
+dataset/color/damaged/image_2018-07-19_01-41-14-599.jpg,mahendra,damaged,train,mahendra-damaged-051,0,640,480,602d3c7af913df458396b822194ab4cd,be3e85d1789ec290
+dataset/color/damaged/image_2018-07-19_01-41-19-791.jpg,mahendra,damaged,train,mahendra-damaged-051,0,640,480,0f1598a880ca81c38c2e890c5aafddbf,af6ae0b5e0ca92e4
+dataset/color/damaged/image_2018-07-19_01-41-34-023.jpg,mahendra,damaged,train,mahendra-damaged-051,0,640,480,51703ab1e574d3645c81bd630bcdae58,be3f91c07496d270
+dataset/color/damaged/image_2018-07-19_01-41-38-614.jpg,mahendra,damaged,train,mahendra-damaged-051,0,640,480,0c93031c719baed75451b6a0fc2b5939,f8388de170d28e2f
+dataset/color/damaged/image_2018-07-19_01-41-46-222.jpg,mahendra,damaged,train,mahendra-damaged-051,0,640,480,c1f3ce66db834878e4c424f116c8d341,bbb5d03d92f09b40
+dataset/color/damaged/image_2018-07-19_01-41-53-599.jpg,mahendra,damaged,train,mahendra-damaged-051,0,640,480,d94d346abcf4f4cacebcd0240195ca08,fe7bc1a08a87258e
+dataset/color/damaged/image_2018-07-19_01-42-04-263.jpg,mahendra,damaged,train,mahendra-damaged-051,0,640,480,3fa30b8bf09348e32f20d1cd487baa08,f83c85e0d096a7d3
+dataset/color/damaged/image_2018-07-19_01-42-16-782.jpg,mahendra,damaged,train,mahendra-damaged-051,0,640,480,9021b09e8083dd001d4f588e35ac1a96,bb3f907191d0f0ca
+dataset/color/damaged/image_2018-07-19_01-42-24-223.jpg,mahendra,damaged,train,mahendra-damaged-051,0,640,480,8ea195d1d7cb2d276c19fffb5163aba8,be3f80f094c3e0dc
+dataset/color/damaged/image_2018-07-19_01-42-40-296.jpg,mahendra,damaged,train,mahendra-damaged-051,0,640,480,e2061afae21e22c707eb67fb1dfbda3b,be3dc470d480e8d7
+dataset/color/damaged/image_2018-07-19_01-43-08-038.jpg,mahendra,damaged,train,mahendra-damaged-051,0,640,480,4c825023485022567bf56d2cc62418bf,be29c178c1a77ac1
+dataset/color/damaged/image_2018-07-19_01-43-23-534.jpg,mahendra,damaged,train,mahendra-damaged-051,0,640,480,d8910b01b00c6999046d8b14b1ca5ba9,bf6ac001c3df0cda
+dataset/color/damaged/image_2018-07-19_01-43-27-430.jpg,mahendra,damaged,train,mahendra-damaged-051,0,640,480,1db186c62b0ed0d6aecee20897b383b2,ea3b95c560b09e47
+dataset/color/damaged/image_2018-07-19_01-43-30-774.jpg,mahendra,damaged,train,mahendra-damaged-051,0,640,480,65c9baf4ef405d6e16f73fd4313a3561,fa3f87c77190c0c2
+dataset/color/damaged/image_2018-07-19_01-43-48-967.jpg,mahendra,damaged,train,mahendra-damaged-051,0,640,480,9626978d26ef4c4626420c31f1a61c06,a721c163d7e51a1e
+dataset/color/damaged/image_2018-07-19_01-44-00-838.jpg,mahendra,damaged,train,mahendra-damaged-051,0,640,480,1e58eda92bbfbe1938cae2e9a04baa4f,b8628778c20fceb3
+dataset/color/damaged/image_2018-07-19_01-44-45-375.jpg,mahendra,damaged,train,mahendra-damaged-052,0,640,480,a861e47304c9d8030d6da60854a0d644,e3319f43909a7237
+dataset/color/damaged/image_2018-07-19_01-44-51-221.jpg,mahendra,damaged,train,mahendra-damaged-052,0,640,480,6ef47ab9175049e3b311045e36d037f5,e1319dc7909a6a37
+dataset/color/damaged/image_2018-07-19_01-45-17-679.jpg,mahendra,damaged,train,mahendra-damaged-052,0,640,480,b31cf47e3f37ea20c48cabca715fcbac,be6ac0e84a81e1fb
+dataset/color/damaged/image_2018-07-19_01-46-01-558.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,7c4e031253f5a32a3038e985a09cfac4,be3e84e0f59ac2d0
+dataset/color/damaged/image_2018-07-19_01-46-05-014.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,5a97a18f8721cd62804f2a2fbd299799,bf3f85f09282c0d9
+dataset/color/damaged/image_2018-07-19_01-46-13-447.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,6c72119ff59aa1317545ebab9cb5fde8,bd3e929070dadac8
+dataset/color/damaged/image_2018-07-19_01-46-23-942.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,3932bb000a5705c42d0be7f696a9c862,be3e85a5e0d09707
+dataset/color/damaged/image_2018-07-19_01-46-28-358.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,2aff0a778eea778ea68c05a83a795692,bb39c17091c0f0df
+dataset/color/damaged/image_2018-07-19_01-46-55-878.jpg,mahendra,damaged,train,mahendra-damaged-041,0,640,480,41c1d1575fb84d46925b9d560d7fba18,fa388161d0679bb6
+dataset/color/good/image_2018-07-16_21-24-29-535.jpg,mahendra,good,train,mahendra-good-001,0,640,480,40d83ac62f8748adb9300ea281b01e00,a97edec4a1298ec2
+dataset/color/good/image_2018-07-16_21-24-42-695.jpg,mahendra,good,train,mahendra-good-001,0,640,480,c08be79c5b920cc81c4b22f270743e90,af3ed0e0209ad6f4
+dataset/color/good/image_2018-07-16_21-27-01-930.jpg,mahendra,good,train,mahendra-good-003,0,640,480,ae8e6f1c5788ef1bd95964ccb748352f,af2bdad2b681c096
+dataset/color/good/image_2018-07-16_21-27-37-534.jpg,mahendra,good,train,mahendra-good-004,0,640,480,3fa5e1dc78617cb27b965adb54dfabb8,ab69d4c4244dcf27
+dataset/color/good/image_2018-07-16_21-27-42-399.jpg,mahendra,good,train,mahendra-good-004,0,640,480,c28a371bd65e274f9716d7b1bfd4d850,a929dad2f1db9282
+dataset/color/good/image_2018-07-16_21-27-49-399.jpg,mahendra,good,train,mahendra-good-004,0,640,480,af74e70e7ad1dac44a0a218741e68745,ea2c8cd47cbcde40
+dataset/color/good/image_2018-07-16_21-29-15-295.jpg,mahendra,good,test,mahendra-good-005,0,640,480,1201cb058b324b0f1938d0b2737a3101,b737c3d13141c23b
+dataset/color/good/image_2018-07-16_21-29-21-575.jpg,mahendra,good,test,mahendra-good-005,0,640,480,7b238e6e30bd64fe17718be84e0de5ab,e92b878771539383
+dataset/color/good/image_2018-07-16_21-29-25-247.jpg,mahendra,good,test,mahendra-good-005,0,640,480,c11ff69033c7f74624d2df71e24b0016,ef3f9585471a90e0
+dataset/color/good/image_2018-07-16_21-29-29-167.jpg,mahendra,good,test,mahendra-good-005,0,640,480,40921e92331944876a69ab8432603812,ad2c96d2787c9692
+dataset/color/good/image_2018-07-16_21-29-33-047.jpg,mahendra,good,test,mahendra-good-005,0,640,480,639ca9fb33bff2b170a1ea145812311b,eb2d85d578789494
+dataset/color/good/image_2018-07-16_21-30-22-456.jpg,mahendra,good,train,mahendra-good-006,0,640,480,dabae2b01fc2ab1fe1721413e220220c,ef3e9c9470589a8a
+dataset/color/good/image_2018-07-16_21-31-46-543.jpg,mahendra,good,test,mahendra-good-007,0,640,480,4ee4583fe5bbf1f756a68df728c39338,fc3c9480c35b5acb
+dataset/color/good/image_2018-07-16_21-31-50-823.jpg,mahendra,good,test,mahendra-good-007,0,640,480,c61ee9dfcc17caf843f6ab2e6ed99a1c,fe3ebc80f0709296
+dataset/color/good/image_2018-07-16_21-31-53-623.jpg,mahendra,good,test,mahendra-good-007,0,640,480,663beee06fc0fd575c5590ac70996ef3,ea2a8585e0f4b4cf
+dataset/color/good/image_2018-07-16_21-31-57-128.jpg,mahendra,good,test,mahendra-good-007,0,640,480,3a95cae1957763852ef100ac37c28af7,af3f95d0729a8341
+dataset/color/good/image_2018-07-16_21-32-00-915.jpg,mahendra,good,test,mahendra-good-007,0,640,480,46af509deaed134c4d02efac3dbc6238,ab6ac5b525c09735
+dataset/color/good/image_2018-07-16_21-32-04-495.jpg,mahendra,good,test,mahendra-good-007,0,640,480,8ea6fcab437a75e4f4f8a926f77c3add,af2bf0d4b425c2d2
+dataset/color/good/image_2018-07-16_21-32-13-991.jpg,mahendra,good,test,mahendra-good-007,0,640,480,d1bc1814072bff35b55413777576e5e2,e8688787a566d595
+dataset/color/good/image_2018-07-16_21-32-19-366.jpg,mahendra,good,test,mahendra-good-007,0,640,480,1deb1912d288ef35f650c15ec636a910,fe3f95c07098ca62
+dataset/color/good/image_2018-07-16_21-32-25-559.jpg,mahendra,good,test,mahendra-good-007,0,640,480,eb53fb223ad176fc1249758b6ea7e7ca,ef3f80a061d494e7
+dataset/color/good/image_2018-07-16_21-32-30-903.jpg,mahendra,good,test,mahendra-good-007,0,640,480,196d3588bf4a31db7e675da1e6127e69,aa6ad5f43083d27a
+dataset/color/good/image_2018-07-16_21-32-34-647.jpg,mahendra,good,test,mahendra-good-007,0,640,480,edfaca0f7db2741eaab465a18e8be637,ba2bc9d17a48c1b5
+dataset/color/good/image_2018-07-16_21-33-11-358.jpg,mahendra,good,train,mahendra-good-008,0,640,480,3b13ade7f4ea5defe435f4aa5ef9e1dd,ea62978756938b52
+dataset/color/good/image_2018-07-16_21-33-15-272.jpg,mahendra,good,train,mahendra-good-008,0,640,480,25a25bb854eadf9d59c4bc5c83ffdb32,ea63b185475692ae
+dataset/color/good/image_2018-07-16_21-33-18-399.jpg,mahendra,good,train,mahendra-good-008,0,640,480,7695c9181fd2a9394701e6a00cc05911,ea7a92a22a978765
+dataset/color/good/image_2018-07-16_21-33-18-487.jpg,mahendra,good,train,mahendra-good-008,0,640,480,b920fb34dfe865d16ba6f95ac57d1a41,ea7a92a22a978765
+dataset/color/good/image_2018-07-16_21-33-21-907.jpg,mahendra,good,train,mahendra-good-008,0,640,480,d1a5b9cfc76d0392df939e3502d6ed9c,bd3dc2d21301cddc
+dataset/color/good/image_2018-07-16_21-33-27-118.jpg,mahendra,good,train,mahendra-good-008,0,640,480,c66d6ea2ad8738f81c9ce242c5b013ac,ad6dc4d43484d3b3
+dataset/color/good/image_2018-07-16_21-33-31-511.jpg,mahendra,good,train,mahendra-good-008,0,640,480,ea1581d9531fe60f7c5eec45514e5e82,eb33b19171709b43
+dataset/color/good/image_2018-07-16_21-33-37-559.jpg,mahendra,good,train,mahendra-good-008,0,640,480,95dfb1da004580d33ff4931834ff5fd3,ef2f9d94e070f090
+dataset/color/good/image_2018-07-16_21-33-40-419.jpg,mahendra,good,train,mahendra-good-008,0,640,480,542a76392a0d3bc05e25b35b6190d3a3,b737ced2321e8b01
+dataset/color/good/image_2018-07-16_21-33-43-631.jpg,mahendra,good,train,mahendra-good-008,0,640,480,795427012fb114acfec31659e1e2d8dd,ea6bd995e169c881
+dataset/color/good/image_2018-07-16_21-33-46-942.jpg,mahendra,good,train,mahendra-good-008,0,640,480,faae469996847016be90506665685fa4,ea6ac8d4a4278f87
+dataset/color/good/image_2018-07-16_21-33-50-928.jpg,mahendra,good,train,mahendra-good-008,0,640,480,cb6b07c4a4ef06a6b6d3cc7a163a6850,ea6626b28a4eaea6
+dataset/color/good/image_2018-07-16_21-36-09-315.jpg,mahendra,good,val,mahendra-good-009,0,640,480,cc0abc39ed2153511b84ad3c9be88735,ea6ac1e5a50585d7
+dataset/color/good/image_2018-07-16_21-38-06-190.jpg,mahendra,good,train,mahendra-good-010,0,640,480,b095ccaa207e02929b2bc55bbdfd34e3,ef2f8f85e5709480
+dataset/color/good/image_2018-07-16_21-38-12-351.jpg,mahendra,good,train,mahendra-good-010,0,640,480,eccf0ea233e7534d85e34da77a95cf51,ea3c9590701e9b6b
+dataset/color/good/image_2018-07-16_21-38-17-928.jpg,mahendra,good,train,mahendra-good-010,0,640,480,583857a45fac2d38dd2b9968f1221cd5,b430cbc9f8fccd80
+dataset/color/good/image_2018-07-16_21-38-23-638.jpg,mahendra,good,train,mahendra-good-010,0,640,480,baf19e629a40dfc04cfd30c99d436a94,a5349eda78188eec
+dataset/color/good/image_2018-07-16_21-38-30-600.jpg,mahendra,good,train,mahendra-good-010,0,640,480,dbcc1cb57bd98a207b76bf11e182a5fd,bf34c4cd1bd2d218
+dataset/color/good/image_2018-07-16_21-38-36-095.jpg,mahendra,good,train,mahendra-good-010,0,640,480,9021d3e0b795922b1bd2db6be0646b92,b737c8d83a06c2d3
+dataset/color/good/image_2018-07-16_21-41-13-039.jpg,mahendra,good,val,mahendra-good-011,0,640,480,c34676505ecdf832506089c253e7e605,f83c9cd4f0509a8f
+dataset/color/good/image_2018-07-16_21-41-17-315.jpg,mahendra,good,val,mahendra-good-011,0,640,480,3f324777c9dcdc4429c8bbd3a42c42cd,be3ec0c0a5259fd2
+dataset/color/good/image_2018-07-16_21-41-21-982.jpg,mahendra,good,val,mahendra-good-011,0,640,480,15f17f050e3d62880653ee2da3a19eaf,ad2d9ed2f0309a93
+dataset/color/good/image_2018-07-16_21-41-25-895.jpg,mahendra,good,val,mahendra-good-011,0,640,480,ef52e5f8a8fe05b5aa4eb4bd9fa3e996,ad2f92d2787ad2c0
+dataset/color/good/image_2018-07-16_21-41-32-350.jpg,mahendra,good,val,mahendra-good-011,0,640,480,752d780df569ab22adf5c2a6df413f04,ad6dc981a485ce5e
+dataset/color/good/image_2018-07-16_21-41-36-582.jpg,mahendra,good,val,mahendra-good-011,0,640,480,30aad21744d8ac7669c48f73fbf78913,ad6dc5c4f48d8585
+dataset/color/good/image_2018-07-16_21-45-04-210.jpg,mahendra,good,val,mahendra-good-012,0,640,480,2ef6eb40bbfa4eb026c66fef2d7b2c6e,ea6a85a5e1559587
+dataset/color/good/image_2018-07-16_21-45-10-919.jpg,mahendra,good,val,mahendra-good-012,0,640,480,ff55f582cfc742cbf582cbbd42e6b323,eb3b81e07195e370
+dataset/color/good/image_2018-07-16_21-45-15-663.jpg,mahendra,good,val,mahendra-good-012,0,640,480,cde928bd7a2d3fc9a761d9234ec8d286,bb2bdaf135c19032
+dataset/color/good/image_2018-07-16_21-45-28-822.jpg,mahendra,good,val,mahendra-good-012,0,640,480,c842ad8baf2187819fb802e1ce19c589,bf3dc9d830c4c839
+dataset/color/good/image_2018-07-16_21-45-33-591.jpg,mahendra,good,val,mahendra-good-012,0,640,480,3706970bcc2c403517b00cf0319e2a8f,bd2dc9da3201c9b9
+dataset/color/good/image_2018-07-16_21-45-39-183.jpg,mahendra,good,val,mahendra-good-012,0,640,480,05b9b866c28dcef3dcc7acdc98f125ea,ea3a958763d092e3
+dataset/color/good/image_2018-07-16_21-45-46-807.jpg,mahendra,good,val,mahendra-good-012,0,640,480,ba0ea3ed0449293f74a0efe6615cd136,af69c0b525c29a2f
+dataset/color/good/image_2018-07-16_21-46-13-422.jpg,mahendra,good,val,mahendra-good-012,0,640,480,d9547d84689af44e6f1ddd8b8633ea79,ea6b8f8765958642
+dataset/color/good/image_2018-07-16_21-46-18-007.jpg,mahendra,good,val,mahendra-good-012,0,640,480,17a338152740499ea8108da8b987b17b,ab2785425a8f4b5d
+dataset/color/good/image_2018-07-16_21-46-26-039.jpg,mahendra,good,val,mahendra-good-012,0,640,480,1f2ae2983e2852befb04bafd90286325,eb2c9ce54195e643
+dataset/color/good/image_2018-07-16_21-46-29-447.jpg,mahendra,good,val,mahendra-good-012,0,640,480,1669ab0cd10d807bddbce843750f9ba0,eb2f85e07b87c130
+dataset/color/good/image_2018-07-16_21-46-34-446.jpg,mahendra,good,val,mahendra-good-012,0,640,480,b5b3059301474410da3dc92e28358629,ab2785521f8b499d
+dataset/color/good/image_2018-07-16_21-46-37-462.jpg,mahendra,good,val,mahendra-good-012,0,640,480,8941a14e8bd12b7960862a4c7396eeff,fa66d4b48f82248f
+dataset/color/good/image_2018-07-16_21-46-42-031.jpg,mahendra,good,val,mahendra-good-012,0,640,480,4dbdeab5ddd0a620e9b5ac4637ffdd76,bf78c891a0adab2a
+dataset/color/good/image_2018-07-16_21-46-47-231.jpg,mahendra,good,val,mahendra-good-012,0,640,480,26b579ff3ca98f8ec478b6127e9de827,bf69c8d00682abbb
+dataset/color/good/image_2018-07-16_21-46-55-438.jpg,mahendra,good,val,mahendra-good-012,0,640,480,5292d3aeea6fab7f02a38ccc51262c0a,ea2b81f070d6d27a
+dataset/color/good/image_2018-07-16_21-47-04-959.jpg,mahendra,good,val,mahendra-good-012,0,640,480,65061498670f1bc7a1de71d3fb27854c,eb2f85f17494a270
+dataset/color/good/image_2018-07-16_21-47-20-791.jpg,mahendra,good,val,mahendra-good-012,0,640,480,832e8880661473ef09bb89fa62bb6a8d,b636c4c9d93b8bc0
+dataset/color/good/image_2018-07-16_21-47-24-751.jpg,mahendra,good,val,mahendra-good-012,0,640,480,f0fbb2d6a63d6354f226f53f9802cc3e,b636c3d2328fc9d0
+dataset/color/good/image_2018-07-16_21-47-28-798.jpg,mahendra,good,val,mahendra-good-012,0,640,480,60048467db8d23210e1f28bb9943c68f,fa3e8de0749dc070
+dataset/color/good/image_2018-07-16_21-47-33-287.jpg,mahendra,good,val,mahendra-good-012,0,640,480,893cdd940ed0bdd4e2f1b4e3b05c991d,b43dc9dab296c099
+dataset/color/good/image_2018-07-16_21-47-36-823.jpg,mahendra,good,val,mahendra-good-012,0,640,480,82d40461189e0820b3fbe44c2eb48b99,b63681c0f07ecfc1
+dataset/color/good/image_2018-07-16_21-47-42-702.jpg,mahendra,good,val,mahendra-good-012,0,640,480,aec1e8db4f0d63086b53cdec943c916f,b636c8da3a73c168
+dataset/color/good/image_2018-07-16_21-47-46-854.jpg,mahendra,good,val,mahendra-good-012,0,640,480,31039e61d86d33e72dd0ebb6db071e52,a52dd8d272349cd3
+dataset/color/good/image_2018-07-16_21-47-56-819.jpg,mahendra,good,val,mahendra-good-012,0,640,480,e49948860b8546ec9e8c414ce08795dc,eb6b9095ac6e8295
+dataset/color/good/image_2018-07-16_21-48-06-647.jpg,mahendra,good,val,mahendra-good-012,0,640,480,e799a702cd5e34affeb3833f22495a28,ab3b978161b191e3
+dataset/color/good/image_2018-07-16_21-48-10-224.jpg,mahendra,good,val,mahendra-good-012,0,640,480,f5833339648df2d154a1f474a74748e4,eb2b95f170b0d262
+dataset/color/good/image_2018-07-16_21-48-13-543.jpg,mahendra,good,val,mahendra-good-012,0,640,480,cab220eb20b1a3475e344b3e75f6a754,ea6181e161b5ed63
+dataset/color/good/image_2018-07-16_21-48-18-126.jpg,mahendra,good,val,mahendra-good-012,0,640,480,1c68d2eb613b61410a3b96d44debb03e,ea3695e377928243
+dataset/color/good/image_2018-07-16_21-48-24-287.jpg,mahendra,good,val,mahendra-good-012,0,640,480,6a41d52fd70a10bde09fc19e8806a761,ea6e85877690b0ea
+dataset/color/good/image_2018-07-16_21-48-30-087.jpg,mahendra,good,val,mahendra-good-012,0,640,480,06a58d747144b088c7e5525f09eed8b2,bf3bd19132c8c929
+dataset/color/good/image_2018-07-16_21-48-34-585.jpg,mahendra,good,val,mahendra-good-012,0,640,480,3067c244208e1fd8db3475f8db7a8621,bb39c8c802e3cf1b
+dataset/color/good/image_2018-07-16_21-48-39-239.jpg,mahendra,good,val,mahendra-good-012,0,640,480,e5f5a2191df6c4fdd13b999dad4cd590,b737d0d01949c9cd
+dataset/color/good/image_2018-07-16_21-48-42-687.jpg,mahendra,good,val,mahendra-good-012,0,640,480,9150ae4e3ad8819dc265bbac0e5f4f73,eb63958547179a68
+dataset/color/good/image_2018-07-16_21-48-51-046.jpg,mahendra,good,val,mahendra-good-012,0,640,480,b0a4b18d7c4e35aabbcfb9496cd66432,e8789195a1339ed6
+dataset/color/good/image_2018-07-16_21-48-54-726.jpg,mahendra,good,val,mahendra-good-012,0,640,480,bb830338ba3bd30794ba6b15375710c5,e8799387a7549496
+dataset/color/good/image_2018-07-16_21-48-58-615.jpg,mahendra,good,val,mahendra-good-012,0,640,480,8c2fc6cec72569007fa50f175a8f0ae1,ea6a9c85a561d595
+dataset/color/good/image_2018-07-16_21-49-02-479.jpg,mahendra,good,val,mahendra-good-012,0,640,480,2b429c84d5d965b7b77ea5861719e41d,ab6fc4c5290d85b5
+dataset/color/good/image_2018-07-16_21-49-08-494.jpg,mahendra,good,val,mahendra-good-012,0,640,480,aedb293975ee0ffa5b133e068ce6837f,b727d2d232c1d133
+dataset/color/good/image_2018-07-16_21-49-13-454.jpg,mahendra,good,val,mahendra-good-012,0,640,480,fed56a15545eabed3bdadce6a3267e55,b627c9f23207c13b
+dataset/color/good/image_2018-07-16_21-49-19-335.jpg,mahendra,good,val,mahendra-good-012,0,640,480,4a10b13f4c4a49e512efe4e349b95a41,bf6bc2f03581b0b2
+dataset/color/good/image_2018-07-16_21-49-22-919.jpg,mahendra,good,val,mahendra-good-012,0,640,480,867ef1c4650232c01071f9a73923ba80,b535d3d233c3c131
+dataset/color/good/image_2018-07-16_21-49-26-034.jpg,mahendra,good,val,mahendra-good-012,0,640,480,77058411056bcc5ea1f54855818c05cb,ee2e85f56c8f8224
+dataset/color/good/image_2018-07-16_21-49-33-847.jpg,mahendra,good,val,mahendra-good-012,0,640,480,f9d7e1da1d6e9b0494a3b2766f3ddcae,eb6d85ed6cc0c04d
+dataset/color/good/image_2018-07-16_21-49-47-719.jpg,mahendra,good,val,mahendra-good-012,0,640,480,38dccc07d70be54fb7a1a83b9597429b,ee2f85c57090e2f2
+dataset/color/good/image_2018-07-16_21-49-52-751.jpg,mahendra,good,val,mahendra-good-012,0,640,480,3c85092d8950b337607040e3ad0bb3c1,ea2f95a5f0d494c2
+dataset/color/good/image_2018-07-16_21-49-59-095.jpg,mahendra,good,val,mahendra-good-012,0,640,480,c7fab379816930d512ad6ffa1e5e04bd,be6acaa0a0e5d517
+dataset/color/good/image_2018-07-16_21-50-11-551.jpg,mahendra,good,val,mahendra-good-012,0,640,480,841dc893043c1910f7e7093ce9f9d347,ee6ed43509ca2ea8
+dataset/color/good/image_2018-07-17_01-32-03-692.jpg,mahendra,good,train,mahendra-good-013,0,640,480,b7e908ecceae962cb19e931f975c157a,e531929ac763c999
+dataset/color/good/image_2018-07-17_01-32-09-521.jpg,mahendra,good,train,mahendra-good-013,0,640,480,4a41c1a6efb009271961db5fdd94d16d,bc3c9692c32b1b8b
+dataset/color/good/image_2018-07-17_01-32-13-759.jpg,mahendra,good,train,mahendra-good-013,0,640,480,6876ba37baacbe1257b5e4a96773be40,e1619196c6c3db9a
+dataset/color/good/image_2018-07-17_01-32-19-776.jpg,mahendra,good,train,mahendra-good-013,0,640,480,f097dd0697772762ed6f551d58f0612d,eb6b969525ad8c81
+dataset/color/good/image_2018-07-17_01-32-26-753.jpg,mahendra,good,train,mahendra-good-013,0,640,480,7cbbadcb0687dcf0432d76849be3485d,ea688f8765cc8e85
+dataset/color/good/image_2018-07-17_01-32-56-272.jpg,mahendra,good,train,mahendra-good-013,0,640,480,529ab1a7ca8e4a9acbec512be2176374,e667939a984cc69a
+dataset/color/good/image_2018-07-17_01-33-06-521.jpg,mahendra,good,train,mahendra-good-013,0,640,480,9aac1cf3651bac043da0446dfe995f15,e5659292ce4fc392
+dataset/color/good/image_2018-07-17_01-35-23-985.jpg,mahendra,good,train,mahendra-good-014,0,640,480,0f93da562ed226d78bf38561177bc659,bc3c8560bcfcf490
+dataset/color/good/image_2018-07-17_01-35-29-903.jpg,mahendra,good,train,mahendra-good-014,0,640,480,6b63a1e2456d2107aa6b6b98dceb6533,be37c1f096c3b092
+dataset/color/good/image_2018-07-17_01-35-32-984.jpg,mahendra,good,train,mahendra-good-014,0,640,480,8532126a00eecd40c5e6bdd6535d126c,bf2ec078cfa78481
+dataset/color/good/image_2018-07-17_01-35-38-288.jpg,mahendra,good,train,mahendra-good-014,0,640,480,50b99201845273fe5457f99d02c74c83,bf3fc5ec96850098
+dataset/color/good/image_2018-07-17_01-35-48-447.jpg,mahendra,good,train,mahendra-good-014,0,640,480,23464a506df946bbafe2cec2e2c0c928,be1ee0f8cde5c044
+dataset/color/good/image_2018-07-17_01-36-00-329.jpg,mahendra,good,train,mahendra-good-014,0,640,480,bc2b924f55bf6adbb70379bcc87cd951,bd3dc0f0f8c0c1f8
+dataset/color/good/image_2018-07-17_01-36-07-025.jpg,mahendra,good,train,mahendra-good-014,0,640,480,fbf7d518ce102fcda9f3ef56238046ff,ba3af0e0e5250bcb
+dataset/color/good/image_2018-07-17_01-36-15-233.jpg,mahendra,good,train,mahendra-good-014,0,640,480,705afbd6e924f399a865275650a6874a,bf1ee0f4de708062
+dataset/color/good/image_2018-07-17_01-36-20-185.jpg,mahendra,good,train,mahendra-good-014,0,640,480,5481c95704821ab815d32d254e82afcb,e363988c4ce791cd
+dataset/color/good/image_2018-07-17_01-36-25-584.jpg,mahendra,good,train,mahendra-good-014,0,640,480,55833996c1ff78e28f3a34796937ef59,e870b187c7639396
+dataset/color/good/image_2018-07-17_01-36-29-248.jpg,mahendra,good,train,mahendra-good-014,0,640,480,6d3f3defa060191a77fec0194ae14bf7,bf3ff4e0c20203c7
+dataset/color/good/image_2018-07-17_01-36-34-081.jpg,mahendra,good,train,mahendra-good-014,0,640,480,24da532f40c03f8b1c12f2579ba83091,b92b0f84e0f0f4d6
+dataset/color/good/image_2018-07-17_01-36-37-225.jpg,mahendra,good,train,mahendra-good-014,0,640,480,c1601e83f2a06eca19dbd0d4c2d4a32e,bc3c32c3c3c2c6c7
+dataset/color/good/image_2018-07-17_01-36-46-575.jpg,mahendra,good,train,mahendra-good-014,0,640,480,595e52539018f5b7e3f1e38ec2428569,be3ec666960361b8
+dataset/color/good/image_2018-07-17_01-37-03-752.jpg,mahendra,good,train,mahendra-good-014,0,640,480,0cee0cb742bdfd325184301aade7837b,e2348ee694e693e1
+dataset/color/good/image_2018-07-17_01-37-20-153.jpg,mahendra,good,train,mahendra-good-014,0,640,480,207742ccc48b57e9a86fce86b4b32f26,bf3fc1749e4290c2
+dataset/color/good/image_2018-07-17_01-37-27-713.jpg,mahendra,good,train,mahendra-good-014,0,640,480,99eb3cd61e45df3cb1c878361b9b12fe,bb3fc5799680b092
+dataset/color/good/image_2018-07-17_01-37-32-608.jpg,mahendra,good,train,mahendra-good-014,0,640,480,80d75edff2b98d1a73ec33d5a74f8208,bb3be1e1210283f7
+dataset/color/good/image_2018-07-17_01-37-36-736.jpg,mahendra,good,train,mahendra-good-014,0,640,480,aa7a56d53aa641d2793aea58a24f5b60,bc3c81e0f0dea31b
+dataset/color/good/image_2018-07-17_01-37-42-929.jpg,mahendra,good,train,mahendra-good-014,0,640,480,0c45c601d6df82944ddcbe3b19f842e1,bf64c027c706ee1c
+dataset/color/good/image_2018-07-17_01-37-47-329.jpg,mahendra,good,train,mahendra-good-014,0,640,480,99a59f2a0f50468a9ac9011335966f02,b42dc1e0d4e78b87
+dataset/color/good/image_2018-07-17_01-37-53-472.jpg,mahendra,good,train,mahendra-good-014,0,640,480,c7267b03430f3e01805cb2b8b7ab1b95,bf37e0f8c3c088c3
+dataset/color/good/image_2018-07-17_01-37-59-409.jpg,mahendra,good,train,mahendra-good-014,0,640,480,202ce3cfd3be384f3b9592645b1bf695,bf1fc5fc960000de
+dataset/color/good/image_2018-07-17_01-38-02-425.jpg,mahendra,good,train,mahendra-good-014,0,640,480,bebabdba088df32682f7640bbce94548,be3dc0f09b83589c
+dataset/color/good/image_2018-07-17_01-38-06-464.jpg,mahendra,good,train,mahendra-good-014,0,640,480,196c9edbaf9075561bcadf6fe1c6e1b9,bf3ee2e000c6f686
+dataset/color/good/image_2018-07-17_01-38-09-688.jpg,mahendra,good,train,mahendra-good-014,0,640,480,d2dbd9c6b5c33cd9f1a0fa25f39759c4,bf7bf090f08a006f
+dataset/color/good/image_2018-07-17_01-38-15-416.jpg,mahendra,good,train,mahendra-good-014,0,640,480,58bb891658b89dbb02f91c354b62841c,bf3f80c0bd9f4290
+dataset/color/good/image_2018-07-17_01-38-31-695.jpg,mahendra,good,train,mahendra-good-014,0,640,480,193d3b5549c29445953eb9fb7de9d822,af2fc0e4b484e4f4
+dataset/color/good/image_2018-07-17_01-38-38-089.jpg,mahendra,good,train,mahendra-good-014,0,640,480,d998c683b30581ca208cb0f394d776c7,bf3fc1e08282499f
+dataset/color/good/image_2018-07-17_01-38-42-584.jpg,mahendra,good,train,mahendra-good-014,0,640,480,a9b9c7034c3610c4792558d1fae78f8d,fe3e85c094864797
+dataset/color/good/image_2018-07-17_01-38-45-272.jpg,mahendra,good,train,mahendra-good-014,0,640,480,30aaacdcdf83530bd51d599dcce60141,bf21e0f5c188c3cb
+dataset/color/good/image_2018-07-17_01-38-48-808.jpg,mahendra,good,train,mahendra-good-014,0,640,480,b57bf382de96b9b4ddea10aa3ce74a10,bd3ce0c203d39b93
+dataset/color/good/image_2018-07-17_01-38-54-697.jpg,mahendra,good,train,mahendra-good-014,0,640,480,1e22551a1d7b727327f192c292c40f9f,be3ee0c003cbdb89
+dataset/color/good/image_2018-07-17_01-39-45-521.jpg,mahendra,good,test,mahendra-good-015,0,640,480,3dcaef3b63a68ca1fd2293ca949b1b5b,e83895e1921ed39b
+dataset/color/good/image_2018-07-17_01-39-49-200.jpg,mahendra,good,test,mahendra-good-015,0,640,480,d68b2c4713f623465a6af4fcd45e2d2f,e1918e939b4e8b4d
+dataset/color/good/image_2018-07-17_01-39-52-800.jpg,mahendra,good,test,mahendra-good-015,0,640,480,cfd8fd78d3deb8b1fa9bde08efefbb3a,b472c11bc7c19793
+dataset/color/good/image_2018-07-17_01-39-56-928.jpg,mahendra,good,test,mahendra-good-015,0,640,480,95eab2ffb973c001562c9da433aab096,e3338743929ee2d8
+dataset/color/good/image_2018-07-17_01-39-59-744.jpg,mahendra,good,test,mahendra-good-015,0,640,480,6849ba050bf87743460528542abefd2b,f88fc59c9b349c30
+dataset/color/good/image_2018-07-17_01-40-07-152.jpg,mahendra,good,test,mahendra-good-015,0,640,480,fe11aef5439ffab908d9010d020f8b52,e86ac685ade5b09c
+dataset/color/good/image_2018-07-17_01-40-24-985.jpg,mahendra,good,test,mahendra-good-015,0,640,480,54323de4a5bc8245028d77b097a34fef,e59acef1c8c19c1c
+dataset/color/good/image_2018-07-17_01-40-30-001.jpg,mahendra,good,test,mahendra-good-015,0,640,480,d324b41cebfdecf5787165497ab5fb43,ab17843896f0f8ec
+dataset/color/good/image_2018-07-17_01-40-33-616.jpg,mahendra,good,test,mahendra-good-015,0,640,480,86164d7ea0c798f8c6e76093474efa80,e5b19ca499cc9acc
+dataset/color/good/image_2018-07-17_01-40-38-793.jpg,mahendra,good,test,mahendra-good-015,0,640,480,ea1f4e20596de1e9c7b540f02c5ab2a1,ba3ae5f5f581014a
+dataset/color/good/image_2018-07-17_01-40-43-064.jpg,mahendra,good,test,mahendra-good-015,0,640,480,73072d9f6bfd53aa5ea755af4791c0fc,e8388d479786c3d3
+dataset/color/good/image_2018-07-17_01-40-46-888.jpg,mahendra,good,test,mahendra-good-015,0,640,480,c7a1afdfd7df30a2f16dd46f28f69683,eb639d85ae918d84
+dataset/color/good/image_2018-07-17_01-40-53-945.jpg,mahendra,good,test,mahendra-good-015,0,640,480,cd141095441e3aabc426e52e9d920723,fa3f85f0d28202db
+dataset/color/good/image_2018-07-17_01-40-59-864.jpg,mahendra,good,test,mahendra-good-015,0,640,480,d3695efbd9996eb8bf6a9f51a9d71d19,bd37d275909023e3
+dataset/color/good/image_2018-07-17_01-41-06-832.jpg,mahendra,good,test,mahendra-good-015,0,640,480,3eacc9f3138df7267b643cfc8655662a,ea278545978fc6d0
+dataset/color/good/image_2018-07-17_01-41-10-929.jpg,mahendra,good,test,mahendra-good-015,0,640,480,dee4be8ddb6ccdd1b3dee2cf743d7f7b,ea2b8161f8cfe5c0
+dataset/color/good/image_2018-07-17_01-41-24-144.jpg,mahendra,good,test,mahendra-good-015,0,640,480,d61dabb4e7feb01e14ca6b4fef3a0196,fc3c85e550d6c2e2
+dataset/color/good/image_2018-07-17_01-41-28-378.jpg,mahendra,good,test,mahendra-good-015,0,640,480,237e14954f2a0be8fdbaa770888409c1,ea3f85edbd816090
+dataset/color/good/image_2018-07-17_01-41-46-585.jpg,mahendra,good,test,mahendra-good-015,0,640,480,4bde6c5c530e00b916a6fa3680fa47e1,e83c8c559796f2d0
+dataset/color/good/image_2018-07-17_01-41-52-744.jpg,mahendra,good,test,mahendra-good-015,0,640,480,862930ecd850ce1343dc60e5399f6554,ea3395c7b2910f1a
+dataset/color/good/image_2018-07-17_01-42-30-346.jpg,mahendra,good,train,mahendra-good-014,0,640,480,caf208cb8cc469716803dd49a807add1,aa3f95c0f69ec2c0
+dataset/color/good/image_2018-07-17_01-42-35-801.jpg,mahendra,good,train,mahendra-good-014,0,640,480,b4de38b678769eaa05af1221f74b5a95,f83d857090e2d39d
+dataset/color/good/image_2018-07-17_01-42-42-472.jpg,mahendra,good,train,mahendra-good-014,0,640,480,4400fada5bb9bf0b87fa9cb96d56de9c,e83885e5f4d5870e
+dataset/color/good/image_2018-07-17_01-42-45-889.jpg,mahendra,good,train,mahendra-good-014,0,640,480,53887e22a45bb3ff3e3393f9251857a1,af69d4b480c9b786
+dataset/color/good/image_2018-07-17_01-42-51-135.jpg,mahendra,good,train,mahendra-good-014,0,640,480,4dbad95ea482f8feac27a38eb3b645bb,bf2fc4f494c0c293
+dataset/color/good/image_2018-07-17_01-42-54-424.jpg,mahendra,good,train,mahendra-good-014,0,640,480,020137563d83e29579375b23bfbaa9a8,bf2af47dc23085a1
+dataset/color/good/image_2018-07-17_01-43-01-432.jpg,mahendra,good,train,mahendra-good-014,0,640,480,c9869f7a89acf6726468f4e443a891ae,bf2fc1b4bdd29080
+dataset/color/good/image_2018-07-17_01-43-06-600.jpg,mahendra,good,train,mahendra-good-014,0,640,480,482270d94501005139db9db1d8367023,ab6ad63fc2f090d0
+dataset/color/good/image_2018-07-17_01-43-13-169.jpg,mahendra,good,train,mahendra-good-014,0,640,480,4aedde1f4899b79cbf3ad441b99be720,af69f4a5e194c05a
+dataset/color/good/image_2018-07-17_01-43-28-112.jpg,mahendra,good,train,mahendra-good-014,0,640,480,c0516e0176e44128fd3abf8d62c2df24,ae2fd4f48092f0da
+dataset/color/good/image_2018-07-17_01-43-31-473.jpg,mahendra,good,train,mahendra-good-014,0,640,480,b60f19e12d47bfd2fa9f7167c784579f,bfe0e425d075cb12
+dataset/color/good/image_2018-07-17_01-43-43-646.jpg,mahendra,good,train,mahendra-good-014,0,640,480,cb7c083c3bbae908ad0a93ff2403f9ee,fe3f85a0a4d6d4a0
+dataset/color/good/image_2018-07-17_01-43-48-080.jpg,mahendra,good,train,mahendra-good-014,0,640,480,f11852af94d4df355132957543dcde1e,fe3c80a0b4d6d387
+dataset/color/good/image_2018-07-17_01-43-51-065.jpg,mahendra,good,train,mahendra-good-014,0,640,480,73908ec98cd45cd715b9c8002d97f4b6,eb6ac0800bcbdf95
+dataset/color/good/image_2018-07-17_01-43-54-096.jpg,mahendra,good,train,mahendra-good-014,0,640,480,a70d4f818c51a513aa3506beeb66f91e,aa2ec4f4f5ed80b0
+dataset/color/good/image_2018-07-17_01-43-57-056.jpg,mahendra,good,train,mahendra-good-014,0,640,480,983d654d1f57bbfb9180f5c1cae0f297,aa6ad0f5018397af
+dataset/color/good/image_2018-07-17_01-44-02-608.jpg,mahendra,good,train,mahendra-good-014,0,640,480,2e66f7a7a1eebaa8ab28539830effa9d,bf39d0a581c19f8a
+dataset/color/good/image_2018-07-17_01-44-07-779.jpg,mahendra,good,train,mahendra-good-014,0,640,480,7ff7091acfdde606b63bf2f2e7ff8a47,f83c85f1949e9392
+dataset/color/good/image_2018-07-17_01-44-11-145.jpg,mahendra,good,train,mahendra-good-014,0,640,480,99ab80fcbc884ddf87c7887373e1ba9a,bf3f80f0d4c2c2d2
+dataset/color/good/image_2018-07-17_01-44-13-985.jpg,mahendra,good,train,mahendra-good-014,0,640,480,73258c0ab33407f27549b610bb0fcf9c,be2ad0fcc5d0d2d0
+dataset/color/good/image_2018-07-17_01-44-16-704.jpg,mahendra,good,train,mahendra-good-014,0,640,480,7b614545114556b57417caaaa60fca86,ba39d1f0900172ff
+dataset/color/good/image_2018-07-17_01-44-19-328.jpg,mahendra,good,train,mahendra-good-014,0,640,480,c589db4768fbecdc71006103233d3bc8,bf68f4b5e09ae048
+dataset/color/good/image_2018-07-17_01-44-24-689.jpg,mahendra,good,train,mahendra-good-014,0,640,480,7ddcd445792c52cd1c6e8e8d908da85f,ea6bc1e1a8aea721
+dataset/color/good/image_2018-07-17_01-44-28-369.jpg,mahendra,good,train,mahendra-good-014,0,640,480,66c1e2f18df90745a4a1aa239e7a1cd2,aa3f957097da9089
+dataset/color/good/image_2018-07-17_01-44-31-896.jpg,mahendra,good,train,mahendra-good-014,0,640,480,60fe7391d4490da300bfbe87d3698ae4,bf3fc0e0a481d2d5
+dataset/color/good/image_2018-07-17_01-44-35-345.jpg,mahendra,good,train,mahendra-good-014,0,640,480,c1b920f2057ad8ad2f1913b47baaefef,bf3ad0b6a0a0b6d4
+dataset/color/good/image_2018-07-17_01-44-39-679.jpg,mahendra,good,train,mahendra-good-014,0,640,480,290d95a2e9ac364bfa6e694c92c41dc3,bf2f85b48e4292e4
+dataset/color/good/image_2018-07-17_01-44-42-337.jpg,mahendra,good,train,mahendra-good-014,0,640,480,69cf0b8ffcd98bc6b9ec6c5a8b877650,fa3ae0f00781ab8f
+dataset/color/good/image_2018-07-17_01-44-46-729.jpg,mahendra,good,train,mahendra-good-014,0,640,480,44f415cee41c71d4bd761442f8a0ddac,b53582d2fabe98c0
+dataset/color/good/image_2018-07-17_01-44-49-768.jpg,mahendra,good,train,mahendra-good-014,0,640,480,1e643f4d6828bee6afc22f8511d54d21,aa2ec5f4fccf8014
+dataset/color/good/image_2018-07-17_01-44-53-328.jpg,mahendra,good,train,mahendra-good-014,0,640,480,73400b1c6091f8c616964bc3c75f1172,fa3e8f80f0b4b581
+dataset/color/good/image_2018-07-17_01-44-56-936.jpg,mahendra,good,train,mahendra-good-014,0,640,480,ff5d4d715c3fd3c61abcc96d5471229d,fa7f8180e0f8bd81
+dataset/color/good/image_2018-07-17_01-45-00-736.jpg,mahendra,good,train,mahendra-good-014,0,640,480,786ee814719ee5795c25387d33cdb1f5,bf2f8785a0a0acc7
+dataset/color/good/image_2018-07-17_01-45-03-713.jpg,mahendra,good,train,mahendra-good-014,0,640,480,80b2543828bd51c80c785830195d5ce5,e270bc8ec763b584
+dataset/color/good/image_2018-07-17_01-45-06-960.jpg,mahendra,good,train,mahendra-good-014,0,640,480,341d8b62c0e37ac1e3cb1449217f0f2e,fa7a3d8d85e17090
+dataset/color/good/image_2018-07-17_01-45-12-369.jpg,mahendra,good,train,mahendra-good-014,0,640,480,e219ee28a5dfc4994c68d83729841541,eb6fc7c1e1a0a8a2
+dataset/color/good/image_2018-07-17_01-45-20-657.jpg,mahendra,good,train,mahendra-good-014,0,640,480,8afb5f5b744fbf199594cd5f49eea83d,be3e94c0d0da8acb
+dataset/color/good/image_2018-07-17_01-45-24-495.jpg,mahendra,good,train,mahendra-good-014,0,640,480,218df2d7844d34968a714db05f6d4766,ea3f85f094dad2c0
+dataset/color/good/image_2018-07-17_01-45-28-168.jpg,mahendra,good,train,mahendra-good-014,0,640,480,64ff9229e9f8f3dd412d3c2194fcc735,ba3f95d01082daf9
+dataset/color/good/image_2018-07-17_01-45-31-888.jpg,mahendra,good,train,mahendra-good-014,0,640,480,18ec611ca20572bac09a78e611a1daf2,be3e94f45e9282c8
+dataset/color/good/image_2018-07-17_01-45-36-001.jpg,mahendra,good,train,mahendra-good-014,0,640,480,9f93ffbd9a243bf891c7764a7e46c081,fa33c1e096c7b09a
+dataset/color/good/image_2018-07-17_01-45-40-248.jpg,mahendra,good,train,mahendra-good-014,0,640,480,b52b5c74ac0bdb0913a71796eb4a9016,fa3b81e0f0d4d5d0
+dataset/color/good/image_2018-07-17_01-45-43-496.jpg,mahendra,good,train,mahendra-good-014,0,640,480,28d602b56ef9ac3884f8f525ccd22b69,bb3f95d450908af8
+dataset/color/good/image_2018-07-17_01-45-46-234.jpg,mahendra,good,train,mahendra-good-014,0,640,480,9df5eebf42eb9a0db404c69d27df9240,fa39958151d09ecb
+dataset/color/good/image_2018-07-17_01-45-49-416.jpg,mahendra,good,train,mahendra-good-014,0,640,480,bd71396e20984382e70031ca99aa6136,fa3e97c0f094d4d0
+dataset/color/good/image_2018-07-17_01-46-36-992.jpg,mahendra,good,train,mahendra-good-016,0,640,480,c26acdd8860efdafdf14e8b54332438b,bb3bc4f49ac090d6
+dataset/color/good/image_2018-07-17_01-46-41-736.jpg,mahendra,good,train,mahendra-good-016,0,640,480,36dee9be33c72a250e26092d3439c3d6,f8b8d0509a7f9c0e
+dataset/color/good/image_2018-07-17_01-46-56-672.jpg,mahendra,good,train,mahendra-good-016,0,640,480,4ea19aed6014b6376681c199b136674a,ea2785e4b6d262b2
+dataset/color/good/image_2018-07-17_01-46-59-704.jpg,mahendra,good,train,mahendra-good-016,0,640,480,f4703223d7ba17d8c7dfb7c5e0f59234,ba9dd47c9ae15181
+dataset/color/good/image_2018-07-17_01-47-03-656.jpg,mahendra,good,train,mahendra-good-016,0,640,480,78627f0d35c089aafe9c30f6a0ff3c16,fa99d1789e79180c
+dataset/color/good/image_2018-07-17_01-47-07-608.jpg,mahendra,good,train,mahendra-good-016,0,640,480,110d9f0fbe8a68ac8ffa42f9fe90b05e,bf6cc024e4d69666
+dataset/color/good/image_2018-07-17_01-47-11-432.jpg,mahendra,good,train,mahendra-good-016,0,640,480,4d5ac90a2097dc5fda2b5ee7270f86d7,af0fc53d0f609866
+dataset/color/good/image_2018-07-17_01-47-14-976.jpg,mahendra,good,train,mahendra-good-016,0,640,480,300c9070d142af374fa4e6c7dc8f57b8,ea1d847e9f579084
+dataset/color/good/image_2018-07-17_01-47-17-913.jpg,mahendra,good,train,mahendra-good-016,0,640,480,d8e16398794ddb7e3aea2c232851003e,bf7ec0c000c5f735
+dataset/color/good/image_2018-07-17_01-47-21-567.jpg,mahendra,good,train,mahendra-good-016,0,640,480,f0f55c4f746e5111151f06b8f5b4ce2e,ab2fc6f4748e0662
+dataset/color/good/image_2018-07-17_01-47-26-105.jpg,mahendra,good,train,mahendra-good-016,0,640,480,319de7676da464434c0f76709377f5c0,ea1f85ea3e4561b0
+dataset/color/good/image_2018-07-17_01-47-29-216.jpg,mahendra,good,train,mahendra-good-016,0,640,480,d5ec3b86ca093529399f6c3f81af96d0,f87c9ccd68984c69
+dataset/color/good/image_2018-07-17_01-47-36-481.jpg,mahendra,good,train,mahendra-good-016,0,640,480,9ab4ad42d4efbe755195c50189c49e24,bf4cccada92c8554
+dataset/color/good/image_2018-07-17_01-47-42-120.jpg,mahendra,good,train,mahendra-good-016,0,640,480,ff2bb5c5ce19df19e67cf35abb7abf7b,e22687e6d49e9a98
+dataset/color/good/image_2018-07-17_01-47-45-009.jpg,mahendra,good,train,mahendra-good-016,0,640,480,484ba2e27ef6fdf262ebc3fa9e4e41ab,fa38c1709e63036f
+dataset/color/good/image_2018-07-17_01-47-52-144.jpg,mahendra,good,train,mahendra-good-016,0,640,480,550278b8461e4a3cbb8c39be306ecab0,e83c85e5b4cce5c2
+dataset/color/good/image_2018-07-17_01-47-55-825.jpg,mahendra,good,train,mahendra-good-016,0,640,480,6786234f46de978a0731905ab45e122d,bf4ad8af809194f4
+dataset/color/good/image_2018-07-17_01-48-02-208.jpg,mahendra,good,train,mahendra-good-016,0,640,480,85d0b1524d57264a4725ba126549b49a,f83c8de1b4cce4c1
+dataset/color/good/image_2018-07-17_01-48-06-640.jpg,mahendra,good,train,mahendra-good-016,0,640,480,71678a0f633a780861e8d5c33c448a83,fa6ae0a505c5ae4e
+dataset/color/good/image_2018-07-17_01-48-09-904.jpg,mahendra,good,train,mahendra-good-016,0,640,480,15d310fbcbe91c9b3d8d630719834bed,bd7cc08029ebdb34
+dataset/color/good/image_2018-07-17_01-48-16-720.jpg,mahendra,good,train,mahendra-good-016,0,640,480,ac384a12ced0b5932734b7b403d8e104,e263998d87d6d4c4
+dataset/color/good/image_2018-07-17_01-48-18-849.jpg,mahendra,good,train,mahendra-good-016,0,640,480,d44b91784a4773a797257c8805e0ff29,fe3e85e074958742
+dataset/color/good/image_2018-07-17_01-48-21-688.jpg,mahendra,good,train,mahendra-good-016,0,640,480,7a3460eaea6d40dc759990e67bf181df,bb23c0f2af9190d5
+dataset/color/good/image_2018-07-17_01-48-25-224.jpg,mahendra,good,train,mahendra-good-016,0,640,480,1378c6fe17d3103b6741d48242138744,ab6be5b580c297c1
+dataset/color/good/image_2018-07-17_01-48-30-257.jpg,mahendra,good,train,mahendra-good-016,0,640,480,0d7f40c9d4588c5e8668a7b3682c52d4,fa3a84f0dec7818a
+dataset/color/good/image_2018-07-17_01-48-34-081.jpg,mahendra,good,train,mahendra-good-016,0,640,480,bc94322595245e76e4bb348635c6be2f,ea7bc7e0e8c68521
+dataset/color/good/image_2018-07-17_01-48-36-520.jpg,mahendra,good,train,mahendra-good-016,0,640,480,94eb2fd0860ab37837c04a99bdcd5399,ba3a85a0e0dcd5b5
+dataset/color/good/image_2018-07-17_01-48-41-584.jpg,mahendra,good,train,mahendra-good-016,0,640,480,a4d07a0a4291e8c7b30b00678f049f37,bd3dd0d010c2db9b
+dataset/color/good/image_2018-07-17_01-48-53-487.jpg,mahendra,good,train,mahendra-good-016,0,640,480,f51732c1ca0f644024da1cbf4ce61531,af6dd4b482ca9e84
+dataset/color/good/image_2018-07-17_01-48-57-056.jpg,mahendra,good,train,mahendra-good-016,0,640,480,ad826c9273d2e955d1e4def878405652,bf37dafa9180b060
+dataset/color/good/image_2018-07-17_01-49-02-192.jpg,mahendra,good,train,mahendra-good-016,0,640,480,5c1d7af377eaf15200bd886d9e201f16,bd3fd2d200c0d397
+dataset/color/good/image_2018-07-17_01-49-06-633.jpg,mahendra,good,train,mahendra-good-016,0,640,480,924833c98edf1df1d2ac54192fcf9a23,bf3ed4bc1a989848
+dataset/color/good/image_2018-07-17_01-49-10-209.jpg,mahendra,good,train,mahendra-good-016,0,640,480,ca8e207bc0746d907712cb60a89f9f4c,f83887c5159ec6c3
+dataset/color/good/image_2018-07-17_01-49-13-305.jpg,mahendra,good,train,mahendra-good-016,0,640,480,04ca34c870861420d56415b500e9749f,e0a486c4dcee9e87
+dataset/color/good/image_2018-07-17_01-49-16-712.jpg,mahendra,good,train,mahendra-good-016,0,640,480,0e83e0fcf23d591b6fde34ab1d16f094,bbfa94b0d2948b83
+dataset/color/good/image_2018-07-17_01-49-20-929.jpg,mahendra,good,train,mahendra-good-016,0,640,480,c05cb47594b3a90a44d27d8f475e78a9,ba7ad03581d595c5
+dataset/color/good/image_2018-07-17_01-49-28-888.jpg,mahendra,good,train,mahendra-good-016,0,640,480,fd8a1c1066110a35960c46cb23c9c2af,bb6bc3f4ac8380b4
+dataset/color/good/image_2018-07-17_01-49-34-312.jpg,mahendra,good,train,mahendra-good-016,0,640,480,ba653d245f00fd8819bda10baa3e9b86,bf35d0b600c1b74b
+dataset/color/good/image_2018-07-17_01-49-37-569.jpg,mahendra,good,train,mahendra-good-016,0,640,480,160fd6ebc0d3ab444df71e436066d449,ab97d57b83688905
+dataset/color/good/image_2018-07-17_01-49-43-049.jpg,mahendra,good,train,mahendra-good-016,0,640,480,47ce5af568f38fdbded8807ad9954a5c,fa2f85e0e8bd8581
+dataset/color/good/image_2018-07-17_01-49-47-096.jpg,mahendra,good,train,mahendra-good-016,0,640,480,640a858194a35fd74e8c3fe2ce9c5c3c,be3ec4d9fb12c0c0
+dataset/color/good/image_2018-07-17_01-49-52-513.jpg,mahendra,good,train,mahendra-good-016,0,640,480,2b454c778d66f6fd0badc951e0299356,bf6ac0a585c59f06
+dataset/color/good/image_2018-07-17_01-49-55-498.jpg,mahendra,good,train,mahendra-good-016,0,640,480,98bff9514f093e96f0938a5489d8a5ab,e3218dc755d4e646
+dataset/color/good/image_2018-07-17_01-49-58-897.jpg,mahendra,good,train,mahendra-good-016,0,640,480,5ad4192d4765087fc9ffd01ae3d925a0,f8789c85e1d1d496
+dataset/color/good/image_2018-07-17_01-50-02-127.jpg,mahendra,good,train,mahendra-good-016,0,640,480,f26dd4869e7102395e3afdff1a8b3572,af2e80a0fd7fd480
+dataset/color/good/image_2018-07-17_01-50-06-824.jpg,mahendra,good,train,mahendra-good-016,0,640,480,0b0c0e2f856d45d0bae2b801681101de,e8389dc7959aca43
+dataset/color/good/image_2018-07-17_01-50-10-879.jpg,mahendra,good,train,mahendra-good-016,0,640,480,f1c923015c8bf3f607ae478ba3b08172,e3638d8e46d495a6
+dataset/color/good/image_2018-07-17_01-50-16-625.jpg,mahendra,good,train,mahendra-good-016,0,640,480,bceb99eb7d2761ed423ba259139f0e0e,bf2dc0f425c093b6
+dataset/color/good/image_2018-07-17_01-50-24-864.jpg,mahendra,good,train,mahendra-good-016,0,640,480,48f47998a604f8cb5f985ba07bda424e,be3eb8f075830352
+dataset/color/good/image_2018-07-17_01-50-29-568.jpg,mahendra,good,train,mahendra-good-016,0,640,480,22d7b571eeeb81355751651a0bb136ef,ba3a83e3e1d094e5
+dataset/color/good/image_2018-07-17_01-50-34-673.jpg,mahendra,good,train,mahendra-good-016,0,640,480,c7fbd64d69b2e972028e586187641571,af6dc9f504c0d296
+dataset/color/good/image_2018-07-17_01-50-39-680.jpg,mahendra,good,train,mahendra-good-016,0,640,480,0048f195945789357cc0e6168dd4e1da,aa2a84f4fd5bc2a4
+dataset/color/good/image_2018-07-17_01-50-44-440.jpg,mahendra,good,train,mahendra-good-016,0,640,480,cbb90ae781153c714b520236ca6d6526,bf69e125c19381d9
+dataset/color/good/image_2018-07-17_01-50-48-688.jpg,mahendra,good,train,mahendra-good-016,0,640,480,7e5fbdfecb807de001c7cb90be7ef136,af69c094c2da93cd
+dataset/color/good/image_2018-07-17_01-50-52-105.jpg,mahendra,good,train,mahendra-good-016,0,640,480,0cfbcc4f84adc1b9e563ec041d23f22f,bfe0e627d016929a
+dataset/color/good/image_2018-07-17_01-50-56-784.jpg,mahendra,good,train,mahendra-good-016,0,640,480,75d5f1961cf41446313e27173649d364,bf69e828e1d594a8
+dataset/color/good/image_2018-07-17_01-51-02-368.jpg,mahendra,good,train,mahendra-good-016,0,640,480,bf7469a45f25790c736a35736f0e1676,fa369272b08343d7
+dataset/color/good/image_2018-07-17_01-51-08-497.jpg,mahendra,good,train,mahendra-good-016,0,640,480,87ed9f748925a38d04e43af21f98dec4,be64e4bcc4508f5a
+dataset/color/good/image_2018-07-17_01-51-11-904.jpg,mahendra,good,train,mahendra-good-016,0,640,480,08594a4effa279c1466d96469f00b23c,ba37c06094e7f097
+dataset/color/good/image_2018-07-17_01-51-15-640.jpg,mahendra,good,train,mahendra-good-016,0,640,480,deee65a7ee08bf3a06eb8b5c3793b0d1,e8788c8d655d9ca6
+dataset/color/good/image_2018-07-17_01-51-19-432.jpg,mahendra,good,train,mahendra-good-016,0,640,480,d8a226b656fba33b799d2c5b6daf25ed,af3fd4b480d29741
+dataset/color/good/image_2018-07-17_01-51-23-441.jpg,mahendra,good,train,mahendra-good-016,0,640,480,07f05bab06f0798dcc73da82f3b13f8d,bb1bc0f9994190de
+dataset/color/good/image_2018-07-17_01-51-26-617.jpg,mahendra,good,train,mahendra-good-016,0,640,480,44f34e0ad8bede2d065ba0fcc6bf8cc9,fe3e84e0f497c281
+dataset/color/good/image_2018-07-17_01-51-30-048.jpg,mahendra,good,train,mahendra-good-016,0,640,480,71ecc7cc8b0673a3255da9415cccb988,fa3a87e1458787e0
+dataset/color/good/image_2018-07-17_01-51-33-272.jpg,mahendra,good,train,mahendra-good-016,0,640,480,e2e36d690216325c0de274da62bf099d,e8788c8d655d9ca6
+dataset/color/good/image_2018-07-17_01-51-41-153.jpg,mahendra,good,train,mahendra-good-016,0,640,480,8a6e18846d06fb7c867c787e43035711,be1dd1389044f8de
+dataset/color/good/image_2018-07-17_01-51-47-744.jpg,mahendra,good,train,mahendra-good-016,0,640,480,a842eaebed8ea529da964b6156d8d128,bf4ad835e4a4b4a4
+dataset/color/good/image_2018-07-17_01-51-51-928.jpg,mahendra,good,train,mahendra-good-016,0,640,480,2d5354d57e1a3c8ce21fd53e4eceba21,be1fc4f69f0a080d
+dataset/color/good/image_2018-07-17_01-51-58-753.jpg,mahendra,good,train,mahendra-good-016,0,640,480,2935ff080b7f52b5d6234a46d845f69e,fa2a80e0f597e07c
+dataset/color/good/image_2018-07-17_01-52-04-904.jpg,mahendra,good,train,mahendra-good-016,0,640,480,6894281c47fecfd5ace8cb4c99948869,be0f80f0d4cada9c
+dataset/color/good/image_2018-07-17_01-52-09-344.jpg,mahendra,good,train,mahendra-good-016,0,640,480,6ed392c01f145fe02c00234687a9c5b8,aa018074dff7f894
+dataset/color/good/image_2018-07-17_01-52-45-722.jpg,mahendra,good,test,mahendra-good-017,0,640,480,05667315e44a5c8ebeb2df6e5b6bdb76,ea3e9ce89c88e8b8
+dataset/color/good/image_2018-07-17_01-52-56-896.jpg,mahendra,good,test,mahendra-good-017,0,640,480,ecc7d90205422919f0e738884cd89b82,fa6ae84103cbee85
+dataset/color/good/image_2018-07-17_01-56-28-352.jpg,mahendra,good,test,mahendra-good-017,0,640,480,6af317605613de974a34aa4acd4aa528,be3f85e07096e2d0
+dataset/color/good/image_2018-07-17_01-56-32-849.jpg,mahendra,good,test,mahendra-good-017,0,640,480,614dd0368deb34967d12c22058966692,f82c85c5c58e46d7
+dataset/color/good/image_2018-07-17_01-57-53-887.jpg,mahendra,good,test,mahendra-good-018,0,640,480,e15a4756b2c4cf36ad445e810832dc11,e6668998dc3c9d91
+dataset/color/good/image_2018-07-17_01-57-59-440.jpg,mahendra,good,test,mahendra-good-018,0,640,480,936322a6b573a8b5cc8ceb11be7010fa,e66789d878999951
+dataset/color/good/image_2018-07-17_01-58-03-193.jpg,mahendra,good,test,mahendra-good-018,0,640,480,7c0834f75e1345116032f95320b85f85,e366ccdc399390b1
+dataset/color/good/image_2018-07-17_01-58-07-057.jpg,mahendra,good,test,mahendra-good-018,0,640,480,9abea041daeb8c3075d5b6d03f16c475,e165caee84c9389d
+dataset/color/good/image_2018-07-17_01-58-10-688.jpg,mahendra,good,test,mahendra-good-018,0,640,480,2b618abf4d9295b9fb734a36ef34e4b2,b869e38f4fd40a8a
+dataset/color/good/image_2018-07-17_01-58-14-225.jpg,mahendra,good,test,mahendra-good-018,0,640,480,8e1cb17f1bddd71bbc769ed6a49e5402,e263caee1a8cb998
+dataset/color/good/image_2018-07-17_01-58-19-956.jpg,mahendra,good,test,mahendra-good-018,0,640,480,ae9bfc5131cb4261492c0aa7ba932801,a169cfe706c4e4cc
+dataset/color/good/image_2018-07-17_01-58-28-611.jpg,mahendra,good,test,mahendra-good-018,0,640,480,3679bbd827e4812795386130ae50a103,e66688dc3c9d919c
+dataset/color/good/image_2018-07-17_01-58-39-153.jpg,mahendra,good,test,mahendra-good-018,0,640,480,6a312b80dbb09fffb779541fe719026f,e763987c9999988c
+dataset/color/good/image_2018-07-17_01-58-48-649.jpg,mahendra,good,test,mahendra-good-018,0,640,480,995715039752480f128070d88bf9a455,e565ccee0686668d
+dataset/color/good/image_2018-07-17_01-58-53-505.jpg,mahendra,good,test,mahendra-good-018,0,640,480,345a500a1bd031fa931bc3a286d27f3c,e66688d87c9d9594
+dataset/color/good/image_2018-07-17_01-59-00-485.jpg,mahendra,good,test,mahendra-good-018,0,640,480,407eff69b2620dd6b71f7cc3db1a011b,e2b4dc3696663469
+dataset/color/good/image_2018-07-17_01-59-54-117.jpg,mahendra,good,train,mahendra-good-019,0,640,480,936bc0e6b74506ea32b0eb8b0077cbbe,a331c8e63e8cc6f2
+dataset/color/good/image_2018-07-17_01-59-58-752.jpg,mahendra,good,train,mahendra-good-019,0,640,480,1eab9399d222bd9472ffa4425eb98a79,b133c2c66f87863c
+dataset/color/good/image_2018-07-17_02-00-02-600.jpg,mahendra,good,train,mahendra-good-019,0,640,480,34cf4d160e5154addafd5c541c479119,e2668cdc1692f273
+dataset/color/good/image_2018-07-17_02-00-07-993.jpg,mahendra,good,train,mahendra-good-019,0,640,480,6b5d92e3d9cae803ef91b658141b44e0,baa7c704c07a1e3e
+dataset/color/good/image_2018-07-17_02-00-11-545.jpg,mahendra,good,train,mahendra-good-019,0,640,480,e018595e1b9a9bf3cc9cfd59cfbac5d5,b133c2d32f86861f
+dataset/color/good/image_2018-07-17_02-00-15-081.jpg,mahendra,good,train,mahendra-good-019,0,640,480,f8f0952210b80de73053c40bf99688b4,b331c0f29f87319c
+dataset/color/good/image_2018-07-17_02-00-19-984.jpg,mahendra,good,train,mahendra-good-019,0,640,480,4cb71d10fa7429370bcbbfc189787ca2,b9e1cd0dc41d68b9
+dataset/color/good/image_2018-07-17_02-00-23-305.jpg,mahendra,good,train,mahendra-good-019,0,640,480,e80c5bfac0b2c02c8084a1c99902a4d8,b8e1c50dce1ed25a
+dataset/color/good/image_2018-07-17_02-00-27-158.jpg,mahendra,good,train,mahendra-good-019,0,640,480,489e576af001d4f54a0bb1df9794a2d1,9f3ff0c038e084fc
+dataset/color/good/image_2018-07-17_02-00-34-698.jpg,mahendra,good,train,mahendra-good-019,0,640,480,bb119b08ad044bf245a4f924db371f33,b333c4db5b8d8158
+dataset/color/good/image_2018-07-17_02-00-38-537.jpg,mahendra,good,train,mahendra-good-019,0,640,480,944d66b414d62ce75de57f9cb87d10ae,b333c4d41a9c9c3d
+dataset/color/good/image_2018-07-17_02-00-42-009.jpg,mahendra,good,train,mahendra-good-019,0,640,480,402a74edd17b08012f9029f3d1ca267f,a727ccd61a9981b9
+dataset/color/good/image_2018-07-17_02-00-44-825.jpg,mahendra,good,train,mahendra-good-019,0,640,480,f858c45e0461f2f6177f310da57aa05d,b135c3da1e8c885f
+dataset/color/good/image_2018-07-17_02-00-48-248.jpg,mahendra,good,train,mahendra-good-019,0,640,480,4b50a2fa12dc7616cd7e289f345d087f,abcbc53d98325266
+dataset/color/good/image_2018-07-17_02-00-51-616.jpg,mahendra,good,train,mahendra-good-019,0,640,480,46374b2f48b542eac639eea8da1f0511,be33e1c907c61f09
+dataset/color/good/image_2018-07-17_02-00-55-633.jpg,mahendra,good,train,mahendra-good-019,0,640,480,5c66f109e522331788695bad100e16a9,b333e1c3cf1b82c8
+dataset/color/good/image_2018-07-17_02-00-58-491.jpg,mahendra,good,train,mahendra-good-019,0,640,480,48ee9261a749e91ebcd2a21720ca4e5c,b333e0e3cf0f828c
+dataset/color/good/image_2018-07-17_02-01-01-988.jpg,mahendra,good,train,mahendra-good-019,0,640,480,3a0152edfa7b006ed03f9f3288686995,b737e0e2c31706cc
+dataset/color/good/image_2018-07-17_02-01-05-321.jpg,mahendra,good,train,mahendra-good-019,0,640,480,0467435b417b6dfd1e0db80b728ee3d7,a56de9cecc1c0999
+dataset/color/good/image_2018-07-17_02-01-08-960.jpg,mahendra,good,train,mahendra-good-019,0,640,480,94d63e14f1195272b821b5b334ad3bff,b330e189cbce0cee
+dataset/color/good/image_2018-07-17_02-01-11-688.jpg,mahendra,good,train,mahendra-good-019,0,640,480,6bcfb8615da49b619a1a734d6d9c1b91,b133e3cc9f878898
+dataset/color/good/image_2018-07-17_02-01-14-421.jpg,mahendra,good,train,mahendra-good-019,0,640,480,ae1154ac6c3ecc39d5b896bcff55cc2a,b333c7e0bc8f8918
+dataset/color/good/image_2018-07-17_02-01-18-325.jpg,mahendra,good,train,mahendra-good-019,0,640,480,28444e5c890e8f7c3fe9eb4f0a38504f,a765c4de1a9b8139
+dataset/color/good/image_2018-07-17_02-01-35-817.jpg,mahendra,good,train,mahendra-good-019,0,640,480,1f9266d9bae3e969b576213ddf3848fa,be2ec1f425a0d687
+dataset/color/good/image_2018-07-17_02-01-39-400.jpg,mahendra,good,train,mahendra-good-019,0,640,480,150f740cd9b1a26b62aa2985670d08cf,a969e4c4e42e0ecf
+dataset/color/good/image_2018-07-17_02-01-43-184.jpg,mahendra,good,train,mahendra-good-019,0,640,480,d3d25b562d635f3d0c4b41b088dffbc6,eb6bc3c7ee2a0a80
+dataset/color/good/image_2018-07-17_02-01-48-981.jpg,mahendra,good,train,mahendra-good-019,0,640,480,af7ef06553e36e7b4ca76ae532096385,e76763c1c1ac3c1c
+dataset/color/good/image_2018-07-17_02-01-53-209.jpg,mahendra,good,train,mahendra-good-019,0,640,480,ffb50d408e4b1e4e14dd2b1feac34b59,a76363c1e12d2f8c
+dataset/color/good/image_2018-07-17_02-01-56-841.jpg,mahendra,good,train,mahendra-good-019,0,640,480,c24c15d8d09b25b0ba557a5bb78e43d1,e767c1cccc3c1e90
+dataset/color/good/image_2018-07-17_02-02-00-528.jpg,mahendra,good,train,mahendra-good-019,0,640,480,713f7da88c96b42895dcfe158c19643d,e767278d8cc4701e
+dataset/color/good/image_2018-07-17_02-02-04-256.jpg,mahendra,good,train,mahendra-good-019,0,640,480,dba96a61108f73866993f0ef773ec0e4,e66767c5c4e4641c
+dataset/color/good/image_2018-07-17_02-02-08-177.jpg,mahendra,good,train,mahendra-good-019,0,640,480,f78a4478588630b9761d8c49cd76880b,e767618cccec1c1c
+dataset/color/good/image_2018-07-17_02-02-12-164.jpg,mahendra,good,train,mahendra-good-019,0,640,480,fd87763f15ef2d9704785dd787e8463d,e6666f8989e0749c
+dataset/color/good/image_2018-07-17_02-02-16-112.jpg,mahendra,good,train,mahendra-good-019,0,640,480,2380e419461d252dab0f624149f35c3a,e76784c4c4bc9d8c
+dataset/color/good/image_2018-07-17_02-02-19-488.jpg,mahendra,good,train,mahendra-good-019,0,640,480,b5f68657a9d9a63a435d0709b02d9451,e667c3ccec389984
+dataset/color/good/image_2018-07-17_02-02-22-757.jpg,mahendra,good,train,mahendra-good-019,0,640,480,38a1b49dcab527fa4d75ad61b4722d66,e36385c5f45e9e80
+dataset/color/good/image_2018-07-17_02-02-27-681.jpg,mahendra,good,train,mahendra-good-019,0,640,480,14722d6822e629c6004c480ec868e6c2,ab6bc5c5ad8d8838
+dataset/color/good/image_2018-07-17_02-02-33-210.jpg,mahendra,good,train,mahendra-good-019,0,640,480,2e4e093e11d34ddc5e7a93b567d2f87f,ee6ec1c58d199991
+dataset/color/good/image_2018-07-17_02-02-36-822.jpg,mahendra,good,train,mahendra-good-019,0,640,480,156083446dc7002fd78a93b1cc5aad70,ee6ec8c9a9298b91
+dataset/color/good/image_2018-07-17_02-02-47-785.jpg,mahendra,good,train,mahendra-good-019,0,640,480,f425a7935bc83f2b6a95d68c26163607,ee6ec8c819d1b32a
+dataset/color/good/image_2018-07-17_02-02-52-121.jpg,mahendra,good,train,mahendra-good-019,0,640,480,8ed3d4d48a6698c174a0574c17e47e41,eb6accada9913505
+dataset/color/good/image_2018-07-17_02-02-55-360.jpg,mahendra,good,train,mahendra-good-019,0,640,480,f276eb8d77eb78330021bf7c7f67a4c1,b434e0c393f78f03
+dataset/color/good/image_2018-07-17_02-03-01-129.jpg,mahendra,good,train,mahendra-good-019,0,640,480,455b63ca69ca1f2eb3ae89ba4932fc46,e263a5c5c46cad8d
+dataset/color/good/image_2018-07-17_02-03-06-073.jpg,mahendra,good,train,mahendra-good-019,0,640,480,9a97ecc5375693b71db4e2746df54c63,a766c6c6e43c9c98
+dataset/color/good/image_2018-07-17_02-03-09-433.jpg,mahendra,good,train,mahendra-good-019,0,640,480,feb70038da74ae9acccbf98bd36175b2,b232e3c3f333068e
+dataset/color/good/image_2018-07-17_02-03-12-692.jpg,mahendra,good,train,mahendra-good-019,0,640,480,0c3de16f2df1b3133deb225bcdba5880,b33361c1f373128e
+dataset/color/good/image_2018-07-17_02-03-15-925.jpg,mahendra,good,train,mahendra-good-019,0,640,480,8674a352824ce11e6e2a6ec53a8f5dd1,b133f6c6c2672686
+dataset/color/good/image_2018-07-17_02-03-19-001.jpg,mahendra,good,train,mahendra-good-019,0,640,480,4036b38b213acc0f04251770119a4251,b13132c2c3e367c7
+dataset/color/good/image_2018-07-17_02-03-21-877.jpg,mahendra,good,train,mahendra-good-019,0,640,480,efcaf9dedf695f060f9772bac538a66a,a727c4c6e2760e8e
+dataset/color/good/image_2018-07-17_02-03-24-792.jpg,mahendra,good,train,mahendra-good-019,0,640,480,81d109e939b178b64ffb974f43ea3faa,b527c7cc9c1c8999
+dataset/color/good/image_2018-07-17_02-03-27-456.jpg,mahendra,good,train,mahendra-good-019,0,640,480,1cff320e5226bf660917be24904256e6,b333c7c6cc3e0e84
+dataset/color/good/image_2018-07-17_02-03-31-028.jpg,mahendra,good,train,mahendra-good-019,0,640,480,b1b42daab7ad92cd3b1165ba1f761899,b13064c7c3f33387
+dataset/color/good/image_2018-07-17_02-03-33-809.jpg,mahendra,good,train,mahendra-good-019,0,640,480,147f2d39bb3b232f44bd1fd8d9cc2aff,e76727d2c070389e
+dataset/color/good/image_2018-07-17_02-03-39-077.jpg,mahendra,good,train,mahendra-good-019,0,640,480,f21d7feb63eecbec46307c4e349871ce,b567c6de1c981899
+dataset/color/good/image_2018-07-17_02-03-42-217.jpg,mahendra,good,train,mahendra-good-019,0,640,480,a622324d86a3e34b29e42dd30727e1d9,b038cfc33f8dc0b8
+dataset/color/good/image_2018-07-17_02-03-46-032.jpg,mahendra,good,train,mahendra-good-019,0,640,480,67f6d0a3345b00424d74162a9c7640b1,e121cbe767958561
+dataset/color/good/image_2018-07-17_02-03-50-153.jpg,mahendra,good,train,mahendra-good-019,0,640,480,fb10016678eeda2258e23121e4e8c7fa,b131d0da1f8f81cd
+dataset/color/good/image_2018-07-17_02-04-17-652.jpg,mahendra,good,train,mahendra-good-019,0,640,480,21284c149ea6e0b14ffbe8eec4a54f3d,e266a7c1c96d1c9c
+dataset/color/good/image_2018-07-17_02-04-23-872.jpg,mahendra,good,train,mahendra-good-019,0,640,480,c07c624e691d63b875bba0fe5cb5419b,e363c6ccec681c8d
+dataset/color/good/image_2018-07-17_02-04-28-217.jpg,mahendra,good,train,mahendra-good-019,0,640,480,cd5766f24bdf43f9a971f5c4d5f0a072,e36399cc2c1595e3
+dataset/color/good/image_2018-07-17_02-04-32-193.jpg,mahendra,good,train,mahendra-good-019,0,640,480,346fa85698d34781adc8571e361a610f,e666e283e071399d
+dataset/color/good/image_2018-07-17_02-04-37-157.jpg,mahendra,good,train,mahendra-good-019,0,640,480,822d668ff881cc89e94863474f4526e3,e363c7c4e46c1c9c
+dataset/color/good/image_2018-07-17_02-04-40-544.jpg,mahendra,good,train,mahendra-good-019,0,640,480,500b86508ff52cb180be3b4564bfbf3f,ee6ececcec281898
+dataset/color/good/image_2018-07-17_02-04-43-371.jpg,mahendra,good,train,mahendra-good-019,0,640,480,1128fd3c894161ae70c2d56786823555,eb6b8a88e86c1c9d
+dataset/color/good/image_2018-07-17_02-04-46-457.jpg,mahendra,good,train,mahendra-good-019,0,640,480,4966a482395a76c8d3ea121eabeebf5d,ee6ecccce81b9181
+dataset/color/good/image_2018-07-17_02-04-51-536.jpg,mahendra,good,train,mahendra-good-019,0,640,480,d61a9f4b15e4be69c8d3229b4c1987e5,e66fc9cd6c1c8885
+dataset/color/good/image_2018-07-17_02-05-30-665.jpg,mahendra,good,train,mahendra-good-019,0,640,480,355df9112a6658a945f193fce639875f,ea6ec4993993923a
+dataset/color/good/image_2018-07-17_02-05-36-804.jpg,mahendra,good,train,mahendra-good-019,0,640,480,3a62bf8acbe9ab0ccb5452687ebfe9fa,eb63c5cc3c1898b9
+dataset/color/good/image_2018-07-17_02-05-42-369.jpg,mahendra,good,train,mahendra-good-019,0,640,480,568499904761b61264d76ae1fefd70d1,b131e1c3e33f0fc0
+dataset/color/good/image_2018-07-17_02-05-45-384.jpg,mahendra,good,train,mahendra-good-019,0,640,480,30c6b34bad4e76029a56801a67057a28,bd21e1ce26c68c9e
+dataset/color/good/image_2018-07-17_02-05-51-680.jpg,mahendra,good,train,mahendra-good-019,0,640,480,785c1ab19341e412b6540f29ee89ed69,b321cee67e9e1218
+dataset/color/good/image_2018-07-17_02-05-56-281.jpg,mahendra,good,train,mahendra-good-019,0,640,480,de58ee1cc8795089908f27dd8f0764a6,b226e57183f69e18
+dataset/color/good/image_2018-07-17_02-06-00-115.jpg,mahendra,good,train,mahendra-good-019,0,640,480,af2a600c70d8c5e354a9a9b7862affa9,b830d2c36f0f87d8
+dataset/color/good/image_2018-07-17_02-06-03-352.jpg,mahendra,good,train,mahendra-good-019,0,640,480,4ca4169c7eb63375e6932da8e30da232,b130d2c3eb3f8f80
+dataset/color/good/image_2018-07-17_02-06-08-080.jpg,mahendra,good,train,mahendra-good-019,0,640,480,541dc19167472f072ad2089fbae79cc6,b93cc4f13987c1f0
+dataset/color/good/image_2018-07-17_02-06-14-457.jpg,mahendra,good,train,mahendra-good-019,0,640,480,6b489910e50c8e8d66d5706aa735d551,e766a694cc6c3496
+dataset/color/good/image_2018-07-17_02-06-19-632.jpg,mahendra,good,train,mahendra-good-019,0,640,480,288477543690cf18bec62bd710f26c2a,e363b4d4c86c9c9c
+dataset/color/good/image_2018-07-17_02-06-22-976.jpg,mahendra,good,train,mahendra-good-019,0,640,480,60c576b4d6bbb373802befc0a61b8edb,e76786c4cc6c949c
+dataset/color/good/image_2018-07-17_02-06-26-600.jpg,mahendra,good,train,mahendra-good-019,0,640,480,905d4894cab547878557150c23368136,e9699592cb6ab4b0
+dataset/color/good/image_2018-07-17_02-06-29-620.jpg,mahendra,good,train,mahendra-good-019,0,640,480,c6cd14796966988ea3056272e864f08e,ee6ac8c9b9399191
+dataset/color/good/image_2018-07-17_02-06-32-673.jpg,mahendra,good,train,mahendra-good-019,0,640,480,ef269411cc1cc95dd30c6a25ec482cb9,e666c6c8395b9515
+dataset/color/good/image_2018-07-17_02-06-35-904.jpg,mahendra,good,train,mahendra-good-019,0,640,480,c774edd538dc78c8c8184ef746bbe3a1,ef66c68c28c91d1d
+dataset/color/good/image_2018-07-17_02-06-39-576.jpg,mahendra,good,train,mahendra-good-019,0,640,480,0f8c95d84fca461839a10652b86c4244,bb63c2ce4dcc1cc4
+dataset/color/good/image_2018-07-17_02-06-43-236.jpg,mahendra,good,train,mahendra-good-019,0,640,480,2b242e0467e29983036cbc401bb3e6fe,eb4ec8b989398bb0
+dataset/color/good/image_2018-07-17_02-06-49-988.jpg,mahendra,good,train,mahendra-good-019,0,640,480,058a7ef653ca659f741ab54b815296be,b83870c1e1f93787
+dataset/color/good/image_2018-07-17_02-06-53-892.jpg,mahendra,good,train,mahendra-good-019,0,640,480,2be1227ffd00cf9aaf23505d6a759f90,9f1de0fc3c20e0ce
+dataset/color/good/image_2018-07-17_02-07-01-973.jpg,mahendra,good,train,mahendra-good-019,0,640,480,dd2defa5c1a6dbe85d71740f2fdcdd47,b13139c9c5c3e333

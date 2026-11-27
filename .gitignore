@@ -1,0 +1,37 @@
+# --- Data ----------------------------------------------------------------------
+# Photos come from two public datasets (see MODEL_PLAN.md, Sources). Too big for GitHub
+# (dataset.zip is ~607 MB; GitHub rejects files over 100 MB), and they live on Google Drive.
+dataset/
+dataset.zip
+# data/manifest.csv and data/excluded.csv ARE tracked: they define the splits.
+
+# --- Models and run outputs --------------------------------------------------------
+# Trained .keras models (from notebook 02) stay on Drive.
+models/*
+# The export for the apps IS tracked (model, labels, metadata, crop code, test photos)...
+!models/export/
+# ...except the reference variants, which the apps don't need.
+models/export/tflite_variants/
+
+# --- Caches and temporary work ---------------------------------------------------
+cache/
+export_work/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+node_modules/
+
+# --- Environments and editors ---------------------------------------------------
+.venv/
+venv/
+.env
+.vscode/
+.idea/
+
+# --- Claude Code: personal settings ------------------------------------------------
+.claude/settings.local.json
+
+# --- OS -------------------------------------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
