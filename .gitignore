@@ -35,3 +35,19 @@ venv/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# --- App (Flutter) -------------------------------------------------------------------
+# Copies made by app/tool/sync_model.dart from models/export/
+app/assets/model/
+# Flutter / Dart build output
+app/build/
+app/.dart_tool/
+app/.flutter-plugins
+app/.flutter-plugins-dependencies
+app/android/.gradle/
+app/android/local.properties
+app/ios/Pods/
+# Signing secrets: never commit
+app/android/key.properties
+*.jks
+*.keystore

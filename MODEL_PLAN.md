@@ -35,7 +35,7 @@ The output head for every model is global average pooling → dropout 0.2 → De
 
 ## 4. Training setup
 
-- **Framework:** TensorFlow / Keras on Google Colab (free GPU). Data comes from Google Drive: upload `seventx_prototype/` to `MyDrive` with `dataset.zip`; each notebook unzips the images to Colab's local disk (`/content/seventx`) and writes `data/`, `models/` and `results/` back to Drive. Keras exports directly to TFLite (native app) and TensorFlow.js (web page), so it works with either demo format.
+- **Framework:** TensorFlow / Keras on Google Colab (free GPU). Data comes from Google Drive: upload `seventx_prototype/` to `MyDrive` with `dataset.zip`; each notebook unzips the images to Colab's local disk (`/content/seventx`) and writes `data/`, `models/` and `results/` back to Drive. Keras exports directly to TFLite, which the native Flutter app runs on the device.
 - **Input:** 224×224 RGB, with the aspect ratio kept by padding. Keras MobileNetV3 and EfficientNet already rescale their inputs, so feed them raw 0–255 pixels and don't normalise twice.
 - **Augmentation (training only, applied on the fly):** random flip, rotation (±20°), zoom (±15%), brightness and contrast (±20%).
 - **Two training stages:**
@@ -60,7 +60,7 @@ Results template (`results/results.md`):
 
 ## 6. Choosing and exporting the model
 
-Detailed design for the export (both demos run the same `.tflite`: Android natively, the web page with the LiteRT / TFLite web runtime): [`plans/03_export.md`](plans/03_export.md).
+Detailed design for the export: [`plans/03_export.md`](plans/03_export.md). The app is a native Flutter app that runs the exported `.tflite` on the device (see §7b).
 
 - **Rule:** compare models on **validation** scores measured **after** TFLite quantization: E1 val accuracy and E1 val damaged recall (mean over 3 seeds). Pick the smallest model that is within ~1 point of the best on both. Switch to a larger model (e.g. EfficientNet-B0) only if it is clearly better on val damaged recall, not on accuracy alone.
 - **Test scores are not used to choose.** E1 test and E2 are computed once, after the choice, and reported as they are. E2 scores are test scores too (on the other dataset), so they don't decide the model either. If we ever let them, say so in the pitch. Speed counts too: EfficientNet-B0 needs ~6–7× more computation per image than MobileNetV3-Small, which matters on low-end phones and in the TF.js demo.
@@ -71,7 +71,7 @@ Detailed design for the export (both demos run the same `.tflite`: Android nativ
 - **Chosen: EfficientNet-B0** (on validation scores, float32): 92.1 ± 0.0% val accuracy against 89.7 ± 0.6% for MobileNetV3-Small, and 92.5% against 90.1% when tuned for 95% damaged recall. Notebook 03 confirms it after quantization and measures ms/image; if quantization costs more than ~1 point, ship float16, or fall back to MobileNetV3-Small if it is too slow on the phone.
 - **Export:**
   - `strawberry_2class.tflite`: float16, plus int8 if it keeps accuracy. For a native app.
-  - The web demo uses the same `.tflite` with the LiteRT / TFLite web runtime. TF.js conversion was dropped: it failed on Colab's Python 3.13, and one model file keeps both demos identical.
+  - TF.js conversion was dropped (it failed on Colab's Python 3.13). The app runs the `.tflite` natively. `preprocess.js` stays as a verified, Pillow-exact reference port, useful when porting the crop to Dart.
   - `labels.txt`: `good`, `damaged`.
   - The **crop-to-berry function** (`berry_box` in notebook 02). The model is trained on photos cropped to the berry, so the app must crop the same way before calling it, or tell the user to fill the frame with one berry.
 - **Decision threshold:** chosen on the shipped (quantized) model's **validation** predictions as the largest threshold giving ≥95% damaged recall, stored in `metadata.json` (never chosen on test). 0.5 is reported alongside it.
@@ -85,6 +85,7 @@ seventx_prototype/
     01_data_and_splits.md         data, splits and experiments (notebook 01)
     02_train_eval.md              detailed design for notebook 02
     03_export.md                  detailed design for notebook 03
+    04_app.md                     design for the grading app (Flutter, native Android)
   dataset/                        (exists)
   dataset.zip                     (exists) the file to upload to Google Drive
   papers/                         (exists)
@@ -100,6 +101,18 @@ seventx_prototype/
     runs.csv                      one row of metrics per run
     results.md                    table + confusion matrices + Grad-CAM images
 ```
+
+## 7b. App
+
+Design: [`plans/04_app.md`](plans/04_app.md).
+- **Stack:** a **native Flutter app** (Android APK; iOS possible later), **fully offline**.
+- **Model:** `strawberry_2class.tflite` runs on the device with `tflite_flutter`.
+- **Crop:** ported to Dart and verified against `models/export/test_vectors/`.
+- **Language:** Bahasa Indonesia, with an English toggle.
+- **Submission:** the **mobile** category (`.apk`).
+- **Changes along the way:**
+  - A web app (React PWA, then Capacitor) was planned first.
+  - Switched to native because the rubric scores a fitting architecture and an APK ready to install, and offline use is the main goal.
 
 ## 8. Order of work (rough hours, multi-day hackathon)
 
